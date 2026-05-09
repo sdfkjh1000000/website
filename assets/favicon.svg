@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#0C447C"/>
+  <!-- simplified shrimp silhouette in white -->
+  <g fill="#fff">
+    <!-- body curve -->
+    <path d="M 22 50 Q 20 35, 35 30 Q 50 26, 60 32 Q 64 38, 62 46 Q 70 46, 76 42 L 82 44 Q 84 48, 80 52 L 74 54 Q 66 58, 58 58 L 50 58 L 40 56 Q 28 56, 22 50 Z"/>
+    <!-- tail fan -->
+    <path d="M 78 44 L 88 40 Q 90 44, 88 48 Z"/>
+    <path d="M 80 50 L 90 50 Q 91 54, 88 56 Z"/>
+    <!-- eye -->
+    <circle cx="28" cy="44" r="2.5" fill="#0C447C"/>
+    <!-- antennae -->
+    <path d="M 24 42 Q 14 38, 8 32" stroke="#fff" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <path d="M 26 46 Q 16 46, 10 44" stroke="#fff" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

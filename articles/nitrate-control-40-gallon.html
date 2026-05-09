@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How I finally cracked nitrate control — 6 months of trial and error in my 40 gallon — Tank Talks</title>
+<meta name="description" content="My 40-gallon planted community tank had a nitrate problem for six months. I tried everything wrong before I tried the right things. This is the version of what I should have done from the start.">
+<link rel="canonical" href="https://tanktalks.sdfkjh.com/articles/nitrate-control-40-gallon.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How I finally cracked nitrate control — 6 months of trial and error in my 40 gallon — Tank Talks">
+<meta property="og:description" content="My 40-gallon planted community tank had a nitrate problem for six months. I tried everything wrong before I tried the right things. This is the version of what I should have done from the start.">
+<meta property="og:url" content="https://tanktalks.sdfkjh.com/articles/nitrate-control-40-gallon.html">
+<meta property="og:image" content="https://tanktalks.sdfkjh.com/assets/favicon.svg">
+<meta property="og:site_name" content="Tank Talks">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How I finally cracked nitrate control — 6 months of trial and error in my 40 gallon — Tank Talks">
+<meta name="twitter:description" content="My 40-gallon planted community tank had a nitrate problem for six months. I tried everything wrong before I tried the right things. This is the version of what I should have done from the start.">
+<meta name="twitter:image" content="https://tanktalks.sdfkjh.com/assets/favicon.svg">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="apple-touch-icon" href="../assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/styles.css">
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  var bar = document.getElementById('readingProgress');
+  if (!bar) return;
+  function update() {
+    var doc = document.documentElement;
+    var scrollTop = window.scrollY || doc.scrollTop;
+    var height = doc.scrollHeight - doc.clientHeight;
+    var pct = height > 0 ? (scrollTop / height) * 100 : 0;
+    bar.style.width = Math.min(100, Math.max(0, pct)) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+});
+</script>
+</head>
+<body>
+
+<div class="trending-bar">
+  <div class="container trending-inner">
+    <span class="trending-label"><span class="pulse"></span>Trending</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5.8 20.1a6.34 6.34 0 0 0 10.86-4.43V8.69a8.16 8.16 0 0 0 4.77 1.52V6.69z"/></svg>
+      TikTok
+    </span>
+    <div class="trending-tags">
+      <a href="https://www.tiktok.com/tag/aquarium" target="_blank" rel="noopener noreferrer" class="trending-tag">#aquarium</a>
+      <a href="https://www.tiktok.com/tag/fishkeeping" target="_blank" rel="noopener noreferrer" class="trending-tag">#fishkeeping</a>
+    </div>
+    <span class="trending-divider">·</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#FF4500"/><path d="M16.67 12.39a1.39 1.39 0 0 0-2.36-.99c-1.16-.83-2.75-1.36-4.5-1.42l.77-3.62 2.51.53a.99.99 0 1 0 .1-.45L10.4 5.81a.23.23 0 0 0-.27.17l-.86 4.05c-1.78.05-3.4.58-4.57 1.42a1.39 1.39 0 1 0-1.53 2.27 2.7 2.7 0 0 0-.03.4c0 2.04 2.37 3.69 5.3 3.69s5.3-1.65 5.3-3.69c0-.13-.01-.27-.03-.4a1.39 1.39 0 0 0 .96-1.33zM7.07 13.4a.99.99 0 1 1 1.97 0 .99.99 0 0 1-1.97 0zm5.51 2.6c-.6.6-1.78.65-2.13.65s-1.52-.05-2.13-.65a.23.23 0 0 1 .33-.33c.38.38 1.2.52 1.8.52s1.42-.14 1.8-.52a.23.23 0 1 1 .33.33zm-.16-1.62a.99.99 0 1 1 0-1.97.99.99 0 0 1 0 1.97z" fill="#fff"/></svg>
+      Reddit Hot
+    </span>
+    <div class="trending-tags" id="redditTags">
+      <a href="https://www.reddit.com/r/Aquariums/hot/" target="_blank" rel="noopener noreferrer" class="trending-tag" data-sub="Aquariums">r/Aquariums</a>
+      <a href="https://www.reddit.com/r/shrimptank/hot/" target="_blank" rel="noopener noreferrer" class="trending-tag" data-sub="shrimptank">r/shrimptank</a>
+    </div>
+    <span class="trending-divider">·</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24" fill="#FF0000"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+      YouTube Rising
+    </span>
+    <div class="trending-tags">
+      <a href="https://www.youtube.com/hashtag/aquascaping" target="_blank" rel="noopener noreferrer" class="trending-tag">#aquascaping</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="reading-progress" id="readingProgress"></div>
+
+<header class="article-header">
+  <div class="container">
+    <div class="article-breadcrumb">
+      <a href="../index.html">Home</a>
+      <span class="sep">›</span>
+      <a href="../index.html#fish">Fish</a>
+      <span class="sep">›</span>
+      Article
+    </div>
+    <div class="article-meta-top">
+      <span class="category-pill fish">Fish</span>
+      <span class="read-time">8 min read</span>
+    </div>
+    <h1 class="article-title">How I finally cracked nitrate control — 6 months of trial and error in my 40 gallon</h1>
+    <p class="article-lede">My 40-gallon planted community tank had a nitrate problem for six months. I tried everything wrong before I tried the right things. This is the version of what I should have done from the start.</p>
+    <div class="article-byline">
+      <span>By TankTalks</span>
+      <span class="sep"></span>
+      <span>Last updated May 9, 2026</span>
+    </div>
+    <div class="affiliate-banner">
+      <svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      <span>Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used. <a href="../legal/disclosure.html">Read our full disclosure →</a></span>
+    </div>
+  </div>
+</header>
+
+<article class="article-body">
+<p>For six months my 40-gallon planted community tank had a nitrate problem. Test kit consistently reading 60–80 ppm a few days after every water change, my rasboras hanging near the surface, my cherry shrimp colony refusing to grow despite stable parameters in every other respect, and my plants — particularly the supposedly-bulletproof Amazon swords — yellowing from the leaf tips inward.</p>
+<p>I tried everything wrong before I tried the right things. This article is the version of what I should have done from the start, written for the version of me who was about to spend $200 on nitrate-removing filter media that didn't work.</p>
+<h2>What nitrate actually is, and what counts as "high"</h2>
+<p>Nitrate (NO₃⁻) is the end product of the nitrogen cycle. Fish produce ammonia, your biofilter bacteria oxidize ammonia into nitrite, and another set of bacteria oxidize nitrite into nitrate. Ammonia and nitrite are highly toxic at fractions of 1 ppm. Nitrate is much less toxic — and that gap is where people get confused.</p>
+<p>Nitrate doesn't cause acute death at typical aquarium levels. The damage is cumulative. The peer-reviewed literature on nitrate toxicity in freshwater organisms (Camargo et al., 2005, <em>Chemosphere</em>) reports that lethal concentrations vary enormously by species — from under 10 ppm for some sensitive amphibians to several hundred ppm for hardy adult fish. In aquarium terms, this means there's no universal "danger threshold." What matters is the species you keep.</p>
+<p>My working thresholds, calibrated from research and from experience:</p>
+<table>
+<tr><th>Nitrate level</th><th>What it means</th></tr>
+<tr><td>0–20 ppm</td><td>Healthy. Most fish and invertebrates do well here.</td></tr>
+<tr><td>20–40 ppm</td><td>Acceptable for hardy community fish. Sensitive species and shrimp begin showing reduced breeding and color.</td></tr>
+<tr><td>40–80 ppm</td><td>Genuinely problematic. Above 40 ppm, you start to see immune suppression, reduced disease resistance, fin damage in sensitive species, and behavioral changes.</td></tr>
+<tr><td>80+ ppm</td><td>Harmful for most fish, lethal for shrimp and sensitive species over time.</td></tr>
+<tr><td>160+ ppm</td><td>Emergency. Reduce gradually over 24–48 hours, not in a single large change.</td></tr>
+</table>
+<p>The EPA's drinking water standard for nitrate-nitrogen is 10 mg/L (which corresponds to roughly 45 mg/L as NO₃, the unit most aquarium test kits report). That's the limit for <em>human consumption</em>. Fish in chronic exposure have different tolerances — some higher, some considerably lower.</p>
+<p>For my tank — community rasboras and cherry shrimp — my target became under 20 ppm at all times. The shrimp were the limiting factor; they're noticeably more nitrate-sensitive than the fish.</p>
+<h2>What didn't work</h2>
+<p>Six approaches I tried before I figured out what was actually happening.</p>
+<p><strong>Bigger water changes, less frequently.</strong> I went from weekly 25% changes to bi-weekly 50% changes thinking I'd net out ahead. The math doesn't work that way. Two weeks of accumulation followed by a 50% change leaves you at the same long-term steady state as one week of accumulation followed by a 25% change, except now your fish get hit with a bigger osmotic shock at each change. The going from polluted water to fresh, clean water can be just as harmful to your fish as the nitrates themselves principle is real. I went back to weekly changes.</p>
+<p><strong>Nitrate-adsorbing filter media.</strong> Brand-name nitrate removers (Seachem De*Nitrate, API NitraZorb, etc.) work briefly, then exhaust their capacity within weeks and need replacement. The cost-per-ppm-removed is many times higher than just doing more frequent water changes. More importantly, they treat the symptom. Mine bought me a few weeks of slightly lower nitrate before it crept back up because the underlying production rate hadn't changed.</p>
+<p><strong>Bacterial supplements promising "denitrification."</strong> Bottled denitrifying bacteria for freshwater have limited evidence behind them. Denitrifying bacteria operate in very low oxygen environments, deep in filter media or in deep sand beds, and are difficult to establish with bottled products. Saltwater systems with deep sand beds genuinely host denitrifying populations. Standard freshwater hang-on-back or canister filters don't have the right oxygen gradient to support them.</p>
+<p><strong>Chemical "binders."</strong> Products marketed to "lock up" nitrate. Same category as the bacterial supplements — limited evidence in real-world freshwater conditions, and even when they work, the nitrate is still in the system. You're paying to make the test reading lower without addressing the cause.</p>
+<p><strong>Reducing feeding aggressively.</strong> This actually does help, but I overdid it — fish were visibly underfed, and I still had high nitrate because feeding wasn't the dominant input.</p>
+<p><strong>An algae scrubber.</strong> I rigged up an LED-lit container of Chaeto algae plumbed into the return path. It worked, slightly. But the maintenance was constant, the visual was ugly, and the nitrate reduction was modest compared to a proper planted tank.</p>
+<h2>What actually worked</h2>
+<p>Three things, in roughly this order.</p>
+<h3>1. I tested my tap water</h3>
+<p>This was the embarrassing one. I'd been doing weekly water changes for six months without ever testing the water I was adding to the tank. When I finally tested it, my tap water read 25 ppm nitrate.</p>
+<p>That single fact reframed the whole problem. Every water change was adding 25 ppm of nitrate before any biological accumulation. A 25% change wasn't dropping nitrate by 25% — it was lowering tank nitrate toward whatever the steady state was given a 25-ppm input.</p>
+<p>If you're fighting persistent nitrate, this is the first thing to check. It's free, takes thirty seconds with a test kit you already own, and explains a frustrating fraction of "I do everything right and nitrate is still high" cases. Tap water nitrates can be a substantial portion of total tank nitrate, especially in agricultural areas where groundwater and surface water carry fertilizer runoff.</p>
+<p>If your tap water tests above 10 ppm, your options are: contact your municipal water utility (some run seasonally and you can change-time around peaks), use bottled or RO water for water changes (expensive long-term but works), or invest in an RO/DI unit (a few hundred dollars upfront, unlimited zero-nitrate water afterward).</p>
+<div class="product-card">
+  <div class="pc-kicker">🧪 Recommended for diagnosis:</div>
+  <div class="pc-body">
+    <div class="pc-icon">🧪</div>
+    <div>
+      <div class="pc-name">API Freshwater Master Test Kit.</div>
+      <div class="pc-desc">Standard liquid test kit; reliable for ammonia, nitrite, nitrate, and pH at the concentrations that matter. Test strips are too inaccurate for this purpose.</div>
+      <div class="disclosure-line">Affiliate link · we earn a small commission</div>
+    </div>
+    <a href="#" class="pc-cta">View on Amazon</a>
+  </div>
+</div>
+<p>For my tank, I started using a 50/50 mix of tap and RO water for changes. Combined input nitrate dropped from 25 to roughly 12 ppm, which immediately made every water change actually effective.</p>
+<h3>2. I rebuilt the planting</h3>
+<p>My tank had plants — Amazon swords, Anubias, some Java fern. None of them are particularly fast-growing. The Anubias grew at a rate that probably consumed a meaningful amount of nitrate annually but not weekly.</p>
+<p>The shift was adding fast-growing plants specifically for nitrate uptake. Heavily plant any nitrate-laden aquarium with fast growing live plants, and they will remove all the nitrate from the aquarium water within days or weeks. The species that actually move the needle:</p>
+<ul>
+<li><strong>Hornwort</strong> (<em>Ceratophyllum demersum</em>). Floating or rooted, grows several inches a week, no substrate or fertilizer required. Single most effective nitrate-consuming plant for low-tech tanks.</li>
+<li><strong>Water sprite</strong> (<em>Ceratopteris thalictroides</em>). Floating or planted. Soft, lacy leaves, fast growth, easy to trim and propagate.</li>
+<li><strong>Frogbit and red root floaters.</strong> Surface plants with extensive root systems that strip nitrates from the water column directly. Bonus: shade for the tank below, cover for surface-dwelling fish.</li>
+<li><strong>Duckweed.</strong> Hugely effective. Also visually annoying and extremely difficult to remove once established. I'd recommend literally anything else first.</li>
+</ul>
+<p>I added a thick mat of frogbit at the surface and a generous bunch of hornwort in the back of the tank. Within three weeks the difference was visible on the test kit. Within six weeks, nitrate in the established tank had dropped from 60–80 ppm pre-change to under 20 ppm pre-change.</p>
+<div class="product-card">
+  <div class="pc-kicker">🌿 Recommended for nitrate uptake:</div>
+  <div class="pc-body">
+    <div class="pc-icon">🌿</div>
+    <div>
+      <div class="pc-name">Frogbit + hornwort starter portion.</div>
+      <div class="pc-desc">Both float — no planting required, no substrate needed. The two together cover surface and water column.</div>
+      <div class="disclosure-line">Affiliate link · we earn a small commission</div>
+    </div>
+    <a href="#" class="pc-cta">View on Amazon</a>
+  </div>
+</div>
+<h3>3. I reduced inputs</h3>
+<p>After the plants were established, I revisited feeding. Not aggressively undefeeding, but more deliberately. I switched from "broadcast feeding once a day" to "two small feedings of what fish actually consume in a minute." Uneaten food was a meaningful nitrate input I hadn't accounted for.</p>
+<p>I also reduced stocking slightly. The tank had crept from "moderately stocked" to "lightly overstocked" through a couple of impulse buys. Rehoming three fish to a friend's larger tank made a noticeable difference. This is unglamorous advice but it works: the input side of the equation matters as much as the output side.</p>
+<h2>The system that holds steady</h2>
+<p>Six months later, my 40-gallon runs at 10–18 ppm nitrate consistently, with weekly 25% water changes using 50/50 tap and RO water. The shrimp colony is breeding. The plants are thriving. The fish look healthy. I trim hornwort and frogbit weekly, removing about a coffee-mug-volume of plant matter — that's nitrogen leaving the system permanently.</p>
+<p>The lesson, if there is one: nitrate isn't a <em>problem</em> in a healthy aquarium, it's a <em>byproduct</em>. You can't eliminate it without breaking the system that makes it. What you can do is make sure your inputs (food, fish waste, source water) and outputs (water changes, plant growth) are balanced at a level where steady-state nitrate stays in the safe range for your livestock.</p>
+<p>For my future setups I'd start differently. I'd test tap water before stocking a tank, I'd plant heavily with fast-growers from day one, and I'd stock conservatively. Most of the nitrate problems people fight in established tanks could have been designed around upfront.</p>
+<h2>A quick note on planted tank fertilizers</h2>
+<p>This part confuses people. Many comprehensive plant fertilizers (Tropica Specialised, Seachem Flourish Nitrogen, ADA Brighty K) add nitrate deliberately, because heavily planted tanks with strong lighting and CO2 inject can run nitrate to zero, which causes plant deficiency. When nitrate drops to 0–20 ppm, plant leaves can turn yellow or translucent (especially starting at the leaf tips) and eventually melt away because the plant is forced to consume nutrients from its old leaves.</p>
+<p>If you ever find yourself adding nitrate to a planted tank, don't treat it as paradoxical — it means your plants are doing their job so well that they've become the bottleneck. The fix is a small dose of N-containing fertilizer, not a celebration. (Most low-tech tanks like mine never reach this point. This advice is for high-light, CO2-injected setups.)</p>
+<h2>What I'd skip</h2>
+<p>Buying nitrate-removing filter media. Buying denitrifying bacteria supplements. Buying nitrate-binding chemicals. None of them are cost-effective long-term. Even when they technically work, they're treating a number on a test kit rather than fixing the system that produces the number.</p>
+<p>If your tank is fighting nitrate, run through these in order:</p>
+<ol>
+<li>Test your tap water.</li>
+<li>Plant fast-growing species heavily (hornwort, frogbit, water sprite).</li>
+<li>Reconsider stocking and feeding.</li>
+<li>Increase water change frequency rather than volume.</li>
+<li>If tap water nitrate is high, consider RO mixing or RO/DI.</li>
+</ol>
+<p>Skip everything else.</p>
+<hr>
+<h3>Recommended gear for this article</h3>
+<table>
+<tr><th>Product</th><th>Why it's here</th></tr>
+<tr><td>API Freshwater Master Test Kit</td><td>Test the tap water and the tank; both matter</td></tr>
+<tr><td>Frogbit (starter portion)</td><td>Fast surface plant for nitrate uptake</td></tr>
+<tr><td>Hornwort (bunch)</td><td>Workhorse nitrate-consuming stem plant</td></tr>
+<tr><td>Aquarium water-change pump (Python or similar)</td><td>Makes weekly changes actually sustainable long-term</td></tr>
+<tr><td>Compact RO unit (under-sink)</td><td>If your tap water is high in nitrate, this pays for itself in a year</td></tr>
+</table>
+<hr>
+<h3>Sources</h3>
+<ol>
+<li>Camargo, J.A., Alonso, A., & Salamanca, A. (2005). <em>Nitrate toxicity to aquatic animals: a review with new data for freshwater invertebrates.</em> Chemosphere 58(9): 1255–1267.</li>
+<li>U.S. Environmental Protection Agency — <em>National Primary Drinking Water Regulations: Nitrate.</em> Maximum contaminant level 10 mg/L NO₃-N.</li>
+<li>Boyd, C.E. & Tucker, C.S. (1998). <em>Pond Aquaculture Water Quality Management.</em> Kluwer Academic Publishers. Standard reference on nitrogen-cycle dynamics in aquaculture.</li>
+</ol>
+<p><em>Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used.</em></p>
+</article>
+
+
+<section class="gear-roundup">
+  <div class="gear-roundup-inner">
+    <h2>Recommended gear for this article</h2>
+    <p class="intro">All affiliate links · we earn a small commission at no cost to you</p>
+    <div class="gear-list">
+      <a href="#" class="gear-item">
+        <div class="gi-icon blue">🧪</div>
+        <div>
+          <div class="gi-name">API Freshwater Master Test Kit</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon green">🌱</div>
+        <div>
+          <div class="gi-name">Frogbit (starter portion)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon green">🌿</div>
+        <div>
+          <div class="gi-name">Hornwort (bunch)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon amber">💧</div>
+        <div>
+          <div class="gi-name">Aquarium Water-Change Pump (Python)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon blue">🚰</div>
+        <div>
+          <div class="gi-name">Compact RO Unit (under-sink)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="sources">
+  <h2>Sources</h2>
+  <ol>
+    <li>Camargo, J.A., Alonso, A., & Salamanca, A. (2005). Nitrate toxicity to aquatic animals: a review with new data for freshwater invertebrates. Chemosphere 58(9): 1255–1267.</li>
+    <li>U.S. Environmental Protection Agency — drinking water standards: nitrate MCL of 10 mg/L NO₃-N (45 mg/L as NO₃).</li>
+    <li>Boyd, C.E. & Tucker, C.S. (1998). Pond Aquaculture Water Quality Management. Kluwer Academic Publishers.</li>
+  </ol>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2><span class="num">— Keep reading</span>Related articles</h2>
+    </div>
+    <div class="post-grid">
+      <a href="nitrogen-cycle-properly-explained.html" class="post-card">
+        <div class="post-thumb guide">📖</div>
+        <div class="post-card-body">
+          <div class="post-meta">Guide · 9 min</div>
+          <h3>The nitrogen cycle, properly explained</h3>
+        </div>
+      </a>
+      <a href="best-nano-fish-10-gallon-planted-tank-2026.html" class="post-card">
+        <div class="post-thumb fish">🐠</div>
+        <div class="post-card-body">
+          <div class="post-meta">Fish · 6 min</div>
+          <h3>Best nano fish for a 10 gallon planted tank</h3>
+        </div>
+      </a>
+      <a href="bucephalandra-keeping-buce-alive.html" class="post-card">
+        <div class="post-thumb plants">🌿</div>
+        <div class="post-card-body">
+          <div class="post-meta">Plants · 7 min</div>
+          <h3>Bucephalandra: keeping "buce" alive</h3>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="article-footer-cta">
+  <div class="container">
+    <h2>Liked this? Get the <em>weekly digest</em>.</h2>
+    <p>One substantive article, one thing we learned in our own tanks, and one product we're using. Sundays only.</p>
+    <a href="../index.html#newsletter" class="btn-primary">Subscribe to the newsletter →</a>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3>Tank Talks</h3>
+        <p>The freshwater aquarium community for fish keepers, shrimp enthusiasts, and plant obsessives at every level. No saltwater snobbery. Just real aquarium talk.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Fish</h4>
+        <ul>
+          <li><a href="#">Bettas</a></li>
+          <li><a href="#">Tetras</a></li>
+          <li><a href="#">Rasboras</a></li>
+          <li><a href="#">Corydoras</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Shrimp & Plants</h4>
+        <ul>
+          <li><a href="cherry-shrimp-breeding-colony-not-growing.html">Cherry shrimp</a></li>
+          <li><a href="neocaridina-vs-caridina-first-shrimp.html">Crystal shrimp</a></li>
+          <li><a href="java-moss-vs-christmas-moss.html">Java moss</a></li>
+          <li><a href="bucephalandra-keeping-buce-alive.html">Bucephalandra</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="nitrogen-cycle-properly-explained.html">Nitrogen cycle</a></li>
+          <li><a href="#">Water params</a></li>
+          <li><a href="#">Stocking calculator</a></li>
+          <li><a href="../legal/about.html">About</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-disclosure">
+      Tank Talks participates in the Amazon Services LLC Associates Program. As an Amazon Associate we earn from qualifying purchases. We may also earn commissions from other affiliate programs at no extra cost to you. <a href="../legal/disclosure.html">Affiliate disclosure</a> · <a href="../legal/editorial-standards.html">Editorial standards</a> · <a href="../legal/privacy.html">Privacy</a> · <a href="../legal/terms.html">Terms</a> · <a href="../legal/privacy.html#your-rights">Your Privacy Choices</a> · © 2026 Tank Talks · Made for freshwater lovers
+    </div>
+  </div>
+</footer>
+<script>
+// Trending bar: live-fetch Reddit Hot from r/Aquariums and r/shrimptank.
+// Falls back to static "r/Aquariums" / "r/shrimptank" chips if the fetch fails.
+// TikTok and YouTube remain link-out only (no public no-auth API for those).
+(function() {
+  var container = document.getElementById('redditTags');
+  if (!container) return;
+  var chips = container.querySelectorAll('.trending-tag[data-sub]');
+  chips.forEach(function(chip) {
+    var sub = chip.getAttribute('data-sub');
+    var url = 'https://www.reddit.com/r/' + encodeURIComponent(sub) + '/hot.json?limit=5&raw_json=1';
+    fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.data || !data.data.children || !data.data.children.length) return;
+        // pick first non-stickied post
+        var post = data.data.children
+          .map(function(c) { return c.data; })
+          .find(function(p) { return p && !p.stickied; });
+        if (!post) return;
+        var title = post.title || '';
+        if (title.length > 48) title = title.slice(0, 45).trim() + '…';
+        chip.textContent = 'r/' + sub + ' · ' + title;
+        chip.setAttribute('href', 'https://www.reddit.com' + post.permalink);
+        chip.setAttribute('title', post.title);
+      })
+      .catch(function() { /* keep static fallback */ });
+  });
+})();
+</script>
+</body>
+</html>

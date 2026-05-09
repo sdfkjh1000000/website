@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bucephalandra: the beginner's guide to keeping "buce" alive — Tank Talks</title>
+<meta name="description" content="I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome.">
+<link rel="canonical" href="https://tanktalks.sdfkjh.com/articles/bucephalandra-keeping-buce-alive.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Bucephalandra: the beginner's guide to keeping "buce" alive — Tank Talks">
+<meta property="og:description" content="I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome.">
+<meta property="og:url" content="https://tanktalks.sdfkjh.com/articles/bucephalandra-keeping-buce-alive.html">
+<meta property="og:image" content="https://tanktalks.sdfkjh.com/assets/favicon.svg">
+<meta property="og:site_name" content="Tank Talks">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bucephalandra: the beginner's guide to keeping "buce" alive — Tank Talks">
+<meta name="twitter:description" content="I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome.">
+<meta name="twitter:image" content="https://tanktalks.sdfkjh.com/assets/favicon.svg">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="apple-touch-icon" href="../assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/styles.css">
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  var bar = document.getElementById('readingProgress');
+  if (!bar) return;
+  function update() {
+    var doc = document.documentElement;
+    var scrollTop = window.scrollY || doc.scrollTop;
+    var height = doc.scrollHeight - doc.clientHeight;
+    var pct = height > 0 ? (scrollTop / height) * 100 : 0;
+    bar.style.width = Math.min(100, Math.max(0, pct)) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+});
+</script>
+</head>
+<body>
+
+<div class="trending-bar">
+  <div class="container trending-inner">
+    <span class="trending-label"><span class="pulse"></span>Trending</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5.8 20.1a6.34 6.34 0 0 0 10.86-4.43V8.69a8.16 8.16 0 0 0 4.77 1.52V6.69z"/></svg>
+      TikTok
+    </span>
+    <div class="trending-tags">
+      <a href="https://www.tiktok.com/tag/aquarium" target="_blank" rel="noopener noreferrer" class="trending-tag">#aquarium</a>
+      <a href="https://www.tiktok.com/tag/fishkeeping" target="_blank" rel="noopener noreferrer" class="trending-tag">#fishkeeping</a>
+    </div>
+    <span class="trending-divider">·</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12" fill="#FF4500"/><path d="M16.67 12.39a1.39 1.39 0 0 0-2.36-.99c-1.16-.83-2.75-1.36-4.5-1.42l.77-3.62 2.51.53a.99.99 0 1 0 .1-.45L10.4 5.81a.23.23 0 0 0-.27.17l-.86 4.05c-1.78.05-3.4.58-4.57 1.42a1.39 1.39 0 1 0-1.53 2.27 2.7 2.7 0 0 0-.03.4c0 2.04 2.37 3.69 5.3 3.69s5.3-1.65 5.3-3.69c0-.13-.01-.27-.03-.4a1.39 1.39 0 0 0 .96-1.33zM7.07 13.4a.99.99 0 1 1 1.97 0 .99.99 0 0 1-1.97 0zm5.51 2.6c-.6.6-1.78.65-2.13.65s-1.52-.05-2.13-.65a.23.23 0 0 1 .33-.33c.38.38 1.2.52 1.8.52s1.42-.14 1.8-.52a.23.23 0 1 1 .33.33zm-.16-1.62a.99.99 0 1 1 0-1.97.99.99 0 0 1 0 1.97z" fill="#fff"/></svg>
+      Reddit Hot
+    </span>
+    <div class="trending-tags" id="redditTags">
+      <a href="https://www.reddit.com/r/Aquariums/hot/" target="_blank" rel="noopener noreferrer" class="trending-tag" data-sub="Aquariums">r/Aquariums</a>
+      <a href="https://www.reddit.com/r/shrimptank/hot/" target="_blank" rel="noopener noreferrer" class="trending-tag" data-sub="shrimptank">r/shrimptank</a>
+    </div>
+    <span class="trending-divider">·</span>
+    <span class="trending-source">
+      <svg viewBox="0 0 24 24" fill="#FF0000"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+      YouTube Rising
+    </span>
+    <div class="trending-tags">
+      <a href="https://www.youtube.com/hashtag/aquascaping" target="_blank" rel="noopener noreferrer" class="trending-tag">#aquascaping</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="reading-progress" id="readingProgress"></div>
+
+<header class="article-header">
+  <div class="container">
+    <div class="article-breadcrumb">
+      <a href="../index.html">Home</a>
+      <span class="sep">›</span>
+      <a href="../index.html#plants">Plants</a>
+      <span class="sep">›</span>
+      Article
+    </div>
+    <div class="article-meta-top">
+      <span class="category-pill plants">Plants</span>
+      <span class="read-time">7 min read</span>
+    </div>
+    <h1 class="article-title">Bucephalandra: the beginner's guide to keeping "buce" alive</h1>
+    <p class="article-lede">I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome.</p>
+    <div class="article-byline">
+      <span>By TankTalks</span>
+      <span class="sep"></span>
+      <span>Last updated May 9, 2026</span>
+    </div>
+    <div class="affiliate-banner">
+      <svg class="info-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      <span>Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used. <a href="../legal/disclosure.html">Read our full disclosure →</a></span>
+    </div>
+  </div>
+</header>
+
+<article class="article-body">
+<p>I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome in substrate. By the fourth attempt I'd figured out what every Buce keeper eventually does: this plant wants almost nothing from you, but it has very specific opinions about <em>how</em> you give it that nothing.</p>
+<p>The good news: once you understand those opinions, Buce is genuinely one of the easiest plants in the freshwater hobby. The slow growth that frustrates new keepers is also why an established clump basically takes care of itself for years.</p>
+<p>This guide covers the four things that actually matter for keeping Buce alive: how to attach it, how much light to give it, why it "melts" and what to do when it does, and the parameter window that keeps it healthy long-term.</p>
+<h2>What you're actually buying</h2>
+<p>Bucephalandra is a genus of rheophytic flowering plants endemic to the island of Borneo — meaning they grow on rocks in fast-flowing streams that flood and drain seasonally. In dry season they grow emersed (above water); in wet season they grow submerged. This natural amphibious habit is what makes them work in aquariums, terrariums, and paludariums alike.</p>
+<p>The taxonomy is messier than the trade implies. There are roughly 30 described species and hundreds of "trade names" — Wavy Green, Brownie Ghost, Skeleton King, Kedagang, Theia, Mini Coin — most of which are not formally described species and may overlap or duplicate each other. For care purposes, the differences between trade varieties are smaller than sellers want you to believe. The same care guide works for almost all of them.</p>
+<p>Most Buce sold at fish stores and online has been grown emersed at Indonesian or Taiwanese nurseries. When you submerge it, the emersed leaves will often die and be replaced by submerged-form leaves. This conversion is normal and looks alarming. More on it below.</p>
+<h2>Rule one: never bury the rhizome</h2>
+<p>This is the single most important thing to know, and it's the single most common reason new Buce dies.</p>
+<p>Bucephalandra grows from a horizontal stem called a rhizome — a thick, slightly woody stalk that creeps along the surface it's attached to, sending roots downward and leaves upward. The rhizome contains the plant's nutrient stores. If it gets buried in substrate, oxygen exchange stops, the rhizome rots, and within a few weeks the plant is gone regardless of how careful you are with everything else.</p>
+<p>Buce attaches to hardscape — driftwood, lava rock, dragon stone, slate. You have three options:</p>
+<p><strong>Aquarium-safe super glue gel.</strong> Fastest method. A small dab on the rhizome (not the leaves), pressed against the rock or wood for 10–15 seconds, holds permanently. Use the gel formula, not liquid — gel stays where you put it. Cyanoacrylate gel is reef-safe and inert once cured, so this is the standard method.</p>
+<div class="product-card">
+  <div class="pc-kicker">💧 Recommended for this fix:</div>
+  <div class="pc-body">
+    <div class="pc-icon">💧</div>
+    <div>
+      <div class="pc-name">Aquarium-safe super glue gel.</div>
+      <div class="pc-desc">Look for a small bottle labeled "gel" with cyanoacrylate as the active ingredient. Liquid super glue runs everywhere and produces a white film; gel doesn't.</div>
+      <div class="disclosure-line">Affiliate link · we earn a small commission</div>
+    </div>
+    <a href="#" class="pc-cta">View on Amazon</a>
+  </div>
+</div>
+<p><strong>Cotton thread or fishing line.</strong> Wrap the rhizome to the hardscape until the plant's own roots take hold (usually 2–3 weeks). Cotton thread dissolves on its own; fishing line needs to be removed or cut once roots establish. Slower than glue but causes zero stress to the rhizome.</p>
+<p><strong>Wedging.</strong> For some hardscape with natural cracks, you can simply jam the rhizome into a gap. This works if the gap is the right size; otherwise the plant drifts free and ends up at the back of the tank.</p>
+<p>Lava rock is the ideal attachment surface because its porous texture gives roots maximum grip. Smooth river rocks work but take longer for roots to establish.</p>
+<h2>Rule two: low to medium light, no exceptions</h2>
+<p>Buce evolved as a shade plant in Bornean stream understories. High light won't kill it directly, but it triggers two cascading problems: leaves shrink to reduce light absorption, and algae — black beard algae especially — colonizes the slow-growing leaves faster than the plant can shed them.</p>
+<p>The practical guidance most experienced keepers converge on: aim for low to medium light, with a 6–8 hour photoperiod. If you're running a high-light tank for stem plants or carpet plants, place Buce in shaded zones — under driftwood overhangs, behind taller plants, on the shaded side of rocks. Due to their flexible light requirements, they can be grown in shaded areas of the aquarium or in full light, but algae becomes much harder to manage at high light intensity given how slowly Buce grows.</p>
+<p><strong>CO2 is optional.</strong> Buce will grow without it. Adding CO2 speeds growth and intensifies coloration — particularly the iridescent purples and blues that make rare varieties valuable — but it's not required for survival or healthy growth.</p>
+<p><strong>Fertilizer is helpful.</strong> Since Buce is an epiphyte feeding from the water column rather than the substrate, liquid fertilizers (especially those providing potassium and trace elements) noticeably support healthier leaves. If you keep shrimp, use a shrimp-safe fertilizer — most comprehensive plant fertilizers contain copper, which is harmless to plants and fish but lethal to shrimp.</p>
+<h2>Rule three: melt is normal; rot is not</h2>
+<p>"Melting" is the term hobbyists use for sudden leaf loss in Buce, Cryptocoryne, and a handful of other plants. The leaves yellow, soften, fall off, and the plant looks like it's dying.</p>
+<p>In Buce, melt happens for two reasons. The first is conversion from emersed to submerged growth — the plant is shedding leaves grown in air and replacing them with leaves adapted for underwater life. This is normal and unavoidable for newly purchased plants. Leave the rhizome alone, maintain stable conditions, and new submerged leaves will emerge within 3–6 weeks.</p>
+<p>The second is osmotic shock from sudden parameter changes. Moving Buce from a tank with TDS 150 ppm to one with 300 ppm, or shifting temperature by more than a few degrees, or changing pH significantly will trigger melt even on established plants. The fix is patience and stability.</p>
+<p><strong>Critical distinction: melt versus rot.</strong> Melted leaves come off cleanly, the rhizome stays firm and green inside. Rot is different — leaves turn mushy, the rhizome itself becomes soft and dark, and there's often a sulfurous smell. If you can crush the rhizome between your fingers, it's rotted and the plant is gone. If the rhizome is firm, the plant is alive regardless of how few leaves remain. New shoots will emerge in 3–6 weeks.</p>
+<p>If melt starts, do not throw the plant away. Trim off mush and dead leaves, leave the rhizome attached, and wait. Even if all the leaves have melted or fallen off, as long as the rhizome is intact and firm, new growth can emerge. This is the defining hardiness of the genus.</p>
+<h2>Rule four: stable parameters, cooler rather than warmer</h2>
+<p>Buce tolerates a wide range of water chemistry. Where it doesn't tolerate well is <em>change</em>.</p>
+<p>The consensus parameter window from established growers and nurseries:</p>
+<table>
+<tr><th>Parameter</th><th>Target</th></tr>
+<tr><td>Temperature</td><td>71–79°F (22–26°C); above 82°F triggers stress</td></tr>
+<tr><td>pH</td><td>6.0–8.0</td></tr>
+<tr><td>GH</td><td>4–8 °dGH</td></tr>
+<tr><td>KH</td><td>3–6 dKH</td></tr>
+<tr><td>Flow</td><td>Moderate to high — Buce evolved in fast-flowing streams</td></tr>
+</table>
+<p>Two parameters worth highlighting:</p>
+<p><strong>Temperature matters more than people say.</strong> Buce comes from cooler montane streams in Borneo, not lowland tropical water. Bucephalandra species have less stress/melting problems with cooler water, although they can still be grown at discus temperatures (above 80F/27C). If you keep your tank in the high 70s for warm-water fish, Buce will be fine; if you push above 82°F regularly, expect melt issues.</p>
+<p><strong>Flow matters more than people say.</strong> This contradicts the common "Buce is like Anubias, plant it in low flow" advice. In their native habitat they're rheophytes — plants adapted specifically to fast water. Stagnant placement in the back corner of a tank often produces stunted, algae-prone growth. A moderate current keeps detritus off the leaves and supplies the dissolved CO2 and nutrients the plant pulls from the water column.</p>
+<h2>Buying without getting burned</h2>
+<p>Buce pricing is wild. The same nursery-grown plant might be $5 as "Wavy Green" or $40 as "Brownie Ghost" depending on what name a seller assigns. A few honest filters:</p>
+<p><strong>Tissue culture vs. emersed-grown.</strong> Tissue culture cups are sterile (no snails, no algae spores, no parasites) but the plants are small, fragile, and have zero immunity to the bacteria in your tank — they melt easily on transition. Emersed-grown clumps are bigger, more robust, and convert faster, but they may carry hitchhikers. Quarantine for a week in a separate container before adding to a stocked tank.</p>
+<p><strong>Avoid wild-collected.</strong> Wild harvesting is a real conservation concern in Borneo. Tank-grown or tissue-cultured plants are more sustainable, healthier, and pest-free.</p>
+<p><strong>Cheap "starter" varieties are fine.</strong> Kedagang, Wavy Green, and Mini Coin are widely available, hardy, and visually as interesting as the rare varieties for someone who isn't already a collector. Spend $5–10 to learn the plant before buying $40 specimens.</p>
+<div class="product-card">
+  <div class="pc-kicker">🌿 Recommended for this:</div>
+  <div class="pc-body">
+    <div class="pc-icon">🌿</div>
+    <div>
+      <div class="pc-name">Tissue culture Bucephalandra "Wavy Green" or "Kedagang" cup.</div>
+      <div class="pc-desc">Pest-free, easy entry-level variety, $8–15 typical price.</div>
+      <div class="disclosure-line">Affiliate link · we earn a small commission</div>
+    </div>
+    <a href="#" class="pc-cta">View on Amazon</a>
+  </div>
+</div>
+<h2>What to expect over time</h2>
+<p>In a low-tech tank with low light and no CO2, expect a new leaf every 3–4 weeks per growing point. With CO2, medium light, and proper fertilization, that doubles. Either way, this is a slow plant. A clump that looks sparse at purchase will look full within 6 months and lush within a year.</p>
+<p>A well-established Buce will eventually outgrow its original attachment point. Propagation is straightforward: with sharp clean scissors, cut the rhizome at a natural bend (where you see a clear separation between two clumps of leaves). Both pieces will continue growing. Attach the cutting to a new location using the same methods above.</p>
+<p>The reward for patience is genuinely beautiful — iridescent leaves that catch light differently from every angle, a sculptural quality that fast-growing plants don't have, and a slow, measured pace that fits the way mature aquariums actually develop. Buce is the kind of plant that makes a tank look intentional rather than busy.</p>
+<hr>
+<h3>Recommended gear for this article</h3>
+<table>
+<tr><th>Product</th><th>Why it's here</th></tr>
+<tr><td>Aquarium-safe cyanoacrylate gel</td><td>The fastest, most reliable way to attach rhizome plants</td></tr>
+<tr><td>Tissue culture Bucephalandra (entry variety)</td><td>Pest-free starter; learn the plant before splurging on rare varieties</td></tr>
+<tr><td>Liquid plant fertilizer (shrimp-safe)</td><td>Buce feeds from the water column; trace elements help</td></tr>
+<tr><td>Lava rock (small/medium pieces)</td><td>Best attachment surface — porous, light, and shapes well</td></tr>
+<tr><td>LED light with dimmer</td><td>Adjustable intensity matters for shaded plants like Buce</td></tr>
+</table>
+<hr>
+<h3>Sources</h3>
+<ol>
+<li>Boyce, P.C. & Wong, S.Y. — Multiple revision papers on the Araceae of Borneo, particularly the genus <em>Bucephalandra</em>.</li>
+<li>2hr Aquarist — <em>How to grow Bucephalandra</em> (industry reference, 2hraquarist.com).</li>
+<li>Aquarium Co-Op — Care Guide for Bucephalandra (industry reference).</li>
+</ol>
+<p><em>Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used.</em></p>
+</article>
+
+
+<section class="gear-roundup">
+  <div class="gear-roundup-inner">
+    <h2>Recommended gear for this article</h2>
+    <p class="intro">All affiliate links · we earn a small commission at no cost to you</p>
+    <div class="gear-list">
+      <a href="#" class="gear-item">
+        <div class="gi-icon blue">🩹</div>
+        <div>
+          <div class="gi-name">Aquarium-safe Cyanoacrylate Gel</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon green">🌿</div>
+        <div>
+          <div class="gi-name">Tissue Culture Bucephalandra (Wavy Green)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon amber">🧪</div>
+        <div>
+          <div class="gi-name">Liquid Plant Fertilizer (shrimp-safe)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon amber">🪨</div>
+        <div>
+          <div class="gi-name">Lava Rock (small/medium pieces)</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+      <a href="#" class="gear-item">
+        <div class="gi-icon blue">💡</div>
+        <div>
+          <div class="gi-name">LED Light with Dimmer</div>
+          <div class="gi-link">View on Amazon →</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="sources">
+  <h2>Sources</h2>
+  <ol>
+    <li>Boyce, P.C. & Wong, S.Y. (2014). The Araceae of Borneo - The Genera. Aroideana 37E(1).</li>
+    <li>Boyce, P.C. & Wong, S.Y. — Bucephalandra revision papers, Sarawak Museum</li>
+    <li>2hr Aquarist plant guides (industry reference)</li>
+  </ol>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2><span class="num">— Keep reading</span>Related articles</h2>
+    </div>
+    <div class="post-grid">
+      <a href="java-moss-vs-christmas-moss.html" class="post-card">
+        <div class="post-thumb plants">🌿</div>
+        <div class="post-card-body">
+          <div class="post-meta">Plants · 5 min</div>
+          <h3>Java moss vs Christmas moss — which is better?</h3>
+        </div>
+      </a>
+      <a href="marimo-moss-balls-shrimp-tank.html" class="post-card">
+        <div class="post-thumb shrimp">🦐</div>
+        <div class="post-card-body">
+          <div class="post-meta">Shrimp · 6 min</div>
+          <h3>Marimo moss balls: why every shrimp tank needs one</h3>
+        </div>
+      </a>
+      <a href="nitrate-control-40-gallon.html" class="post-card">
+        <div class="post-thumb fish">🐠</div>
+        <div class="post-card-body">
+          <div class="post-meta">Fish · 8 min</div>
+          <h3>How I cracked nitrate control in my 40 gallon</h3>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="article-footer-cta">
+  <div class="container">
+    <h2>Liked this? Get the <em>weekly digest</em>.</h2>
+    <p>One substantive article, one thing we learned in our own tanks, and one product we're using. Sundays only.</p>
+    <a href="../index.html#newsletter" class="btn-primary">Subscribe to the newsletter →</a>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3>Tank Talks</h3>
+        <p>The freshwater aquarium community for fish keepers, shrimp enthusiasts, and plant obsessives at every level. No saltwater snobbery. Just real aquarium talk.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Fish</h4>
+        <ul>
+          <li><a href="#">Bettas</a></li>
+          <li><a href="#">Tetras</a></li>
+          <li><a href="#">Rasboras</a></li>
+          <li><a href="#">Corydoras</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Shrimp & Plants</h4>
+        <ul>
+          <li><a href="cherry-shrimp-breeding-colony-not-growing.html">Cherry shrimp</a></li>
+          <li><a href="neocaridina-vs-caridina-first-shrimp.html">Crystal shrimp</a></li>
+          <li><a href="java-moss-vs-christmas-moss.html">Java moss</a></li>
+          <li><a href="bucephalandra-keeping-buce-alive.html">Bucephalandra</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="nitrogen-cycle-properly-explained.html">Nitrogen cycle</a></li>
+          <li><a href="#">Water params</a></li>
+          <li><a href="#">Stocking calculator</a></li>
+          <li><a href="../legal/about.html">About</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-disclosure">
+      Tank Talks participates in the Amazon Services LLC Associates Program. As an Amazon Associate we earn from qualifying purchases. We may also earn commissions from other affiliate programs at no extra cost to you. <a href="../legal/disclosure.html">Affiliate disclosure</a> · <a href="../legal/editorial-standards.html">Editorial standards</a> · <a href="../legal/privacy.html">Privacy</a> · <a href="../legal/terms.html">Terms</a> · <a href="../legal/privacy.html#your-rights">Your Privacy Choices</a> · © 2026 Tank Talks · Made for freshwater lovers
+    </div>
+  </div>
+</footer>
+<script>
+// Trending bar: live-fetch Reddit Hot from r/Aquariums and r/shrimptank.
+// Falls back to static "r/Aquariums" / "r/shrimptank" chips if the fetch fails.
+// TikTok and YouTube remain link-out only (no public no-auth API for those).
+(function() {
+  var container = document.getElementById('redditTags');
+  if (!container) return;
+  var chips = container.querySelectorAll('.trending-tag[data-sub]');
+  chips.forEach(function(chip) {
+    var sub = chip.getAttribute('data-sub');
+    var url = 'https://www.reddit.com/r/' + encodeURIComponent(sub) + '/hot.json?limit=5&raw_json=1';
+    fetch(url, { headers: { 'Accept': 'application/json' } })
+      .then(function(r) { return r.ok ? r.json() : null; })
+      .then(function(data) {
+        if (!data || !data.data || !data.data.children || !data.data.children.length) return;
+        // pick first non-stickied post
+        var post = data.data.children
+          .map(function(c) { return c.data; })
+          .find(function(p) { return p && !p.stickied; });
+        if (!post) return;
+        var title = post.title || '';
+        if (title.length > 48) title = title.slice(0, 45).trim() + '…';
+        chip.textContent = 'r/' + sub + ' · ' + title;
+        chip.setAttribute('href', 'https://www.reddit.com' + post.permalink);
+        chip.setAttribute('title', post.title);
+      })
+      .catch(function() { /* keep static fallback */ });
+  });
+})();
+</script>
+</body>
+</html>
