@@ -338,11 +338,22 @@ nav.primary a.active { color: var(--navy); font-weight: 500; }
   aspect-ratio: 16/10;
   display: flex; align-items: center; justify-content: center;
   font-size: 36px;
+  overflow: hidden;
 }
 .post-thumb.fish { background: var(--navy-bg); color: var(--navy-light); }
 .post-thumb.shrimp { background: var(--pink-bg); color: var(--pink-accent); }
 .post-thumb.plants { background: var(--green-bg); color: var(--green-accent); }
 .post-thumb.guide { background: var(--amber-bg); color: var(--amber-accent); }
+.post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: transform 0.4s ease;
+}
+.post-card:hover .post-thumb img { transform: scale(1.04); }
+.post-thumb.guide img { object-fit: contain; padding: 14px; background: #fff; }
 .post-card-body { padding: 20px 22px 24px; }
 .post-meta {
   font-size: 11px; letter-spacing: 0.1em;
