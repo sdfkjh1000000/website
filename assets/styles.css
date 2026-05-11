@@ -764,6 +764,59 @@ footer {
   vertical-align: top;
 }
 
+/* article figure (inline image + caption) */
+.article-figure {
+  margin: 2.4em 0;
+  text-align: center;
+}
+.article-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 2px 14px rgba(12, 68, 124, 0.08);
+}
+.article-figure figcaption {
+  margin-top: 14px;
+  font-size: 13px;
+  font-style: italic;
+  color: var(--text-tertiary);
+  line-height: 1.55;
+  max-width: 620px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.article-figure figcaption strong {
+  font-style: normal;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+.article-figure figcaption a {
+  color: var(--text-tertiary);
+  border-bottom: 1px solid var(--border);
+}
+.article-figure figcaption a:hover {
+  color: var(--navy);
+  border-bottom-color: var(--navy);
+}
+.article-figure.hero {
+  margin: 0 0 2.2em;
+}
+.article-figure.hero img {
+  border-radius: 12px;
+}
+.article-figure.constrained {
+  background: var(--cream);
+  border: 1px solid var(--border-soft);
+  border-radius: 12px;
+  padding: 28px 20px 20px;
+}
+.article-figure.constrained img {
+  max-width: 480px;
+  box-shadow: none;
+}
+
 /* product card (inline affiliate) */
 .product-card {
   background: var(--surface-alt);
