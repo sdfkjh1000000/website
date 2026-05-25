@@ -337,31 +337,37 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
 .post-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
+  gap: 28px;
 }
 .post-card {
   cursor: pointer;
-  transition: transform 0.2s ease;
-  background: var(--surface);
-  border: 1px solid var(--border-soft);
-  border-radius: 14px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
   overflow: hidden;
   text-decoration: none;
   color: inherit;
   display: block;
+  position: relative;
+  box-shadow: none;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
-.post-card:hover { transform: translateY(-3px); }
-.post-card:hover h3 { color: var(--navy); }
+.post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px -16px rgba(21, 48, 45, 0.2);
+}
+.post-card:hover h3 { color: var(--accent); }
 .post-thumb {
-  aspect-ratio: 16/10;
+  aspect-ratio: 5/4;
   display: flex; align-items: center; justify-content: center;
   font-size: 36px;
   overflow: hidden;
+  position: relative;
 }
-.post-thumb.fish { background: var(--navy-bg); color: var(--navy-light); }
-.post-thumb.shrimp { background: var(--pink-bg); color: var(--pink-accent); }
-.post-thumb.plants { background: var(--green-bg); color: var(--green-accent); }
-.post-thumb.guide { background: var(--amber-bg); color: var(--amber-accent); }
+.post-thumb.fish,
+.post-thumb.shrimp,
+.post-thumb.plants,
+.post-thumb.guide { background: var(--border); }
 .post-thumb img {
   width: 100%;
   height: 100%;
@@ -371,24 +377,27 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
   transition: transform 0.4s ease;
 }
 .post-card:hover .post-thumb img { transform: scale(1.04); }
-.post-thumb.guide img { object-fit: contain; padding: 14px; background: #fff; }
-.post-card-body { padding: 20px 22px 24px; }
+.post-card-body { padding: 22px 22px 26px; }
 .post-meta {
-  font-size: 11px; letter-spacing: 0.1em;
-  text-transform: uppercase; color: var(--text-tertiary);
-  margin-bottom: 8px; font-weight: 500;
+  font-family: var(--sans);
+  font-size: 11px; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--accent);
+  margin-bottom: 10px; font-weight: 600;
 }
 .post-card h3 {
   font-family: var(--serif);
-  font-size: 20px; font-weight: 500;
-  line-height: 1.25; color: var(--text);
+  font-size: 23px; font-weight: 400;
+  line-height: 1.2; color: var(--navy);
   transition: color 0.15s ease;
   letter-spacing: -0.01em;
+  margin-bottom: 10px;
 }
 .post-card p.excerpt {
-  margin-top: 10px; font-size: 14px;
-  color: var(--text-secondary); line-height: 1.5;
+  font-family: var(--sans);
+  font-size: 14px; line-height: 1.5;
+  color: var(--text-secondary);
 }
+.post-card .read-link { display: none; }
 
 /* TOOLS */
 .tools-grid {
@@ -1469,8 +1478,6 @@ footer {
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
   z-index: 2; pointer-events: none;
 }
-.post-card .post-thumb { position: relative; }
-
 /* Updated category pills — tomato for shrimp, all flat in B palette */
 .category-pill.shrimp { background: var(--accent); }
 .category-pill.plants { background: var(--green-accent); }
@@ -1480,13 +1487,6 @@ footer {
   letter-spacing: 0.14em;
   border-radius: 2px;
 }
-
-/* Reset post-thumb tinted backgrounds — photos cover them anyway,
-   and the cream tint was based on the old palette */
-.post-thumb.fish,
-.post-thumb.shrimp,
-.post-thumb.plants,
-.post-thumb.guide { background: var(--border); }
 
 /* ============================================================
    B REDESIGN — reference-data photo tiles (Push 4, 2026-05-25)
