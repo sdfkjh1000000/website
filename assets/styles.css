@@ -582,9 +582,10 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
 
 /* FOOTER */
 footer {
-  background: var(--cream);
+  background: var(--navy);
+  color: var(--cream);
   padding: 64px 0 36px;
-  border-top: 1px solid var(--cream-deep);
+  border-top: none;
 }
 .footer-grid {
   display: grid;
@@ -595,37 +596,39 @@ footer {
 .footer-brand h3 {
   font-family: var(--serif);
   font-size: 24px;
-  font-weight: 500;
-  color: var(--navy);
+  font-weight: 400;
+  color: var(--cream);
   margin-bottom: 10px;
   letter-spacing: -0.02em;
 }
 .footer-brand p {
   font-size: 13px;
-  color: var(--text-secondary);
+  color: rgba(253, 250, 245, 0.78);
   line-height: 1.55;
   max-width: 320px;
 }
 .footer-col h4 {
   font-size: 11px;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--text-tertiary);
+  color: var(--cream);
   margin-bottom: 14px;
   font-weight: 600;
 }
 .footer-col ul { list-style: none; }
 .footer-col li { margin-bottom: 8px; }
-.footer-col a { font-size: 13px; color: var(--text); }
+.footer-col a { font-size: 13px; color: rgba(253, 250, 245, 0.92); }
+.footer-col a:hover { color: var(--marker-yellow); }
 .footer-disclosure {
-  border-top: 1px solid var(--cream-deep);
+  border-top: 1px solid rgba(253, 250, 245, 0.15);
   padding-top: 24px;
   font-size: 11px;
-  color: var(--text-tertiary);
+  color: rgba(253, 250, 245, 0.65);
   line-height: 1.6;
   max-width: 720px;
 }
-.footer-disclosure a { color: var(--navy); }
+.footer-disclosure a { color: rgba(253, 250, 245, 0.85); }
+.footer-disclosure a:hover { color: var(--marker-yellow); }
 
 /* ==== ARTICLE PAGE STYLES ==== */
 .reading-progress {
