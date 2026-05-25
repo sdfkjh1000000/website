@@ -1422,3 +1422,58 @@ footer {
   .tools-toc a { font-size: 13px; }
   .tools-footnote { padding: 22px; }
 }
+
+/* ============================================================
+   B REDESIGN — global component styles (2026-05-25 Push 3)
+   Promoted from homepage inline so articles index + future pages can use them.
+   ============================================================ */
+
+/* Section-title pattern with handwritten Permanent Marker stamp */
+.b-section-title {
+  display: flex; align-items: baseline; gap: 20px;
+  margin-bottom: 36px; padding-top: 16px; flex-wrap: wrap;
+}
+.b-section-title h2 {
+  font-family: var(--serif); font-weight: 400;
+  font-size: 42px; line-height: 1; color: var(--navy);
+  letter-spacing: -0.01em;
+}
+.b-section-title .b-stamp {
+  font-family: var(--marker); font-size: 22px;
+  color: var(--accent); transform: rotate(-4deg);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.b-section-link {
+  margin-left: auto;
+  font-family: var(--sans); font-size: 12px; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--accent); text-decoration: none;
+}
+.b-section-link:hover { color: var(--accent-hover); }
+
+/* Post-card refinements (works on top of base .post-card) */
+.post-card .b-marker-tag {
+  position: absolute; top: 14px; right: 14px;
+  font-family: var(--marker); color: var(--accent);
+  font-size: 18px; transform: rotate(8deg);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  z-index: 2; pointer-events: none;
+}
+.post-card .post-thumb { position: relative; }
+
+/* Updated category pills — tomato for shrimp, all flat in B palette */
+.category-pill.shrimp { background: var(--accent); }
+.category-pill.plants { background: var(--green-accent); }
+.category-pill.guide { background: var(--amber-accent); }
+.category-pill.fish { background: var(--navy); }
+.category-pill {
+  letter-spacing: 0.14em;
+  border-radius: 2px;
+}
+
+/* Reset post-thumb tinted backgrounds — photos cover them anyway,
+   and the cream tint was based on the old palette */
+.post-thumb.fish,
+.post-thumb.shrimp,
+.post-thumb.plants,
+.post-thumb.guide { background: var(--border); }
