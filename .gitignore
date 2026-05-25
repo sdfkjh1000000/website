@@ -1,4 +1,5 @@
 _preview/
 _tools/
+.claude/
 .DS_Store
 *.bak
