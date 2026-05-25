@@ -106,18 +106,17 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
 }
 .btn-outline:hover { border-color: var(--navy); color: var(--navy); }
 
-/* TRENDING BAR — hidden under B redesign (2026-05-25); markup kept for now, may be removed in cleanup pass */
-.trending-bar { display: none !important; }
-.trending-bar-original-styles-do-not-use {
-  background: var(--surface-alt);
-  border-bottom: 1px solid var(--border-soft);
-  padding: 10px 0;
+/* TRENDING BAR — B palette, homepage-only placement (under hero + timestamp strip) */
+.trending-bar {
+  background: var(--cream-deep);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 0;
   overflow: hidden;
 }
 .trending-inner {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 14px;
   font-size: 12px;
   overflow-x: auto;
   -ms-overflow-style: none;
@@ -125,23 +124,24 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
 }
 .trending-inner::-webkit-scrollbar { display: none; }
 .trending-label {
+  font-family: var(--sans);
   font-weight: 600;
   color: var(--navy);
-  letter-spacing: 0.1em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 10px;
   white-space: nowrap;
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding-right: 4px;
+  gap: 8px;
+  padding-right: 12px;
   border-right: 1px solid var(--border);
-  margin-right: 4px;
+  margin-right: 2px;
 }
 .trending-label .pulse {
   width: 6px;
   height: 6px;
-  background: #E24B4A;
+  background: var(--accent);
   border-radius: 50%;
   animation: pulse 1.8s ease-in-out infinite;
 }
@@ -150,16 +150,20 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
   50% { opacity: 0.5; transform: scale(1.3); }
 }
 .trending-source {
-  font-weight: 500;
-  color: var(--text-secondary);
+  font-family: var(--sans);
+  font-weight: 600;
+  color: var(--navy);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 10px;
   white-space: nowrap;
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 6px;
 }
 .trending-source svg {
-  width: 13px;
-  height: 13px;
+  width: 14px;
+  height: 14px;
   flex-shrink: 0;
 }
 .trending-tags {
@@ -168,27 +172,30 @@ nav.primary a:hover, nav.primary a.active { color: var(--accent); }
   align-items: center;
 }
 .trending-tag {
-  background: var(--surface);
+  background: #fff;
   border: 1px solid var(--border);
-  color: var(--text);
+  color: var(--navy);
   padding: 4px 10px;
-  border-radius: 999px;
+  border-radius: 2px;
   white-space: nowrap;
+  font-family: var(--sans);
   font-size: 11px;
   font-weight: 500;
+  text-decoration: none;
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 360px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 .trending-tag:hover {
-  border-color: var(--navy);
-  color: var(--navy);
+  border-color: var(--accent);
+  color: var(--accent);
 }
 .trending-divider {
-  color: var(--border);
+  color: var(--text-tertiary);
   user-select: none;
+  font-size: 14px;
 }
 
 /* HERO (homepage) */
