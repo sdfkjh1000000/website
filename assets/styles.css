@@ -970,23 +970,21 @@ footer {
 
 /* Table of contents */
 .tools-toc {
-  background: var(--surface-alt);
+  background: var(--cream-deep);
   border-bottom: 1px solid var(--border);
   padding: 20px 0;
   position: sticky;
   top: 0;
   z-index: 5;
-  backdrop-filter: saturate(180%) blur(8px);
-  -webkit-backdrop-filter: saturate(180%) blur(8px);
-  background-color: rgba(250, 251, 252, 0.92);
 }
 .tools-toc .toc-label {
-  font-size: 11px;
+  font-family: var(--sans);
+  font-size: 10px;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--text-tertiary);
+  letter-spacing: 0.18em;
+  color: var(--navy);
   margin-bottom: 10px;
-  font-weight: 500;
+  font-weight: 600;
 }
 .tools-toc ul {
   display: flex;
@@ -996,11 +994,12 @@ footer {
 }
 .tools-toc a {
   font-size: 14px;
-  color: var(--text-secondary);
+  color: var(--navy);
   border-bottom: 1px dotted var(--border);
   padding-bottom: 1px;
+  transition: color 0.15s ease, border-bottom-color 0.15s ease;
 }
-.tools-toc a:hover { color: var(--navy); border-bottom-color: var(--navy); }
+.tools-toc a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* Main column */
 .tools-main { padding: 48px 0 64px; }
@@ -1015,14 +1014,15 @@ footer {
 .tool-section-head { margin-bottom: 28px; }
 .tool-section .agency-badge {
   display: inline-block;
+  font-family: var(--sans);
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-weight: 600;
-  color: var(--navy);
-  background: var(--navy-bg);
+  color: #fff;
+  background: var(--accent);
   padding: 5px 11px;
-  border-radius: 4px;
+  border-radius: 2px;
   margin-bottom: 14px;
 }
 .tool-section h2 {
@@ -1062,20 +1062,20 @@ footer {
   border-collapse: collapse;
   margin: 18px 0 22px;
   font-size: 15px;
-  background: var(--surface);
+  background: #fff;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 4px;
   overflow: hidden;
 }
-.ref-table thead { background: var(--cream); }
+.ref-table thead { background: var(--cream-deep); }
 .ref-table th {
   text-align: left;
   padding: 12px 16px;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-secondary);
+  letter-spacing: 0.14em;
+  color: var(--navy);
   border-bottom: 1px solid var(--border);
 }
 .ref-table td {
@@ -1085,10 +1085,10 @@ footer {
   vertical-align: top;
 }
 .ref-table tbody tr:last-child td { border-bottom: none; }
-.ref-table tbody tr:hover { background: var(--surface-alt); }
+.ref-table tbody tr:hover { background: var(--cream); }
 .ref-table.compact { max-width: 720px; }
-.ref-table a { color: var(--navy); border-bottom: 1px solid var(--border); }
-.ref-table a:hover { color: var(--navy-light); border-bottom-color: var(--navy-light); }
+.ref-table a { color: var(--navy); border-bottom: 1px solid var(--border); transition: color 0.15s ease, border-bottom-color 0.15s ease; }
+.ref-table a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 .ref-note {
   font-size: 14px;
@@ -1105,9 +1105,9 @@ footer {
 .source-block {
   margin: 24px 0 0;
   padding: 16px 18px;
-  background: var(--surface-alt);
-  border-left: 3px solid var(--navy);
-  border-radius: 0 6px 6px 0;
+  background: var(--cream-deep);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 4px 4px 0;
 }
 .source-block h4 {
   font-size: 11px;
@@ -1138,17 +1138,19 @@ footer {
   margin-right: 4px;
 }
 .source-links a {
-  color: var(--navy-light);
+  color: var(--navy);
   border-bottom: 1px solid var(--border);
+  transition: color 0.15s ease, border-bottom-color 0.15s ease;
 }
-.source-links a:hover { color: var(--navy); border-bottom-color: var(--navy); }
+.source-links a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* About-this-page footer */
 .tools-footnote {
   margin-top: 48px;
   padding: 32px;
-  background: var(--cream);
-  border-radius: 12px;
+  background: var(--cream-deep);
+  border: 1px solid var(--border);
+  border-radius: 4px;
 }
 .tools-footnote h2 {
   font-family: var(--serif);
