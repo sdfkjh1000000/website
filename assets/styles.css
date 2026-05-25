@@ -414,16 +414,17 @@ footer {
   font-size: 12px;
 }
 .category-pill {
-  background: var(--navy);
-  color: white;
+  background: var(--accent);
+  color: #fff;
   padding: 4px 12px;
-  border-radius: 999px;
+  border-radius: 2px;
+  font-family: var(--sans);
   font-size: 11px;
   font-weight: 600;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
 }
-.category-pill.shrimp { background: var(--pink-accent); }
+.category-pill.shrimp { background: var(--accent); }
 .category-pill.plants { background: var(--green-accent); }
 .category-pill.guide { background: var(--amber-accent); }
 .category-pill.fish { background: var(--navy); }
@@ -457,9 +458,10 @@ footer {
 
 /* affiliate banner */
 .affiliate-banner {
-  background: var(--surface);
-  border: 1px solid var(--border-soft);
-  border-radius: 8px;
+  background: var(--cream-deep);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 4px 4px 0;
   padding: 12px 16px;
   margin: 32px auto 0;
   max-width: 720px;
@@ -474,10 +476,11 @@ footer {
   flex-shrink: 0;
   width: 18px;
   height: 18px;
-  color: var(--navy);
+  color: var(--accent);
   margin-top: 1px;
 }
-.affiliate-banner a { color: var(--navy); font-weight: 500; }
+.affiliate-banner a { color: var(--navy); font-weight: 500; border-bottom: 1px solid rgba(21, 48, 45, 0.28); }
+.affiliate-banner a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* article body */
 .article-body {
@@ -1216,16 +1219,6 @@ footer {
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
   z-index: 2; pointer-events: none;
 }
-/* Updated category pills — tomato for shrimp, all flat in B palette */
-.category-pill.shrimp { background: var(--accent); }
-.category-pill.plants { background: var(--green-accent); }
-.category-pill.guide { background: var(--amber-accent); }
-.category-pill.fish { background: var(--navy); }
-.category-pill {
-  letter-spacing: 0.14em;
-  border-radius: 2px;
-}
-
 /* ============================================================
    B REDESIGN — reference-data photo tiles (Push 4, 2026-05-25)
    Variation A from the bleed mocks: top-bleed photo + cream body
