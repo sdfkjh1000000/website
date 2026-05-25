@@ -1477,3 +1477,53 @@ footer {
 .post-thumb.shrimp,
 .post-thumb.plants,
 .post-thumb.guide { background: var(--border); }
+
+/* ============================================================
+   B REDESIGN — reference-data photo tiles (Push 4, 2026-05-25)
+   Variation A from the bleed mocks: top-bleed photo + cream body
+   ============================================================ */
+.tool-card.tool-card-photo {
+  background: var(--cream);
+  border: none;
+  border-radius: 4px;
+  padding: 0;
+  overflow: hidden;
+  color: var(--navy);
+}
+.tool-card.tool-card-photo:hover {
+  background: var(--cream);
+  border: none;
+  transform: translateY(-3px);
+}
+.tool-card-photo .tool-photo {
+  aspect-ratio: 16/10;
+  background: var(--border) center/cover;
+  width: 100%;
+}
+.tool-card-photo .tool-body {
+  padding: 18px 18px 22px;
+}
+.tool-card-photo .tool-source {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.tool-card.tool-card-photo h3 {
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.22;
+  color: var(--navy);
+  margin-bottom: 6px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+.tool-card.tool-card-photo p {
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--text-secondary);
+  margin: 0;
+}
