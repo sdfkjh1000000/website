@@ -77,6 +77,12 @@ nav.primary a {
   letter-spacing: 0.14em;
 }
 nav.primary a:hover, nav.primary a.active { color: var(--accent); }
+[data-active="home"] nav.primary a[data-nav="home"],
+[data-active="tools"] nav.primary a[data-nav="tools"],
+[data-active="troubleshooting"] nav.primary a[data-nav="troubleshooting"],
+[data-active="articles"] nav.primary a[data-nav="articles"],
+[data-active="gear"] nav.primary a[data-nav="gear"],
+[data-active="about"] nav.primary a[data-nav="about"] { color: var(--accent); }
 .btn-primary {
   background: var(--accent); color: white;
   padding: 10px 18px; border-radius: 2px;
