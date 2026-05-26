@@ -1259,6 +1259,58 @@ footer .container { position: relative; z-index: 1; }
   margin: 0;
 }
 
+.agency-badge.cat-cycling { background: var(--accent); }
+.agency-badge.cat-stocking { background: var(--navy); }
+.agency-badge.cat-shrimp { background: var(--pink-accent); }
+.agency-badge.cat-plants { background: var(--green-accent); }
+
+.tools-footnote .subreddit-list,
+.tools-footnote .ask-checklist {
+  list-style: none;
+  padding-left: 0;
+  margin: 14px 0 22px;
+}
+.tools-footnote .subreddit-list li,
+.tools-footnote .ask-checklist li {
+  padding: 8px 0 8px 26px;
+  position: relative;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--text);
+}
+.tools-footnote .ask-checklist li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+.tools-footnote .subreddit-list li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+.tools-footnote .subreddit-list a {
+  color: var(--navy);
+  border-bottom: 1px solid var(--border);
+  font-weight: 500;
+  transition: color 0.15s ease, border-bottom-color 0.15s ease;
+}
+.tools-footnote .subreddit-list a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+.tools-footnote h3 {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 500;
+  margin: 22px 0 4px;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
 .faq-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
