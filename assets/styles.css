@@ -968,6 +968,80 @@ footer .container { position: relative; z-index: 1; }
   border-radius: 0 6px 6px 0;
 }
 
+/* TOC card grid — replaces flat .tools-toc on tools.html + troubleshooting.html */
+.toc-cards {
+  background: var(--cream-deep);
+  border-bottom: 1px solid var(--border);
+  padding: 32px 0 40px;
+}
+.toc-cards .toc-label {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--text-tertiary);
+  margin-bottom: 14px;
+}
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+.toc-grid.toc-grid-4 { grid-template-columns: repeat(4, 1fr); }
+.toc-card {
+  display: block;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 4px 4px 0;
+  padding: 16px 18px 18px;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.toc-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px -12px rgba(21, 48, 45, 0.22);
+}
+.toc-card-tag {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.toc-card-title {
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--navy);
+  line-height: 1.25;
+  margin-bottom: 6px;
+}
+.toc-card-meta {
+  font-family: var(--sans);
+  font-size: 11px;
+  color: var(--text-tertiary);
+  letter-spacing: 0.04em;
+}
+.toc-card.is-cycling { border-left-color: var(--accent); }
+.toc-card.is-cycling .toc-card-tag { color: var(--accent); }
+.toc-card.is-stocking { border-left-color: var(--navy); }
+.toc-card.is-stocking .toc-card-tag { color: var(--navy); }
+.toc-card.is-shrimp { border-left-color: var(--accent-hover); }
+.toc-card.is-shrimp .toc-card-tag { color: var(--accent-hover); }
+.toc-card.is-plants { border-left-color: var(--green-accent); }
+.toc-card.is-plants .toc-card-tag { color: var(--green-accent); }
+@media (max-width: 900px) {
+  .toc-grid, .toc-grid.toc-grid-4 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .toc-grid, .toc-grid.toc-grid-4 { grid-template-columns: 1fr; }
+}
+
+/* Legacy flat-link TOC; no longer used on tools/troubleshooting but kept harmless. */
 .tools-toc {
   background: var(--cream-deep);
   border-bottom: 1px solid var(--border);
@@ -1000,14 +1074,20 @@ footer .container { position: relative; z-index: 1; }
 }
 .tools-toc a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
-.tools-main { padding: 48px 0 64px; }
+.tools-main {
+  padding: 48px 0 64px;
+  background: var(--cream-deep);
+}
 
 .tool-section {
-  margin-bottom: 64px;
-  padding-bottom: 56px;
-  border-bottom: 1px solid var(--border-soft);
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 32px 36px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 0 rgba(21, 48, 45, 0.04);
 }
-.tool-section:last-of-type { border-bottom: none; }
+.tool-section:last-of-type { margin-bottom: 0; }
 .tool-section-head { margin-bottom: 28px; }
 .tool-section .agency-badge {
   display: inline-block;
