@@ -851,47 +851,12 @@ footer .container { position: relative; z-index: 1; }
   padding-left: 4px;
 }
 
-.article-footer-cta {
-  background: var(--cream-deep);
-  padding: 64px 0;
-  text-align: center;
-}
-.article-footer-cta h2 {
-  font-family: var(--serif);
-  font-size: 28px;
-  font-weight: 500;
-  margin-bottom: 10px;
-  letter-spacing: -0.02em;
-}
-.article-footer-cta p {
-  font-size: 14px;
-  color: var(--text-secondary);
-  margin-bottom: 22px;
-  max-width: 460px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .legal-page {
   max-width: 720px;
   margin: 64px auto;
   padding: 0 24px;
   font-size: 16px;
   line-height: 1.7;
-}
-.legal-page h1 {
-  font-family: var(--serif);
-  font-size: 40px;
-  font-weight: 500;
-  letter-spacing: -0.02em;
-  margin-bottom: 12px;
-}
-.legal-page .last-updated {
-  font-size: 12px;
-  color: var(--text-tertiary);
-  margin-bottom: 36px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
 }
 .legal-page h2 {
   font-family: var(--serif);
