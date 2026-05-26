@@ -1264,6 +1264,19 @@ footer .container { position: relative; z-index: 1; }
 .agency-badge.cat-shrimp { background: var(--pink-accent); }
 .agency-badge.cat-plants { background: var(--green-accent); }
 
+.troubleshoot-section-photo {
+  display: block;
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 36px;
+  box-shadow: 0 16px 32px -20px rgba(21, 48, 45, 0.3);
+}
+@media (max-width: 720px) {
+  .troubleshoot-section-photo { height: 180px; }
+}
+
 .tools-footnote .subreddit-list,
 .tools-footnote .ask-checklist {
   list-style: none;
