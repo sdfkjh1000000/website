@@ -24,10 +24,6 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=Permanent+Marker&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/styles.css">
 <style>
-  /* ============================================================
-     B REDESIGN — homepage (Push 1, 2026-05-24)
-     Inline-scoped to homepage only; Push 2 promotes these to global styles.css
-     ============================================================ */
   :root {
     --b-cream: #fdfaf5;
     --b-teal: #15302d;
@@ -43,12 +39,6 @@
   }
   body { background: var(--b-cream); color: var(--b-text); font-family: var(--b-sans); }
 
-  /* Homepage-only B-redesign patterns. Site-wide rules
-     (header, footer, nav, post-card, section-title, etc.) live in
-     assets/styles.css — promoted out of this block during the
-     2026-05-25 consistency sweep. */
-
-  /* New B hero — full-bleed */
   body .b-hero-wrap { background: var(--b-cream); }
   body .b-hero {
     position: relative; aspect-ratio: 16/7;
@@ -95,7 +85,6 @@
   }
   body .b-hero-cta:hover { background: var(--b-marker-yellow); color: var(--b-teal); }
 
-  /* Timestamp strip below hero */
   body .b-timestamp-strip {
     background: var(--b-teal); color: #fdfaf5;
     display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;
@@ -108,7 +97,6 @@
     width: 6px; height: 6px; background: var(--b-tomato); border-radius: 50%;
   }
 
-  /* Responsive */
   @media (max-width: 900px) {
     body .b-hero { aspect-ratio: 4/5; }
     body .b-hero h1 { font-size: 38px; }
@@ -318,8 +306,6 @@
     </div>
   </div>
 </section>
-
-<!-- Newsletter section removed 2026-05-25 — no mailer wired up yet. Reinstate when Substack/Beehiiv/Buttondown is set up. -->
 
 
 <footer>
