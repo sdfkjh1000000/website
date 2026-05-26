@@ -1481,7 +1481,7 @@ footer .container { position: relative; z-index: 1; }
   background-position: center;
   min-height: 440px;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   padding: 96px 0 44px;
   overflow: hidden;
   border-bottom: 1px solid var(--border);
