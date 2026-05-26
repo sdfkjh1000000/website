@@ -740,6 +740,20 @@ footer .container { position: relative; z-index: 1; }
   margin-bottom: 14px;
 }
 .gear-roundup h3:first-of-type { margin-top: 8px; }
+.section-gear {
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.section-gear-heading {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 14px;
+}
 .gear-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -1500,7 +1514,7 @@ footer .container { position: relative; z-index: 1; }
   background-color: var(--navy-deep);
   background-size: cover;
   background-position: center;
-  min-height: 360px;
+  min-height: 440px;
   display: flex;
   align-items: flex-end;
   padding: 96px 0 44px;
@@ -1564,7 +1578,6 @@ footer .container { position: relative; z-index: 1; }
   background: var(--marker-yellow);
   color: var(--navy);
 }
-.inner-hero--article { min-height: 440px; }
 .inner-hero--article h1.article-title {
   font-size: 44px;
   max-width: 28ch;
@@ -1575,7 +1588,7 @@ footer .container { position: relative; z-index: 1; }
 .inner-hero--gear { background-image: url('tiles/gear-aquascape.jpg'); }
 .inner-hero--about { background-image: url('tiles/about-aquascape-mini.jpg'); }
 @media (max-width: 900px) {
-  .inner-hero { min-height: 280px; padding: 72px 0 32px; }
+  .inner-hero { min-height: 340px; padding: 72px 0 32px; }
   .inner-hero h1.article-title { font-size: 32px; }
   .inner-hero p.article-lede { font-size: 16px; }
 }
