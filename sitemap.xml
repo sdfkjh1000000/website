@@ -20,9 +20,15 @@
   </url>
   <url>
     <loc>https://tanktalks.sdfkjh.com/tools</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanktalks.sdfkjh.com/troubleshooting</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://tanktalks.sdfkjh.com/articles/shrimp-acclimation-drip-method</loc>
