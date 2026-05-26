@@ -24,22 +24,9 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=Permanent+Marker&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/styles.css">
 <style>
-  :root {
-    --b-cream: #fdfaf5;
-    --b-teal: #15302d;
-    --b-teal-mid: #2a544f;
-    --b-tomato: #d94a3d;
-    --b-marker-yellow: #ffd86b;
-    --b-border: #ebe4d6;
-    --b-text: #15302d;
-    --b-text-soft: #4a5d5b;
-    --b-display: 'DM Serif Display', Georgia, serif;
-    --b-sans: 'Inter', sans-serif;
-    --b-marker: 'Permanent Marker', cursive;
-  }
-  body { background: var(--b-cream); color: var(--b-text); font-family: var(--b-sans); }
+  body { background: var(--cream); color: var(--text); font-family: var(--sans); }
 
-  body .b-hero-wrap { background: var(--b-cream); }
+  body .b-hero-wrap { background: var(--cream); }
   body .b-hero {
     position: relative; aspect-ratio: 16/7;
     background: url('assets/hero/cherry-shrimp.jpg') center/cover;
@@ -52,26 +39,26 @@
   }
   body .b-hero-text {
     position: absolute; bottom: 48px; left: 0; right: 0;
-    padding: 0 60px; color: #fdfaf5; z-index: 2; max-width: 1200px; margin: 0 auto;
+    padding: 0 60px; color: var(--cream); z-index: 2; max-width: 1200px; margin: 0 auto;
   }
   body .b-hero-kicker {
-    display: inline-block; background: var(--b-tomato); color: #fff;
+    display: inline-block; background: var(--accent); color: #fff;
     font-size: 11px; font-weight: 600; letter-spacing: 0.18em;
     text-transform: uppercase; padding: 7px 14px; border-radius: 2px;
     margin-bottom: 20px;
   }
   body .b-hero h1 {
-    font-family: var(--b-display); font-size: 64px; line-height: 1.04;
+    font-family: var(--serif); font-size: 64px; line-height: 1.04;
     max-width: 18ch; letter-spacing: -0.01em; margin-bottom: 16px;
-    color: #fdfaf5;
+    color: var(--cream);
   }
   body .b-hero p {
-    font-family: var(--b-sans); font-size: 17px; line-height: 1.5;
+    font-family: var(--sans); font-size: 17px; line-height: 1.5;
     max-width: 62ch; opacity: 0.94;
   }
   body .b-hero-annot {
     position: absolute; top: 26%; right: 9%; z-index: 3;
-    font-family: var(--b-marker); color: var(--b-marker-yellow);
+    font-family: var(--marker); color: var(--marker-yellow);
     font-size: 26px; transform: rotate(-7deg);
     display: flex; align-items: center; gap: 10px;
     text-shadow: 0 1px 6px rgba(0,0,0,0.4);
@@ -79,22 +66,22 @@
   body .b-hero-annot svg { width: 70px; height: 50px; }
   body .b-hero-cta {
     display: inline-flex; align-items: center; gap: 8px; margin-top: 24px;
-    background: #fdfaf5; color: var(--b-teal);
+    background: var(--cream); color: var(--navy);
     font-size: 12px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase;
     padding: 12px 22px; border-radius: 2px; text-decoration: none;
   }
-  body .b-hero-cta:hover { background: var(--b-marker-yellow); color: var(--b-teal); }
+  body .b-hero-cta:hover { background: var(--marker-yellow); color: var(--navy); }
 
   body .b-timestamp-strip {
-    background: var(--b-teal); color: #fdfaf5;
+    background: var(--navy); color: var(--cream);
     display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;
     padding: 18px 50px;
-    font-family: var(--b-sans); font-size: 11px; font-weight: 500;
+    font-family: var(--sans); font-size: 11px; font-weight: 500;
     letter-spacing: 0.18em; text-transform: uppercase;
   }
   body .b-timestamp-strip span { display: flex; align-items: center; gap: 8px; }
   body .b-timestamp-strip .b-dot {
-    width: 6px; height: 6px; background: var(--b-tomato); border-radius: 50%;
+    width: 6px; height: 6px; background: var(--accent); border-radius: 50%;
   }
 
   @media (max-width: 900px) {
