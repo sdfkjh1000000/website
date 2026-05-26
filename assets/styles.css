@@ -470,7 +470,27 @@ footer .container { position: relative; z-index: 1; }
 }
 .article-byline .sep { width: 3px; height: 3px; background: var(--text-tertiary); border-radius: 50%; }
 
-.affiliate-banner-wrap { background: var(--surface); }
+.affiliate-banner-wrap { background: var(--surface); padding: 0 0 12px; }
+.inner-hero-credit {
+  background: var(--cream);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+}
+.inner-hero-credit .container {
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+.inner-hero-credit strong { font-weight: 600; color: var(--text); }
+.inner-hero-credit a {
+  color: var(--text-secondary);
+  border-bottom: 1px dotted var(--text-tertiary);
+}
+.inner-hero-credit a:hover {
+  color: var(--navy);
+  border-bottom-color: var(--navy);
+}
 .affiliate-banner {
   background: var(--cream-deep);
   border: 1px solid var(--border);
@@ -1539,6 +1559,16 @@ footer .container { position: relative; z-index: 1; }
   margin-top: 14px;
 }
 .inner-hero .article-byline .sep { background: rgba(253, 250, 245, 0.5); }
+.inner-hero .article-meta-top .read-time { color: rgba(253, 250, 245, 0.7); }
+.inner-hero .category-pill.fish {
+  background: var(--marker-yellow);
+  color: var(--navy);
+}
+.inner-hero--article { min-height: 440px; }
+.inner-hero--article h1.article-title {
+  font-size: 44px;
+  max-width: 28ch;
+}
 .inner-hero--articles { background-image: url('tiles/nitrate-dutch.jpg'); }
 .inner-hero--tools { background-image: url('tiles/decon-nature.jpg'); }
 .inner-hero--troubleshooting { background-image: url('tiles/invasives-jungle.jpg'); }
