@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://tanktalks.sdfkjh.com/api/articles",
+      "service-desc": [
+        {
+          "href": "https://tanktalks.sdfkjh.com/.well-known/articles-openapi.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://tanktalks.sdfkjh.com/articles/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

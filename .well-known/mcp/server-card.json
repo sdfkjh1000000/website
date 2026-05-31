@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/mcp-server-card/v1.json",
+  "version": "1.0",
+  "protocolVersion": "2025-06-18",
+  "serverInfo": {
+    "name": "tanktalks-mcp",
+    "title": "Tank Talks",
+    "version": "1.0.0"
+  },
+  "description": "Read-only information about Tank Talks, a freshwater aquarium editorial site: the article catalog, keyword search across articles, and a site overview.",
+  "iconUrl": "https://tanktalks.sdfkjh.com/assets/favicon.svg",
+  "documentationUrl": "https://tanktalks.sdfkjh.com",
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://tanktalks.sdfkjh.com/mcp"
+  },
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    }
+  },
+  "authentication": {
+    "required": false
+  },
+  "tools": "dynamic"
+}

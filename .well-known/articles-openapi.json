@@ -1,0 +1,53 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Tank Talks Article Catalog API",
+    "version": "1.0.0",
+    "description": "Read-only catalog of published Tank Talks freshwater-aquarium articles. No authentication; cached for 1 hour.",
+    "contact": {
+      "name": "Tank Talks",
+      "url": "https://tanktalks.sdfkjh.com"
+    }
+  },
+  "servers": [{ "url": "https://tanktalks.sdfkjh.com" }],
+  "paths": {
+    "/api/articles": {
+      "get": {
+        "summary": "List published Tank Talks articles",
+        "operationId": "listArticles",
+        "responses": {
+          "200": {
+            "description": "The article catalog.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": ["count", "articles"],
+                  "properties": {
+                    "name": { "type": "string" },
+                    "description": { "type": "string" },
+                    "site": { "type": "string", "format": "uri" },
+                    "count": { "type": "integer" },
+                    "articles": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": ["slug", "title", "url"],
+                        "properties": {
+                          "slug": { "type": "string", "description": "URL slug of the article." },
+                          "title": { "type": "string", "description": "Article title." },
+                          "url": { "type": "string", "format": "uri", "description": "Canonical article URL." },
+                          "summary": { "type": "string", "description": "Short description of the article." }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

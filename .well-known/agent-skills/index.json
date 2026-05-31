@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "tanktalks",
+      "type": "skill-md",
+      "description": "Answer questions about Tank Talks — a freshwater aquarium editorial site: its articles, topics covered (cycling, shrimp, plants, water chemistry), and how the site works.",
+      "url": "/.well-known/agent-skills/tanktalks/SKILL.md",
+      "digest": "sha256:18c169a25a99347021c7f97ef1c05c59833e3d8f43ab18614c4b04bb4d9a0232"
+    }
+  ]
+}
