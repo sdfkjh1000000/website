@@ -3,25 +3,25 @@
   --navy-light: #2a544f;
   --navy-bg: #ebe4d6;
   --navy-deep: #0b2421;
-  --accent: #d94a3d;
-  --accent-hover: #c14132;
+  --accent: #b83529;
+  --accent-hover: #a8342a;
   --marker-yellow: #ffd86b;
   --cream: #fdfaf5;
   --cream-deep: #f3ecdc;
   --text: #15302d;
   --text-secondary: #4a5d5b;
-  --text-tertiary: #7d8f8d;
+  --text-tertiary: #586764;
   --border: #ebe4d6;
   --border-soft: #f3ecdc;
   --surface: #fdfaf5;
   --surface-alt: #f8f3e9;
   --green-bg: #e6efd4;
-  --green-accent: #5a8a1f;
+  --green-accent: #46711a;
   --amber-bg: #f5e7c8;
-  --amber-accent: #a86815;
+  --amber-accent: #8a5912;
   --pink-bg: #f5dee6;
   --pink-accent: #8a3050;
-  --red-accent: #d94a3d;
+  --red-accent: #b83529;
   --serif: 'DM Serif Display', 'Fraunces', Georgia, serif;
   --serif-body: 'Fraunces', Georgia, serif;
   --sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -387,7 +387,7 @@ footer .container { position: relative; z-index: 1; }
   line-height: 1.6;
   max-width: 720px;
 }
-.footer-disclosure a { color: rgba(253, 250, 245, 0.85); }
+.footer-disclosure a { color: rgba(253, 250, 245, 0.85); text-decoration: underline; }
 .footer-disclosure a:hover { color: var(--marker-yellow); }
 
 .reading-progress {
@@ -1663,3 +1663,6 @@ footer .container { position: relative; z-index: 1; }
 @media (max-width: 900px) {
   .reading-paths-grid { grid-template-columns: 1fr; gap: 18px; }
 }
+
+.skip-link{position:absolute;left:-9999px;top:0;z-index:2000;background:var(--navy);color:var(--cream);padding:10px 16px;font-family:var(--sans);font-weight:600;border-radius:0 0 6px 0;text-decoration:none}
+.skip-link:focus{left:0}

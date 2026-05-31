@@ -1,0 +1,26 @@
+# Tank Talks
+
+> Tank Talks (tanktalks.sdfkjh.com) is a freshwater aquarium blog covering fish, shrimp, aquatic plants, and water chemistry. It pairs practical how-to and troubleshooting articles with recommended-gear roundups. As an Amazon Associate, Tank Talks earns from qualifying purchases; affiliate links are disclosed on every article. The focus is freshwater only — community tanks, nano tanks, planted tanks, and shrimp keeping.
+
+## Sections
+
+- [Home](https://tanktalks.sdfkjh.com/): latest articles and featured guides.
+- [Start here](https://tanktalks.sdfkjh.com/tools.html): beginner orientation and core concepts.
+- [Troubleshooting](https://tanktalks.sdfkjh.com/troubleshooting.html): diagnose common tank problems (cloudy water, algae, sick fish, stalled cycles).
+- [Articles](https://tanktalks.sdfkjh.com/articles/): full article index.
+- [Recommended gear](https://tanktalks.sdfkjh.com/gear.html): vetted equipment picks.
+- [About](https://tanktalks.sdfkjh.com/legal/about.html): who runs the site and how it earns.
+
+## Key articles
+
+- [The nitrogen cycle, properly explained](https://tanktalks.sdfkjh.com/articles/nitrogen-cycle-properly-explained.html)
+- [Best nano fish for a 10-gallon planted tank](https://tanktalks.sdfkjh.com/articles/best-nano-fish-10-gallon-planted-tank-2026.html)
+- [Neocaridina vs Caridina: which shrimp first](https://tanktalks.sdfkjh.com/articles/neocaridina-vs-caridina-first-shrimp.html)
+- [Drip acclimation for shrimp](https://tanktalks.sdfkjh.com/articles/shrimp-acclimation-drip-method.html)
+- [Cherry shrimp colony not growing](https://tanktalks.sdfkjh.com/articles/cherry-shrimp-breeding-colony-not-growing.html)
+
+## Facts
+
+- Topic: freshwater aquariums only (no saltwater).
+- Monetization: Amazon Associates and other affiliate programs; disclosed per article. No cost to readers.
+- Editorial: see editorial standards and image credits in the site footer.
