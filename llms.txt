@@ -1,6 +1,12 @@
+---
+date: 2026-07-28
+---
+
 # Tank Talks
 
 > Tank Talks (tanktalks.sdfkjh.com) is a freshwater aquarium blog covering fish, shrimp, aquatic plants, and water chemistry. It pairs practical how-to and troubleshooting articles with recommended-gear roundups. As an Amazon Associate, Tank Talks earns from qualifying purchases; affiliate links are disclosed on every article. The focus is freshwater only — community tanks, nano tanks, planted tanks, and shrimp keeping.
+
+Full page content for language models: https://tanktalks.sdfkjh.com/llms-full.txt
 
 ## Sections
 
@@ -11,16 +17,32 @@
 - [Recommended gear](https://tanktalks.sdfkjh.com/gear.html): vetted equipment picks.
 - [About](https://tanktalks.sdfkjh.com/legal/about.html): who runs the site and how it earns.
 
-## Key articles
+## All articles (9)
 
-- [The nitrogen cycle, properly explained](https://tanktalks.sdfkjh.com/articles/nitrogen-cycle-properly-explained.html)
-- [Best nano fish for a 10-gallon planted tank](https://tanktalks.sdfkjh.com/articles/best-nano-fish-10-gallon-planted-tank-2026.html)
-- [Neocaridina vs Caridina: which shrimp first](https://tanktalks.sdfkjh.com/articles/neocaridina-vs-caridina-first-shrimp.html)
-- [Drip acclimation for shrimp](https://tanktalks.sdfkjh.com/articles/shrimp-acclimation-drip-method.html)
-- [Cherry shrimp colony not growing](https://tanktalks.sdfkjh.com/articles/cherry-shrimp-breeding-colony-not-growing.html)
+- [The nitrogen cycle, properly explained](https://tanktalks.sdfkjh.com/articles/nitrogen-cycle-properly-explained.html): the single most important thing to understand about a freshwater aquarium, and where the hobby's folk knowledge is most outdated.
+- [Best nano fish for a 10 gallon planted tank in 2026](https://tanktalks.sdfkjh.com/articles/best-nano-fish-10-gallon-planted-tank-2026.html): which fish actually thrive at the 10-gallon scale.
+- [Neocaridina vs Caridina — picking your first shrimp species](https://tanktalks.sdfkjh.com/articles/neocaridina-vs-caridina-first-shrimp.html): two fundamentally different water chemistries; starting with the wrong one is the most common reason new keepers fail.
+- [How to acclimate new shrimp: the drip method](https://tanktalks.sdfkjh.com/articles/shrimp-acclimation-drip-method.html): the two hours after arrival decide survival; the drip method without the cargo-cult variations.
+- [Cherry shrimp breeding: why your colony isn't growing](https://tanktalks.sdfkjh.com/articles/cherry-shrimp-breeding-colony-not-growing.html): a stalled Neocaridina colony is almost always one of the same five things.
+- [How I finally cracked nitrate control — 6 months in my 40 gallon](https://tanktalks.sdfkjh.com/articles/nitrate-control-40-gallon.html): what actually works for nitrate in a planted community tank.
+- [Bucephalandra: the beginner's guide to keeping "buce" alive](https://tanktalks.sdfkjh.com/articles/bucephalandra-keeping-buce-alive.html): the mistakes that kill Bucephalandra, starting with burying the rhizome.
+- [Java moss vs Christmas moss — which is actually better?](https://tanktalks.sdfkjh.com/articles/java-moss-vs-christmas-moss.html): they grow differently, look different up close, and serve different purposes.
+- [Marimo moss balls: why every shrimp tank needs one](https://tanktalks.sdfkjh.com/articles/marimo-moss-balls-shrimp-tank.html): what marimo actually are and how to keep them round.
+
+## Legal and editorial
+
+- [About](https://tanktalks.sdfkjh.com/legal/about.html) · [Affiliate disclosure](https://tanktalks.sdfkjh.com/legal/disclosure.html) · [Editorial standards](https://tanktalks.sdfkjh.com/legal/editorial-standards.html) · [Image credits](https://tanktalks.sdfkjh.com/legal/image-credits.html) · [Privacy](https://tanktalks.sdfkjh.com/legal/privacy.html) · [Terms](https://tanktalks.sdfkjh.com/legal/terms.html)
+
+## Agent access
+
+- MCP server (read-only, no auth, same-site): https://tanktalks.sdfkjh.com/mcp with tools get_overview, list_articles, search_articles.
+- Article directory API: https://tanktalks.sdfkjh.com/api/articles
+- Markdown content negotiation: request any content page with `Accept: text/markdown` for a clean markdown version.
+- Crawl policy: AI crawlers are welcome for search and real-time answering; content is not licensed for training. See https://tanktalks.sdfkjh.com/robots.txt
 
 ## Facts
 
 - Topic: freshwater aquariums only (no saltwater).
 - Monetization: Amazon Associates and other affiliate programs; disclosed per article. No cost to readers.
-- Editorial: see editorial standards and image credits in the site footer.
+- Editorial: see editorial standards and image credits under Legal and editorial above.
+- Part of the sdfkjh.com family of hand-built sites: https://sdfkjh.com/api/sites

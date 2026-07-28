@@ -1,0 +1,3174 @@
+---
+date: 2026-07-28
+---
+
+# Tank Talks: full page content
+
+> Complete markdown content of tanktalks.sdfkjh.com for language models. Index and summary: https://tanktalks.sdfkjh.com/llms.txt
+
+# Tank Talks — Freshwater Aquarium Blog
+
+Source: https://tanktalks.sdfkjh.com/
+
+colony of 12 → 60
+
+Featured · Shrimp
+
+# Why your Neocaridina colony stopped growing.
+
+A healthy cherry shrimp colony grows like a slow-motion explosion. When yours just sits there — same dozen shrimp, month after month — it's almost always one of five fixable things.
+
+[Read more →](articles/cherry-shrimp-breeding-colony-not-growing.html)
+
+Published · May 9, 2026 Tank 03 · Planted shrimp Reading · 7 min
+
+Trending TikTok
+
+[#aquarium](https://www.tiktok.com/tag/aquarium) [#fishkeeping](https://www.tiktok.com/tag/fishkeeping)
+
+· Reddit Hot
+
+[r/Aquariums](https://www.reddit.com/r/Aquariums/hot/) [r/shrimptank](https://www.reddit.com/r/shrimptank/hot/)
+
+· YouTube Rising
+
+[#aquascaping](https://www.youtube.com/hashtag/aquascaping)
+
+## Start here
+
+↓ the basics [All reference data →](tools.html)
+
+[
+
+Cycling the tank
+
+### Ammonia & nitrite levels
+
+What "cycled" actually means — the thresholds fish can tolerate during cycling, why nitrite kills more fish than ammonia does, and the salt trick that protects them through the spike.
+
+](tools.html#epa-ammonia)[
+
+Water parameters
+
+### Safe nitrate ranges
+
+What shrimp, plant, and community-fish keepers actually target — and where the federal drinking-water number fits in.
+
+](tools.html#epa-nitrate)[
+
+Quarantine & decon
+
+### Treating new plants
+
+Freeze, boil, bleach, vinegar — kill snails, leeches, and hitchhikers before they reach your main tank.
+
+](tools.html#usfws-decon)[
+
+Don't dump
+
+### Releasing tank life
+
+Why you can't release aquarium fish or plants — and where to report invasives if you spot them.
+
+](tools.html#usgs-invasive)
+
+## This week's reads
+
+↓ this week [All articles →](articles/index.html)
+
+[
+
+★ new ![Blue Neocaridina davidi shrimp — common color morph shipped to home aquariums](assets/thumbs/shrimp-acclimation.jpg)
+
+Shrimp · 6 min
+
+### How to acclimate new shrimp: the drip method, without overcomplicating it
+
+You spent $40 on shrimp. They arrived alive. The next two hours decide how many are still alive next week.
+
+](articles/shrimp-acclimation-drip-method.html)[
+
+![Bucephalandra leaves with bluish iridescent sheen](assets/thumbs/bucephalandra.jpg)
+
+Plants · 7 min
+
+### Bucephalandra: the beginner's guide to keeping "buce" alive
+
+I killed my first three. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome.
+
+](articles/bucephalandra-keeping-buce-alive.html)[
+
+![Chili rasbora (Boraras brigittae) in breeding coloration](assets/thumbs/best-nano-fish.jpg)
+
+Fish · 6 min
+
+### Best nano fish for a 10 gallon planted tank in 2026
+
+There are roughly fifteen species commonly recommended. Most are fine. A few really shouldn't be in a tank this size.
+
+](articles/best-nano-fish-10-gallon-planted-tank-2026.html)
+
+## More from the tanks
+
+↓ keep going [All articles →](articles/index.html)
+
+[
+
+★ classic ![Marimo moss balls](assets/thumbs/marimo.jpg)
+
+Shrimp · 6 min
+
+### Marimo moss balls: why every shrimp tank needs one
+
+A clump of slow-spinning algae is a more useful tankmate than most fish. Biofilm grazing, gentle infusoria nursery, the only "plant" that survives most beginners.
+
+](articles/marimo-moss-balls-shrimp-tank.html)[
+
+![Java moss](assets/thumbs/java-moss.jpg)
+
+Plants · 5 min
+
+### Java moss vs Christmas moss — which is actually better?
+
+Christmas moss looks better. Java moss survives more. The honest tradeoff for shrimp tanks, hardscape attachment, and slow-grow vs no-grow setups.
+
+](articles/java-moss-vs-christmas-moss.html)[
+
+experiment ![Planted 40 gallon tank](assets/thumbs/nitrate-control.jpg)
+
+Experiment · 8 min
+
+### How I finally cracked nitrate control — 6 months in my 40 gallon
+
+High nitrates were killing plants and stressing rasboras for months. I tried everything wrong before I tried the right things — including $200 of nitrate-removing media that didn't work.
+
+](articles/nitrate-control-40-gallon.html)
+
+## Common problems
+
+↓ if something's wrong [All 19 troubleshooting answers →](troubleshooting.html)
+
+[
+
+Fish gasping at the surface?
+
+Test nitrite first — brown blood disease moves faster than ammonia toxicity or low oxygen. 50% water change, dose salt if your stocking allows.
+
+Read the fix →
+
+](troubleshooting.html#q-gasping)[
+
+Nitrite test reading something?
+
+In a cycled tank, nitrite is always 0. Anything detectable = water change + look for overfeeding, dead fish, or antibacterial dosing.
+
+Read the fix →
+
+](troubleshooting.html#q-nitrite-high)[
+
+Water turned cloudy overnight?
+
+New tank = bacterial bloom, harmless, clears in days. Green = phytoplankton, cut light. Brown = tannins or substrate, usually fine.
+
+Read the fix →
+
+](troubleshooting.html#q-cloudy)[
+
+Cherry shrimp colony not growing?
+
+Almost always one of five things — TDS, nitrate, copper, food, or temperature. Diagnose in order; the article walks all five.
+
+Read the fix →
+
+](troubleshooting.html#q-colony-stalled)[
+
+Plants slowly dying off?
+
+Light hours first — cap at 8. Then read the fast-growing stems for visual cues. Don't dose a nutrient bottle without knowing which deficiency.
+
+Read the fix →
+
+](troubleshooting.html#q-plants-dying)[
+
+Algae taking over the tank?
+
+Algae diagnoses the problem; killing it doesn't fix it. Cut light, raise plant mass, add Amanos or Nerites. Skip the algae-killer bottles.
+
+Read the fix →
+
+](troubleshooting.html#q-algae)
+
+---
+
+# Start here — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/tools
+
+Cycling the tank
+
+## Safe ammonia levels
+
+Your test kit gives you a number in mg/L. What you actually need to know: at your tank's pH and temperature, how much can your fish tolerate before chronic stress, and how much before acute toxicity? The EPA worked this out in 2013 — pH- and temperature-adjusted, fully documented — and almost no hobbyist has read it. Here's the table.
+
+### The two thresholds
+
+The criteria define two regulatory thresholds, both expressed as **Total Ammonia Nitrogen (TAN)** — the sum of un-ionized ammonia (NH3) and ammonium (NH4+), since aquarium test kits measure them together.
+
+-   **Criterion Continuous Concentration (CCC)** — the 30-day average concentration that should not cause unacceptable chronic effects. This is the threshold for healthy long-term keeping.
+-   **Criterion Maximum Concentration (CMC)** — the 1-hour average concentration that should not cause unacceptable acute effects (death within hours to days).
+
+### Reference-point values (pH 7.0, 20°C)
+
+At the EPA's reference conditions — pH 7.0 and 20°C (68°F), with freshwater mussels and fish early life stages present — the criteria are:
+
+Criterion
+
+Concentration (mg/L TAN)
+
+Averaging period
+
+**CCC (chronic)**
+
+1.9
+
+30-day rolling average
+
+**CMC (acute)**
+
+17
+
+1-hour average
+
+### At pH 7.0, across temperature
+
+Temperature has a major effect — warmer water shifts more ammonia into the toxic un-ionized form and stresses invertebrates more. At pH 7.0, the criteria across temperature are:
+
+Temperature
+
+CMC (acute, mg/L TAN)
+
+CCC (chronic, mg/L TAN)
+
+0°C (32°F)
+
+24
+
+4.4
+
+30°C (86°F)
+
+7.3
+
+0.99
+
+The full pH × temperature lookup matrix (covering pH 6.5–9.0 and the same temperature range) is published as Tables 5a and 5b in the source document linked below. If your tank is at a pH other than 7.0, use those tables directly rather than interpolating — the relationship is non-linear and the EPA's published values are the authoritative form.
+
+### Reading the criteria for aquarium use
+
+Your liquid test kit reports TAN (the sum of NH3 and NH4+). Compare it to the CCC for your temperature:
+
+-   **Below CCC** — safe for indefinite exposure.
+-   **Between CCC and CMC** — stressful; trigger a water change immediately and address the cause.
+-   **Above CMC** — emergency. Substantial water change now; the fish are in acute toxicity territory.
+
+### Why borrow these numbers at all
+
+The hobby has no equivalent body of testing. The EPA's criteria are the most rigorously derived freshwater ammonia thresholds in print — built from genus-level toxicity tests across native species, including freshwater mussels (notably more sensitive than fish, which is why these numbers got stricter in 2013 when mussel data was added). Until the hobby produces something better, these are the cleanest reference points we've got.
+
+#### Source
+
+U.S. Environmental Protection Agency (2013). _Aquatic Life Ambient Water Quality Criteria for Ammonia – Freshwater 2013._ EPA 822-R-13-001. Office of Water, Washington, DC, April 2013.
+
+-   [Official PDF on epa.gov](https://www.epa.gov/sites/default/files/2015-08/documents/aquatic-life-ambient-water-quality-criteria-for-ammonia-freshwater-2013.pdf) (Tables 5a/5b for full lookup)
+-   [EPA program page](https://www.epa.gov/wqc/aquatic-life-criteria-ammonia)
+-   [EPA fact sheet (plain-language summary)](https://www.epa.gov/sites/default/files/2015-08/documents/fact_sheet_aquatic-life-ambient-water-quality-criteria-for-ammonia-freshwater-2013.pdf)
+
+Cycling the tank
+
+## Safe nitrite levels
+
+Nitrite is the dangerous middle step in cycling — your ammonia-eating bacteria turn ammonia into nitrite, and a second set of bacteria (slower to establish) turns that into the much less toxic nitrate. In a cycled tank, nitrite reads zero. If it doesn't, something has crashed.
+
+### The hobby rule
+
+-   **Cycled tank — 0 ppm.** Anything detectable means your nitrite-oxidizers aren't keeping up. Look for recent overfeeding, a dead fish you missed, substrate disturbance that released gunk, or antibacterial dosing that wiped part of the biofilter.
+-   **During cycling — spike is expected.** Nitrite typically appears 1–2 weeks after the ammonia spike, peaks for several days, then drops to 0 over the following 1–2 weeks as the second bacterial colony (_Nitrobacter_ / _Nitrospira_) catches up.
+-   **Brown blood disease (methemoglobinemia).** Nitrite outcompetes oxygen on fish hemoglobin at the gill. Symptoms: tan/brown-tinted gills and blood, fish gasping at the surface even with strong aeration. Acute and fatal — and faster-acting than ammonia toxicity, which is why "cycling kills" usually happen at the nitrite stage, not the ammonia stage.
+
+### Salt as a protective trick during cycling
+
+Chloride competes with nitrite at the fish gill. Dosing **~1 ppt salt** (roughly 1 teaspoon of aquarium salt per 4 gallons) during the nitrite stage of a fish-in cycle meaningfully reduces uptake and protects the fish through the spike. Caveats — skip this if your stocking includes:
+
+-   **Caridina shrimp** (Crystal Reds, Taiwan Bees, Pintos) — salt-intolerant.
+-   **Scaleless fish** — corydoras, loaches, some catfish.
+-   **Salt-sensitive plants** — most stem plants and many crypts will degrade.
+
+For sensitive stocking, do a **fishless cycle** (dose ammonia, no fish in tank) and skip the salt entirely.
+
+### EPA drinking-water MCL for nitrite
+
+Contaminant
+
+MCLG
+
+MCL (enforceable)
+
+Codified at
+
+Nitrite (measured as Nitrogen, NO2\-N)
+
+1.0 mg/L
+
+1.0 mg/L
+
+40 CFR §141.62
+
+Nitrite's drinking-water MCL is **ten times stricter than nitrate's** (1.0 vs 10.0 mg/L as N), codified in the same section of the same regulation. The EPA recognizes nitrite as substantially more acutely toxic at lower concentrations — same principle that applies in aquariums, just at a different scale: nitrate hobby caps are 20–40 ppm, nitrite should be 0.
+
+#### Source
+
+U.S. Environmental Protection Agency. _National Primary Drinking Water Regulations — Inorganic Chemicals._ 40 CFR §141.62. The nitrite MCL is published in the same table as the nitrate MCL.
+
+-   [EPA Primary Drinking Water Regulations table](https://www.epa.gov/ground-water-and-drinking-water/national-primary-drinking-water-regulations)
+
+Water parameters
+
+## Safe nitrate ranges
+
+Hobby practice is roughly 20 ppm nitrate ceiling for shrimp, 40 for community fish. There's no aquatic-life criterion to anchor those caps to the way ammonia has one — but there is a federal drinking-water limit, and it matters because it tells you why the hobby's targets are stricter.
+
+### EPA drinking-water Maximum Contaminant Level (MCL)
+
+Contaminant
+
+MCLG
+
+MCL (enforceable)
+
+Codified at
+
+Nitrate (measured as Nitrogen, NO3\-N)
+
+10 mg/L
+
+10 mg/L
+
+40 CFR §141.62
+
+A critical unit detail: this 10 mg/L is measured **as nitrogen**, not as total nitrate ion. To convert to "nitrate as NO3\-" (which some test kits and overseas standards use), multiply by 4.43. The 10 mg/L NO3\-N equals roughly 44 mg/L NO3\-.
+
+#### Source
+
+U.S. Environmental Protection Agency. _National Primary Drinking Water Regulations — Inorganic Chemicals._ 40 CFR §141.62.
+
+-   [EPA Primary Drinking Water Regulations table](https://www.epa.gov/ground-water-and-drinking-water/national-primary-drinking-water-regulations)
+
+### Why hobby caps come in lower
+
+The drinking-water MCL is set for human consumption — infants are the binding constraint, because nitrate can interfere with infant hemoglobin (methemoglobinemia, "blue baby syndrome"). It was never designed to protect long-term aquatic life. Hobby thresholds of 20–40 ppm exist because chronic exposure stresses fish at concentrations well below the human-health limit, and sensitive shrimp species show reproductive impairment lower still.
+
+### Aquarium hobby soft caps
+
+These are not regulatory — they are convergent recommendations from experienced keepers and aquarium veterinary literature. Use them as soft targets, not bright lines.
+
+Stocking
+
+Soft cap (ppm NO3\- as N)
+
+Caridina shrimp (Crystal Reds, Taiwan Bees, Pintos)
+
+≤ 10
+
+Neocaridina shrimp (Cherry, Blue Dream, etc.)
+
+≤ 20
+
+Sensitive community fish (rasboras, tetras, corydoras)
+
+≤ 20
+
+Hardy community fish (most livebearers, danios)
+
+≤ 40
+
+Any freshwater inhabitant
+
+< 80 (emergency threshold)
+
+Quarantine & decon
+
+## Treating new plants
+
+If a moss ball you bought might contain zebra mussels — or you've already found them — here's how to kill them without seeding a waterway. USFWS published this protocol after the 2021 marimo recall. Do not flush, drain, or compost contaminated material; that's how invasions spread.
+
+### Destroying a contaminated moss ball — choose ONE method
+
+The protocol — pick one:
+
+Method
+
+Procedure
+
+**Freeze**
+
+Place the moss ball in a sealable plastic bag and freeze for at least **24 hours**.
+
+**Boil**
+
+Place the moss ball in boiling water for at least **1 full minute**.
+
+**Bleach**
+
+Submerge in regular unscented bleach diluted to **1/3 cup per gallon of water**, for **10 minutes**.
+
+**Vinegar**
+
+Submerge in **undiluted white vinegar for 20 minutes**.
+
+### Disposal
+
+After destruction, dispose in a **sealed plastic bag in the trash**. **Never down drains, waterways, or compost.** The treatment liquids (vinegar, boiling water, bleach solution) may be poured down a household drain — but never a storm drain.
+
+### Decontaminating the aquarium itself
+
+If the moss ball was in a stocked tank, the tank and equipment need decon too:
+
+Method
+
+Procedure
+
+**Hot water**
+
+Flush and coat tank, accessories, and equipment with **120°F water for at least 2 minutes**.
+
+**Saline soak**
+
+**1/2 cup salt per gallon**; soak substrate, rocks, décor, and filter media for **24 hours**.
+
+**Bleach contaminated water**
+
+**1/3 cup bleach per gallon**, let sit **10 minutes**, then drain to a household drain.
+
+#### Source
+
+U.S. Fish & Wildlife Service. _Zebra Mussel Disposal Instructions ("Destroy! Don't Dump!")_. USFWS, 2021.
+
+-   [Disposal instructions (media page)](https://www.fws.gov/media/zebra-mussel-disposal-instructions)
+-   [Disposal instructions PDF](https://www.fws.gov/sites/default/files/documents/zebra-mussel-disposal.pdf)
+-   [USFWS 2021 marimo recall story](https://www.fws.gov/story/2021-03/invasive-zebra-mussels-found-moss-balls)
+
+### Reporting confirmed contamination
+
+Confirmed contamination should be reported to:
+
+-   Your **state fish & wildlife agency** — they coordinate state-level response and may collect the specimen for confirmation.
+-   The **USGS NAS database** (see below) — for the public scientific record.
+-   **USFWS regional office** — for federally listed invasive species.
+
+Don't dump
+
+## Releasing tank life
+
+Found something that shouldn't be in your part of the country — zebra mussels in a moss ball, an aquarium fish in a local stream? Report it. The federal NAS database is where invasion-front data actually gets tracked, and your sighting becomes part of the public scientific record researchers work from.
+
+### Key URLs
+
+Resource
+
+URL
+
+NAS database homepage
+
+[nas.er.usgs.gov](https://nas.er.usgs.gov/)
+
+Sighting report form
+
+[nas.er.usgs.gov/SightingReport.aspx](https://nas.er.usgs.gov/SightingReport.aspx)
+
+Zebra mussel (_Dreissena polymorpha_) species profile
+
+[Zebra mussel fact sheet](https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=5)
+
+Cherry shrimp (_Neocaridina davidi_) species profile
+
+[Cherry shrimp fact sheet](https://nas.er.usgs.gov/queries/FactSheet.aspx?SpeciesID=2257)
+
+### What the sighting form asks for
+
+The form expects a complete record so the database entry is useful to researchers. Fields:
+
+-   **Species** — type (Crustacean / Fish / Mollusk / Plant / etc.), common name, genus, species, number observed
+-   **Date of observation** — MM/DD/YYYY (when you saw it, not when you're reporting)
+-   **Location** — state, county, latitude/longitude (decimal or DMS), specific location description
+-   **Observer** — name, email, telephone, address
+-   **Image** — up to 4 photos (.jpg / .png / .heic, 1 MB each max)
+-   **Comments** — context like dead-or-alive, where exactly (in the moss ball, in the filter, on substrate)
+
+#### Source
+
+U.S. Geological Survey. _Nonindigenous Aquatic Species Database._ Gainesville, FL. Maintained by the USGS Wetland and Aquatic Research Center.
+
+### What makes a useful sighting report
+
+A good sighting report needs five things:
+
+-   **Location** — GPS coordinates or a precise address; "near my house" is not enough for the database to use.
+-   **Date** — when you saw it, not when you're reporting.
+-   **Species** — best guess at scientific name; the form accepts photos for verification.
+-   **Photo** — clear, in-focus, with something for scale.
+-   **Context** — was it dead or alive, how many, where exactly (in the moss ball, on the substrate, in the filter)?
+
+Standard methods
+
+## Water-testing methodology
+
+When an article on this site says "test ammonia, nitrite, and nitrate" — these are the documents that define what those tests actually measure and how. Most aquarium liquid test kits implement one of these standard methods.
+
+### EPA Method 350.1 — Ammonia by colorimetry
+
+This is the federally referenced method that most commercial aquarium ammonia test kits implement (in simplified form). It measures Total Ammonia Nitrogen — both NH3 and NH4+ — using the automated phenate (indophenol blue) reaction: sample reacts with alkaline phenol and hypochlorite, intensified with sodium nitroprusside, absorbance read at 630–660 nm.
+
+#### Source
+
+U.S. Environmental Protection Agency. _Method 350.1: Determination of Ammonia Nitrogen by Semi-Automated Colorimetry,_ Revision 2.0. EPA-600/R-93-100. Cincinnati, OH, August 1993.
+
+-   [EPA program page](https://www.epa.gov/esam/epa-method-3501-determination-ammonia-nitrogen-semi-automated-colorimetry)
+-   [Method PDF](https://www.epa.gov/sites/default/files/2015-06/documents/epa-350.1.pdf)
+
+### APHA Standard Methods — water testing reference
+
+The professional reference for water analysis methodology. Aquarium test kits are usually simplified versions of these methods; the published volume is the authority on what each test actually measures.
+
+Parameter
+
+Section family
+
+Ammonia (NH3 + NH4+ as N)
+
+4500-NH3
+
+Nitrite (NO2\- as N)
+
+4500-NO2\-
+
+Nitrate (NO3\- as N)
+
+4500-NO3\-
+
+Each section family contains multiple sub-methods (titrimetric, colorimetric, ion-selective electrode, flow injection). Sub-method letters have shifted between editions; cite by edition when referencing a specific lettered sub-method.
+
+#### Source
+
+Lipps, W.C., Baxter, T.E., and Braun-Howland, E.B. (eds.). _Standard Methods for the Examination of Water and Wastewater,_ 24th edition. APHA Press, Washington, DC, 2023. ISBN 978-0-87553-299-8.
+
+-   [standardmethods.org](https://www.standardmethods.org/) (publisher; volume is paywalled)
+
+## About this page
+
+Every figure on this page is copied verbatim from the cited source. No paraphrase, no rounding, no telephone game from a forum thread to a wiki to here. If a source updates one of these criteria, we update the page — or, if we're slow, email **hello@tanktalks.sdfkjh.com** with the new reference and we'll fix it.
+
+_This page is a reference, not medical or veterinary advice. If you're treating a sick tank, contact a qualified aquatic veterinarian._
+
+Last updated May 11, 2026
+
+---
+
+# Troubleshooting — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/troubleshooting
+
+![Heavily planted aquascape mid-cycle, with sponge filter visible](assets/tiles/ammonia-aquascape.jpg)
+
+Cycling & parameters
+
+## When the chemistry has gone sideways
+
+The high-stakes questions — fish about to die, biofilter crashing, water doing something it shouldn't.
+
+### My fish are gasping at the surface — what's wrong?
+
+**Check nitrite first.** Anything above 0 means nitrite toxicity (brown blood disease) — do a 50% water change immediately and dose ~1 ppt salt as protection if your stocking allows. If nitrite is 0, check ammonia, then temperature (warmer water holds less dissolved oxygen) and surface agitation. Sustained gasping with 0/0 ammonia/nitrite usually means an oxygen problem, not chemistry.
+
+[→ Safe nitrite levels](tools.html#epa-nitrite) · [→ Safe ammonia levels](tools.html#epa-ammonia)
+
+### My ammonia test is reading something — what do I do?
+
+**Anything detectable means the tank isn't cycled (yet, or anymore).** Look up your tank's CCC for your pH and temperature in the EPA table — cycled-tank goal is 0 ppm, emergency is above CMC. If you're mid-cycle, expect this for 1–3 weeks. If a cycled tank suddenly reads ammonia, look for a dead fish, recent overfeeding, or a filter that died.
+
+[→ Safe ammonia levels](tools.html#epa-ammonia) · [→ The nitrogen cycle, properly explained](articles/nitrogen-cycle-properly-explained.html)
+
+### My nitrite test is reading something — what do I do?
+
+**In a cycled tank, this should always be 0.** Anything detectable = water change plus look for the cause: recent overfeeding, a dead fish you missed, antibacterial dosing, substrate disturbance. If mid-cycle, you're in the nitrite stage — expect this for 1–2 weeks, dose salt as protection if your stocking allows.
+
+[→ Safe nitrite levels](tools.html#epa-nitrite)
+
+### My nitrate is high — how do I bring it down?
+
+**Water changes are the only thing that reliably works.** A 50% change drops nitrate by roughly 50%; nothing in a bottle does this without trade-offs. Long-term: heavy plant load with fast-growers (hornwort, wisteria), reduce feeding, increase substrate cleaning. The article below walks through 6 months of dialing a 40-gallon down from 80 ppm to 10.
+
+[→ How I finally cracked nitrate control](articles/nitrate-control-40-gallon.html) · [→ Safe nitrate ranges](tools.html#epa-nitrate)
+
+### My water is cloudy — what's wrong?
+
+Three causes. **White/grey cloudy in a new tank** (3 weeks to 2 months old) is a bacterial bloom — harmless, clears in 3–7 days, do nothing. **Green cloudy** is a phytoplankton bloom — cut light to 6 hours, raise plant density. **Brown cloudy** is usually tannins from driftwood (harmless, fades over weeks) or settled substrate (clears in hours).
+
+### My fish have brown or tan gills — what does that mean?
+
+**Brown blood disease — nitrite toxicity.** Nitrite outcompetes oxygen on hemoglobin, blood goes brown. Test nitrite immediately, do a 50% water change, dose ~1 ppt salt if your stocking allows (skip if you have Caridina shrimp, corydoras, or salt-sensitive plants). Usually happens during cycling, but can also mean a crashed biofilter in an established tank.
+
+[→ Safe nitrite levels](tools.html#epa-nitrite)
+
+![Chili rasbora (Boraras brigittae) in a community planted tank](assets/thumbs/best-nano-fish.jpg)
+
+Stocking & compatibility
+
+## What goes with what
+
+The "can I keep X with Y?" questions every new keeper asks, with direct answers about what works and what the shop oversold you.
+
+### What fish can I keep in a 10-gallon planted tank?
+
+**Short answer:** a small school of chili rasboras, sparkling gouramis as a centerpiece pair, or a single Betta plus cherry shrimp. Avoid: anything marketed as "community" without specifics, goldfish (no — they grow), most barbs, anything over ~2 inches. The full breakdown of what works and what shops oversell is in the article below.
+
+[→ Best nano fish for a 10 gallon planted tank in 2026](articles/best-nano-fish-10-gallon-planted-tank-2026.html)
+
+### Can I keep fish with cherry shrimp?
+
+Yes, but the fish you pick decides whether you have a colony or expensive snacks. **Safe**: chili rasboras, pygmy corydoras, otocinclus, sparkling gouramis. **Unsafe**: anything bigger than a chili rasbora, anything that eats invertebrates (loaches, most gouramis, dwarf cichlids, bettas — even calm ones eventually). Babies are at most risk; even a "shrimp-safe" fish picks off the smallest. Heavy plant cover helps.
+
+[→ Nano fish picks](articles/best-nano-fish-10-gallon-planted-tank-2026.html) · [→ Why your cherry shrimp colony stopped growing](articles/cherry-shrimp-breeding-colony-not-growing.html)
+
+### How many fish should a schooling species have?
+
+**Real schooling minimum is six.** Most retail signage says "groups of 3–4" — that's not a school, that's three stressed individuals that will hide all day. Six is the floor; eight to ten is where they start behaving like the species you bought. If you can't fit six of something, pick a smaller species, not a smaller school.
+
+### My livebearers (guppies, platies, mollies) keep dying — what's wrong?
+
+**Livebearers are demanding, despite the marketing.** They need hard, alkaline water (pH 7.5+, GH 10+), often a touch of salt, and they breed aggressively in soft tanks until everything crashes. If your tap water is soft (most US west coast and northeast tap is), every "easy" livebearer you buy will slowly fail. Either match the species to your water, remineralize, or pick a different species.
+
+![Crystal Red Caridina shrimp on a planted hardscape](assets/thumbs/caridina-crystal-red.jpg)
+
+Shrimp-specific
+
+## Cherry, Crystal, and the math of a colony
+
+Shrimp are the editorial center of gravity on this site. The questions below are the ones every shrimp keeper hits, usually in the first six months.
+
+### My cherry shrimp colony stopped growing — why?
+
+**Almost always one of five things:** TDS too low for molting (target 200–300), nitrate above 20 ppm (chronic reproductive impairment), copper exposure (from medication or tap), insufficient food (yes — too clean a tank is the most common cause), or temperature too cold (need 72°F+ for active breeding). The article walks through diagnosing all five in order.
+
+[→ Why your cherry shrimp colony stopped growing](articles/cherry-shrimp-breeding-colony-not-growing.html)
+
+### How do I add new shrimp to my tank without killing them?
+
+**Drip acclimate for 2–3 hours minimum.** Not float-the-bag (useless for chemistry), not dump-and-hope (osmotic shock kills them in days). Tube and valve from your tank to a container, 2–4 drops per second, double the volume, then double it again. The article has the full setup plus the mistakes that wasted my first $40 of shrimp.
+
+[→ The drip method, without overcomplicating it](articles/shrimp-acclimation-drip-method.html)
+
+### Cherry shrimp vs Crystal shrimp — which is easier?
+
+**Cherry (Neocaridina) every time, for a first colony.** Crystal/Caridina need RO water plus a remineralizer, active substrate (lowers KH), pH 6.0–6.8, TDS 100–150, no copper, no fluctuation. Cherry will breed in tap water at neutral pH and forgive most beginner mistakes. The full comparison and when Crystal is worth the trouble is in the article.
+
+[→ Neocaridina vs Caridina — your first shrimp](articles/neocaridina-vs-caridina-first-shrimp.html)
+
+### Can I dose salt in a shrimp tank?
+
+**Neocaridina tolerate it. Caridina don't.** Cherry, Blue Dream, and other Neocaridina handle brief salt dosing for nitrite emergencies — they're tougher than people think. Crystal, Taiwan Bees, and other Caridina do NOT tolerate it at any level — don't dose salt in a Caridina tank ever. If you're mid-cycle and have shrimp in the tank, do a 50% water change instead of dosing salt.
+
+[→ Safe nitrite levels](tools.html#epa-nitrite)
+
+![Dutch-style heavily planted freshwater aquarium](assets/tiles/nitrate-dutch.jpg)
+
+Plants & moss
+
+## When the greenery isn't cooperating
+
+Plants tell you what's wrong with your tank before the fish do — but only if you read them right. The questions below are the ones we get most often about specific plants and general planted-tank trouble.
+
+### My plants are dying — what should I check first?
+
+**Light hours first — cap at 8 (over that you grow algae, not plants).** Then read your fast-growing stems for visual cues: **yellow lower leaves** = nitrogen/potassium, **pinholes** = potassium specifically, **transparent new growth** = iron, **stunted growth** = phosphate or CO2. Fix the deficiency, not the symptom. Don't dose a bottle of nutrients without knowing which one — over-dosing iron will crash your shrimp.
+
+[→ How I finally cracked nitrate control](articles/nitrate-control-40-gallon.html)
+
+### Java moss vs Christmas moss — which should I get?
+
+**Java if you want it to survive whatever you do to it.** Christmas if you can keep it alive long enough to enjoy the better look. Christmas grows tight and branching, picture-book moss; Java grows in a tangle but doesn't die if you forget about it for a month. For first moss, get Java. For shrimp tanks specifically, get both — they prefer Christmas to graze on, but Java will save you when the Christmas inevitably stalls.
+
+[→ Java moss vs Christmas moss — which is actually better?](articles/java-moss-vs-christmas-moss.html)
+
+### My marimo moss ball is turning brown — what's happening?
+
+**Three causes:** water too warm (they're cool-water — 76°F max, ideally lower), accumulated detritus on the surface (squeeze and rinse weekly in tank water), or too much light (they evolved at depth — keep them shaded or rotate so all sides get equal exposure). Brown patches recover slowly; black ones don't.
+
+[→ Marimo moss balls: why every shrimp tank needs one](articles/marimo-moss-balls-shrimp-tank.html)
+
+### My Bucephalandra is turning yellow or melting — what now?
+
+**Buce melts when you change its environment too fast — or bury its rhizome.** Tie it to hardscape, never to substrate (rhizome must be exposed). Stable parameters matter more than ideal parameters — fluctuations cause melt. If a leaf already melted, leaves below the rhizome will regrow; cut the dead leaf at the rhizome with sharp scissors. The article covers the mistakes that killed my first three.
+
+[→ Keeping "buce" alive](articles/bucephalandra-keeping-buce-alive.html)
+
+### My tank has algae everywhere — how do I fix it?
+
+**Algae diagnoses the problem; killing it doesn't fix it.** Cut light to 6 hours. Increase fast-growing stem plant mass. Reduce feeding. Add Amano shrimp (most effective algae crew member) or Nerite snails. Hydrogen peroxide spot-dose for hair and staghorn algae specifically. Avoid "algae killer" bottles — they all damage plants and most damage shrimp.
+
+## Still stuck? Ask the community.
+
+Email us at **hello@tanktalks.sdfkjh.com** with a photo, your test results, and what you've tried — we answer everything, slowly sometimes, but always.
+
+Or hit the Reddit aquarium subs. They're large, active, and (mostly) friendly — but they're brutal to vague questions. Frame yours like this:
+
+### How to ask so people actually help
+
+-   **Tank size + age** — number of gallons, weeks or months running.
+-   **Full parameters from a recent test** — ammonia, nitrite, nitrate, pH, GH/KH, temp. The more you list, the more seriously people take you.
+-   **A clear photo of the problem** — fish, plant, water, gill, whatever the issue is. In focus, well-lit, no flash on the glass.
+-   **What you've already tried** — and what you're seeing now. Don't just say "it's not working"; describe the specific change you made and what happened next.
+-   **Your stocking list** — every species and how many of each. This is where most "why are my fish dying" threads turn out to be overstocking.
+
+### Where to ask
+
+-   [r/Aquariums](https://www.reddit.com/r/Aquariums/) — biggest, general freshwater. Good for emergencies and stocking advice.
+-   [r/shrimptank](https://www.reddit.com/r/shrimptank/) — Caridina, Neocaridina, breeding, parameters. The whole shrimp-keeper world lives here.
+-   [r/PlantedTank](https://www.reddit.com/r/PlantedTank/) — planted tanks, dosing, lighting, CO2, algae diagnosis.
+-   [r/AquaticPlants](https://www.reddit.com/r/AquaticPlants/) — plant ID and deficiency diagnosis specifically. Smaller, more focused.
+-   [r/fishkeeping](https://www.reddit.com/r/fishkeeping/) — beginner-friendly, less critical of basic questions than r/Aquariums can be.
+-   [r/Goldfish](https://www.reddit.com/r/Goldfish/) — goldfish-specific. Their needs differ enough from tropical that the general subs sometimes give them wrong advice.
+
+Last updated May 25, 2026
+
+---
+
+# Recommended gear — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/gear
+
+All product links on this page are affiliate links. [Read our full disclosure →](legal/disclosure.html)
+
+## Test kits & water chemistry
+
+If you only buy from one section on this page, buy from this one. Knowing your numbers is the difference between fixing a problem and guessing at it.
+
+[
+
+![API Freshwater Master Test Kit](https://m.media-amazon.com/images/I/61Kd-mEEjXL._AC_SL500_.jpg)
+
+API Freshwater Master Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NCI?tag=tanktalks-20)[
+
+![API GH and KH Test Kit](https://m.media-amazon.com/images/I/518PHJWONXL._AC_SL500_.jpg)
+
+API GH & KH Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B003SNCHMA?tag=tanktalks-20)[
+
+![TDS Meter (4-in-1 digital)](https://m.media-amazon.com/images/I/713+1cAX5RL._AC_SL500_.jpg)
+
+TDS Meter (4-in-1 digital)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CTHWS8GX?tag=tanktalks-20)[
+
+![Salty Shrimp GH/KH+ remineralizer](https://m.media-amazon.com/images/I/81yGQ7-pHNL._AC_SL500_.jpg)
+
+Salty Shrimp GH/KH+ remineralizer
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y581DC4?tag=tanktalks-20)[
+
+![Salty Shrimp Bee Shrimp Mineral GH+](https://m.media-amazon.com/images/I/816tMgVwv6L._AC_SL500_.jpg)
+
+Salty Shrimp Bee Shrimp Mineral GH+
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y5M7CGB?tag=tanktalks-20)[
+
+![Seachem Prime water conditioner](https://m.media-amazon.com/images/I/61aPb4rk8cL._AC_SL500_.jpg)
+
+Seachem Prime (water conditioner)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0002568S6?tag=tanktalks-20)[
+
+![Dr Tim's One and Only freshwater bacteria](https://m.media-amazon.com/images/I/71un6XQNzUL._AC_SL500_.jpg)
+
+Dr. Tim's One & Only (freshwater bacteria)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B001LULBXI?tag=tanktalks-20)[
+
+![Dr Tim's Ammonium Chloride for fishless cycling](https://m.media-amazon.com/images/I/61xRAuB3eIL._AC_SL500_.jpg)
+
+Dr. Tim's Ammonium Chloride (fishless cycle)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00WSNYRDS?tag=tanktalks-20)
+
+## Filtration, lighting & equipment
+
+A quiet, dependable filter and a light you don't have to fuss with. The hardware that just works in the background.
+
+[
+
+![Pawfly sponge filter kit with air pump](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Pawfly Sponge Filter Kit + Air Pump
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)[
+
+![hygger 24/7 LED with sunrise/moonlight](https://m.media-amazon.com/images/I/71WY09nSviL._AC_SL500_.jpg)
+
+hygger 24/7 LED (sunrise & moonlight)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B093GZKYM9?tag=tanktalks-20)[
+
+![hygger Mini 50W aquarium heater](https://m.media-amazon.com/images/I/61aCcw5MGnL._AC_SL500_.jpg)
+
+hygger Mini 50W heater (5–10 gal)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D53VDS9J?tag=tanktalks-20)[
+
+![Python water changer](https://m.media-amazon.com/images/I/71FfEX5LreL._AC_SL500_.jpg)
+
+Python Water Changer
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NXC?tag=tanktalks-20)[
+
+![Aquatic Life RO Buddie reverse osmosis unit](https://m.media-amazon.com/images/I/71cDsgZkZfL._AC_SL500_.jpg)
+
+Aquatic Life RO Buddie (RO unit)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00204CQF6?tag=tanktalks-20)[
+
+![Pawfly soft aquarium fish net](https://m.media-amazon.com/images/I/61KX407Zf4L._AC_SL500_.jpg)
+
+Pawfly soft aquarium fish net
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06XNNY4YW?tag=tanktalks-20)
+
+## Plants & substrate
+
+Live plants we've actually grown. Floating, foreground, hardscape attachment, and a black sand we trust for shrimp.
+
+[
+
+![Java Moss](https://m.media-amazon.com/images/I/51l6ca4lIsL._AC_SL500_.jpg)
+
+Java Moss (Taxiphyllum barbieri)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B099RJRVFV?tag=tanktalks-20)[
+
+![Christmas Moss](https://m.media-amazon.com/images/I/61Clf7hb8jL._AC_SL500_.jpg)
+
+Christmas Moss
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07JV7NFBH?tag=tanktalks-20)[
+
+![Bucephalandra Kedagang (tissue culture)](https://m.media-amazon.com/images/I/61bKliaOmCL._AC_SL500_.jpg)
+
+Bucephalandra Kedagang (tissue culture)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0FB5BGRQK?tag=tanktalks-20)[
+
+![Java Fern and Anubias bundle](https://m.media-amazon.com/images/I/81jzGZTMH0L._AC_SL500_.jpg)
+
+Java Fern + Anubias bundle
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0DNNN5VD2?tag=tanktalks-20)[
+
+![Amazon Frogbit floating plant](https://m.media-amazon.com/images/I/71aG8SiGgRL._AC_SL500_.jpg)
+
+Amazon Frogbit (20+ leaves)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B08BKWTDCP?tag=tanktalks-20)[
+
+![Hornwort](https://m.media-amazon.com/images/I/51s3YpWL76L._AC_SL500_.jpg)
+
+Hornwort (nitrate sponge)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CXRVR7WN?tag=tanktalks-20)[
+
+![Aquarium lava rock 10 pack](https://m.media-amazon.com/images/I/71BYfkq0r1L._AC_SL500_.jpg)
+
+Tfwadmx Aquarium Lava Rock (10pk)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D479CQVK?tag=tanktalks-20)[
+
+![FANTIAN black aquarium sand](https://m.media-amazon.com/images/I/91YgvkTUaxL._AC_SL500_.jpg)
+
+FANTIAN Black Aquarium Sand (5 lb)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D95Y7K6N?tag=tanktalks-20)
+
+## Shrimp essentials
+
+The supplies that turn a tank into a working shrimp habitat — biofilm food sources, copper-free fertilizer, and the jar we drip-acclimate in.
+
+[
+
+![SunGrow Indian almond leaves](https://m.media-amazon.com/images/I/719xU+QfN1L._AC_SL500_.jpg)
+
+Indian Almond Leaves (SunGrow 50pcs)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B01G78H5XS?tag=tanktalks-20)[
+
+![ThriveS Shrimp Specific Fertilizer (copper-free)](https://m.media-amazon.com/images/I/61UoX-VlqTL._AC_SL500_.jpg)
+
+ThriveS Shrimp Fertilizer (copper-free)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06XK816RT?tag=tanktalks-20)[
+
+![Live marimo moss balls 4 pack](https://m.media-amazon.com/images/I/61eeMoKvd5L._AC_SL500_.jpg)
+
+Live Marimo Moss Balls (4-pack)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0H1R3QC4L?tag=tanktalks-20)[
+
+![Folinstall wide-mouth apothecary jar](https://m.media-amazon.com/images/I/51xVrkIusNL._AC_SL500_.jpg)
+
+Folinstall Apothecary Jar (drip acclimation)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07GZ76ZZ6?tag=tanktalks-20)
+
+## Aquascaping tools
+
+The handful of tools that earn their place in a planted-tank toolkit. Curved scissors and reef glue do more work than you'd guess.
+
+[
+
+![Mandala Crafts curved aquascape scissors](https://m.media-amazon.com/images/I/71UKV1Jn+EL._AC_SL500_.jpg)
+
+Mandala Crafts curved aquascape scissors
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B074WFT53B?tag=tanktalks-20)[
+
+![Seachem Reef Glue cyanoacrylate](https://m.media-amazon.com/images/I/81pEd7gx5NL._AC_SL500_.jpg)
+
+Seachem Reef Glue (cyanoacrylate)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00HWH7E1W?tag=tanktalks-20)[
+
+![Connecting Threads cotton sewing thread](https://m.media-amazon.com/images/I/81x+6mAZe4L._AC_SL500_.jpg)
+
+Connecting Threads cotton thread (moss tying)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07RRD6TBN?tag=tanktalks-20)
+
+---
+
+# Best nano fish for a 10 gallon planted tank in 2026 — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/best-nano-fish-10-gallon-planted-tank-2026
+
+A 10-gallon tank is the sweet spot. It's big enough to support a real planted ecosystem with multiple species, small enough to fit anywhere, and forgiving enough that beginners can succeed without specialty equipment. The trick is knowing which fish actually thrive at this scale, versus which ones are sold for it but shouldn't be.
+
+This guide is opinionated on purpose. There are roughly fifteen species commonly recommended for 10-gallon tanks. Most of them are fine. A few are genuinely the best choices, and a few — including some of the most popular — really shouldn't be in a tank this size despite what the pet store says. I'll cover both.
+
+## What "10 gallon" actually means for stocking
+
+A standard 10-gallon tank is 20" × 10" × 12" — a 200-square-inch footprint, about 9 actual gallons of water once you account for substrate and decor. That footprint matters more than the volume. Long, slender fish need horizontal space to swim; territorial fish need horizontal space to maintain personal turf. A taller "column" tank with the same volume is much harder to stock well.
+
+The old "one inch of fish per gallon" rule is wrong — it ignores body shape, waste output, and activity level. A more useful rule for a 10-gallon planted tank: either one centerpiece fish plus a small invertebrate cleanup crew, or a single school of 6–10 nano fish under 1.5 inches, or two small shoals of 6 tiny fish under 1 inch in a heavily planted setup. These are upper limits, not targets.
+
+A planted tank is more forgiving than a bare one because plants consume nitrate, oxygenate water, and provide structural cover. Stocking guidance assumes plants. A bare 10-gallon should hold noticeably less.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/61aCcw5MGnL._AC_SL500_.jpg)
+
+Adjustable 50W Aquarium Heater
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D53VDS9J?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge Filter + Air Pump
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61Kd-mEEjXL._AC_SL500_.jpg)
+
+API Freshwater Master Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NCI?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/91YgvkTUaxL._AC_SL500_.jpg)
+
+Dark Sand Substrate
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D95Y7K6N?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/81jzGZTMH0L._AC_SL500_.jpg)
+
+Java Fern + Anubias Starter
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0DNNN5VD2?tag=tanktalks-20)
+
+## The five best choices
+
+![A male celestial pearl danio (Danio margaritatus) showing pearl spots and red-orange fins.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%A1nio_perlov%C3%A9.jpg/1280px-D%C3%A1nio_perlov%C3%A9.jpg)
+
+**Celestial pearl danio (_Danio margaritatus_)** — dark base color, metallic pearl spots, and bright red-orange fins. Photo by Cassius Chaerea, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D%C3%A1nio_perlov%C3%A9.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+**1\. A single male betta + Neocaridina shrimp colony.** This is the most popular 10-gallon setup for good reason. A betta in a planted 10-gallon has room to explore, distinct individual personality, and looks genuinely spectacular. Cherry shrimp or other Neocaridina add visual interest at the substrate level and contribute almost no bioload. Some bettas hunt shrimp; many don't. Heavy planting and starting with a mature shrimp colony before introducing the betta improves your odds. Heater required — bettas want 78–80°F.
+
+🐠 Recommended for this setup:
+
+![hygger 50W aquarium heater](https://m.media-amazon.com/images/I/61aCcw5MGnL._AC_SL500_.jpg)
+
+Adjustable 50W aquarium heater.
+
+A 10-gallon with a single betta is one of the few cases where a fixed-temperature heater can fail badly — bettas are sensitive to thermal swings. Spend the extra few dollars on adjustable.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0D53VDS9J?tag=tanktalks-20)
+
+\*\*2. A school of 8–10 chili rasboras (_Boraras brigittae_).\*\* Chilis are the smallest commonly available aquarium fish — under three-quarters of an inch at full size. A tight school of ten in a heavily planted 10-gallon is mesmerizing. They're micro-predators, eating only the smallest foods (crushed flake, micro pellets, baby brine shrimp), so they coexist peacefully with adult shrimp and even shrimplets. Soft, slightly acidic water (pH 6.0–7.0) brings out their best color. Avoid mixing with bettas — chilis are food-sized to a betta.
+
+**3\. Ember tetras + pygmy corydoras.** This is the classic two-species nano community. Ten ember tetras (_Hyphessobrycon amandae_) at less than an inch each fill the upper two-thirds of the tank with active schooling and warm orange color. Five pygmy corydoras (_Corydoras pygmaeus_) handle the bottom and rarely venture upward. Both prefer 75–76°F and slightly acidic water; the parameter overlap is wide and easy to maintain. This combination is one of the few where a 10-gallon actually feels "complete" — multiple swimming zones, multiple behaviors, real ecological structure.
+
+**4\. Celestial pearl danios.** Also called galaxy rasboras (_Danio margaritatus_), these are visually one of the most striking nano fish in the hobby — dark base color with metallic pearl spots and bright orange-red fins. They're slightly skittish and need dense planting to feel secure enough to display. Keep in groups of 6–10. They prefer cooler water than most tropical nanos (72–78°F is fine; many keepers run them unheated in temperate rooms).
+
+**5\. Sparkling gouramis.** _Trichopsis pumila_ tops out around 1.5 inches and is one of the very few labyrinth fish actually suited to a 10-gallon. Unlike bettas and dwarf gouramis, sparkling gouramis can be kept in pairs or small groups without serious aggression. They have a distinct personality — slow, deliberate, with audible "clicking" vocalizations during display — that makes them feel like centerpiece fish despite their small size.
+
+## Honorable mentions
+
+**Endler's livebearers.** Smaller than guppies, more peaceful, and the males display saturated colors that rival the priciest tetras. Keep males-only in a 10-gallon (a mixed group will produce fry faster than the tank can support, and the resulting hybrids if any guppy genetics sneak in are a mess). Group of 5–6 males works well.
+
+**White cloud mountain minnows.** A cool-water species (no heater required in most rooms; ideal range 64–72°F) that's been kept in the hobby for nearly a century. Active, hardy, peaceful, and suitable for unheated tanks where most tropicals would slowly fail. Keep in groups of 6+.
+
+**Honey gouramis.** _Trichogaster chuna_ is the better choice when people reach for dwarf gouramis. About 2 inches at full size, peaceful, and noticeably hardier than dwarfs (which have well-documented disease problems from poor breeding stock). One male or a male/female pair in a planted 10-gallon works.
+
+## What people put in 10-gallons that shouldn't go in 10-gallons
+
+This section will be unpopular. The species below are routinely sold for 10-gallon tanks; they shouldn't be.
+
+**Neon tetras.** Active, fast-moving schoolers that need horizontal swimming space. They survive in a 10-gallon and look acceptable, but they don't behave like neons in a 20-gallon long. The internet generally agrees on this; pet stores generally don't.
+
+**Dwarf gouramis.** Aside from the disease issue mentioned above, _Trichogaster lalius_ is genuinely too active and territorial for a 10-gallon. They want at least 15 gallons. Pet stores label them "for 10-gallon community" because they survive there.
+
+**Goldfish.** Nothing about a goldfish is appropriate for a 10-gallon — not the bioload, not the adult size (8+ inches for fancy varieties, much more for commons and comets), not the temperature requirements. The "started in a 10-gallon as fry, will move them later" plan reliably ends with stunted, sick, or dead fish because the move never happens in time.
+
+**Angelfish.** Adult body height alone disqualifies them — a healthy angel is 6+ inches tall. They need 30 gallons minimum, often more.
+
+**Guppies (mixed sex).** Reproduction outpaces a 10-gallon's capacity within months. Males-only or a single trio with regular fry rehoming is workable; "got a couple guppies, see what happens" leads to crashes.
+
+**Common plecos.** A common pleco grows to 18 inches. Bristlenose plecos are sometimes recommended as smaller alternatives, but at 5–6 inches they're still more bioload than a 10-gallon should carry. Otocinclus catfish are a better algae crew at this scale.
+
+## Filtration, heat, and substrate for a stocked nano
+
+A 10-gallon planted tank does best with:
+
+A **sponge filter or low-output hang-on-back filter** with a pre-filter sponge over the intake. Strong currents stress most nano species and shred long-finned bettas. Sponge filters are gentlest, simplest, and shrimplet-safe.
+
+🪣 Recommended for this setup:
+
+![Pawfly sponge filter with air pump](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge filter with adjustable air pump.
+
+The standard choice for nano tanks. Quiet, gentle current, plenty of biological filter capacity for any of the stocking options above.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)
+
+An **adjustable 50W heater** for any tropical species. White cloud mountain minnows and CPDs in cooler rooms are the only common exceptions where you can skip it.
+
+A **dark substrate** if color expression matters to you. Most nano fish — embers, chilis, CPDs, bettas — show dramatically richer color over dark substrate than over light gravel. The science on this is solid: substrate color and texture affect behavior and coloration in _Neocaridina davidi_, with dark substrate preference and pigmentation suppression on light substrate, and the same response is well-documented in many fish species.
+
+**Plants from day one.** Easy starters: Java fern (tied to wood, never buried), Anubias (same), Cryptocoryne wendtii (root feeder, plant in substrate), Java moss (anywhere), Vallisneria (background). All of these tolerate low light, so an inexpensive light fixture is fine. Floating plants — frogbit, water lettuce, red root floaters — provide cover that surface-dwelling species especially appreciate.
+
+## Five complete stocking plans
+
+![A planted nano aquarium stocked with chili rasboras.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nano-Aquarium_mit_Boraras_brigittae.JPG/1280px-Nano-Aquarium_mit_Boraras_brigittae.JPG)
+
+**A stocked nano aquarium with chili rasboras** — the kind of scape these stocking plans aim at: dense planting, dark substrate, mid- and upper-water schooling. Photo by VivienneHarper, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nano-Aquarium_mit_Boraras_brigittae.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+If you want a recipe rather than a menu, here are five that actually work:
+
+Setup
+
+Species
+
+Notes
+
+Betta-shrimp
+
+1 male betta + 10–15 cherry shrimp
+
+Heavy planting; mature shrimp colony first
+
+Chili-rasbora-only
+
+10 chili rasboras
+
+Single-species school; richest color in soft acidic water
+
+Embers + pygmies
+
+10 ember tetras + 5 pygmy corydoras
+
+The classic two-tier community
+
+Endler males
+
+6 male Endler's livebearers
+
+No reproduction; saturated color; hardy
+
+Sparkling gourami pair
+
+2 sparkling gouramis + 8 chili rasboras
+
+Quiet, distinctive, appropriate for low-flow tanks
+
+Pick one. Don't try to combine. The most common 10-gallon mistake by far is starting with one of these plans and then adding "just one more" species until the tank tips over.
+
+* * *
+
+### Recommended gear for any of these setups
+
+Product
+
+Why it's here
+
+Adjustable 50W aquarium heater
+
+Stable temp; tropical species require it
+
+Sponge filter + air pump
+
+Gentlest filtration; safe for shrimp and long-finned bettas
+
+API Freshwater Master Test Kit
+
+Liquid kit for ammonia, nitrite, nitrate, pH — strips are unreliable
+
+Dark sand substrate
+
+Brings out fish color; safe for cory whiskers (gravel can erode them)
+
+Java fern + Anubias starter
+
+Beginner-proof plants that anchor a planted nano
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# Bucephalandra: the beginner's guide to keeping "buce" alive — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/bucephalandra-keeping-buce-alive
+
+I killed my first three Bucephalandra. Drowned them in CO2, baked them under a too-strong light, and — the fatal mistake — buried the rhizome in substrate. By the fourth attempt I'd figured out what every Buce keeper eventually does: this plant wants almost nothing from you, but it has very specific opinions about _how_ you give it that nothing.
+
+The good news: once you understand those opinions, Buce is genuinely one of the easiest plants in the freshwater hobby. The slow growth that frustrates new keepers is also why an established clump basically takes care of itself for years.
+
+This guide covers the four things that actually matter for keeping Buce alive: how to attach it, how much light to give it, why it "melts" and what to do when it does, and the parameter window that keeps it healthy long-term.
+
+## What you're actually buying
+
+Bucephalandra is a genus of rheophytic flowering plants endemic to the island of Borneo — meaning they grow on rocks in fast-flowing streams that flood and drain seasonally. In dry season they grow emersed (above water); in wet season they grow submerged. This natural amphibious habit is what makes them work in aquariums, terrariums, and paludariums alike.
+
+The taxonomy is messier than the trade implies. There are roughly 30 described species and hundreds of "trade names" — Wavy Green, Brownie Ghost, Skeleton King, Kedagang, Theia, Mini Coin — most of which are not formally described species and may overlap or duplicate each other. For care purposes, the differences between trade varieties are smaller than sellers want you to believe. The same care guide works for almost all of them.
+
+Most Buce sold at fish stores and online has been grown emersed at Indonesian or Taiwanese nurseries. When you submerge it, the emersed leaves will often die and be replaced by submerged-form leaves. This conversion is normal and looks alarming. More on it below.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/81pEd7gx5NL._AC_SL500_.jpg)
+
+Aquarium-safe Cyanoacrylate Gel
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00HWH7E1W?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61bKliaOmCL._AC_SL500_.jpg)
+
+Tissue Culture Bucephalandra (Kedagang)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0FB5BGRQK?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61UoX-VlqTL._AC_SL500_.jpg)
+
+Liquid Plant Fertilizer (shrimp-safe)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06XK816RT?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71BYfkq0r1L._AC_SL500_.jpg)
+
+Lava Rock (small/medium pieces)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0D479CQVK?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71WY09nSviL._AC_SL500_.jpg)
+
+LED Light with Dimmer
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B093GZKYM9?tag=tanktalks-20)
+
+## Rule one: never bury the rhizome
+
+This is the single most important thing to know, and it's the single most common reason new Buce dies.
+
+Bucephalandra grows from a horizontal stem called a rhizome — a thick, slightly woody stalk that creeps along the surface it's attached to, sending roots downward and leaves upward. The rhizome contains the plant's nutrient stores. If it gets buried in substrate, oxygen exchange stops, the rhizome rots, and within a few weeks the plant is gone regardless of how careful you are with everything else.
+
+Buce attaches to hardscape — driftwood, lava rock, dragon stone, slate. You have three options:
+
+**Aquarium-safe super glue gel.** Fastest method. A small dab on the rhizome (not the leaves), pressed against the rock or wood for 10–15 seconds, holds permanently. Use the gel formula, not liquid — gel stays where you put it. Cyanoacrylate gel is reef-safe and inert once cured, so this is the standard method.
+
+💧 Recommended for this fix:
+
+![Seachem Reef Glue](https://m.media-amazon.com/images/I/81pEd7gx5NL._AC_SL500_.jpg)
+
+Aquarium-safe super glue gel.
+
+Look for a small bottle labeled "gel" with cyanoacrylate as the active ingredient. Liquid super glue runs everywhere and produces a white film; gel doesn't.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B00HWH7E1W?tag=tanktalks-20)
+
+**Cotton thread or fishing line.** Wrap the rhizome to the hardscape until the plant's own roots take hold (usually 2–3 weeks). Cotton thread dissolves on its own; fishing line needs to be removed or cut once roots establish. Slower than glue but causes zero stress to the rhizome.
+
+**Wedging.** For some hardscape with natural cracks, you can simply jam the rhizome into a gap. This works if the gap is the right size; otherwise the plant drifts free and ends up at the back of the tank.
+
+Lava rock is the ideal attachment surface because its porous texture gives roots maximum grip. Smooth river rocks work but take longer for roots to establish.
+
+## Rule two: low to medium light, no exceptions
+
+Buce evolved as a shade plant in Bornean stream understories. High light won't kill it directly, but it triggers two cascading problems: leaves shrink to reduce light absorption, and algae — black beard algae especially — colonizes the slow-growing leaves faster than the plant can shed them.
+
+The practical guidance most experienced keepers converge on: aim for low to medium light, with a 6–8 hour photoperiod. If you're running a high-light tank for stem plants or carpet plants, place Buce in shaded zones — under driftwood overhangs, behind taller plants, on the shaded side of rocks. Due to their flexible light requirements, they can be grown in shaded areas of the aquarium or in full light, but algae becomes much harder to manage at high light intensity given how slowly Buce grows.
+
+**CO2 is optional.** Buce will grow without it. Adding CO2 speeds growth and intensifies coloration — particularly the iridescent purples and blues that make rare varieties valuable — but it's not required for survival or healthy growth.
+
+**Fertilizer is helpful.** Since Buce is an epiphyte feeding from the water column rather than the substrate, liquid fertilizers (especially those providing potassium and trace elements) noticeably support healthier leaves. If you keep shrimp, use a shrimp-safe fertilizer — most comprehensive plant fertilizers contain copper, which is harmless to plants and fish but lethal to shrimp.
+
+## Rule three: melt is normal; rot is not
+
+"Melting" is the term hobbyists use for sudden leaf loss in Buce, Cryptocoryne, and a handful of other plants. The leaves yellow, soften, fall off, and the plant looks like it's dying.
+
+In Buce, melt happens for two reasons. The first is conversion from emersed to submerged growth — the plant is shedding leaves grown in air and replacing them with leaves adapted for underwater life. This is normal and unavoidable for newly purchased plants. Leave the rhizome alone, maintain stable conditions, and new submerged leaves will emerge within 3–6 weeks.
+
+The second is osmotic shock from sudden parameter changes. Moving Buce from a tank with TDS 150 ppm to one with 300 ppm, or shifting temperature by more than a few degrees, or changing pH significantly will trigger melt even on established plants. The fix is patience and stability.
+
+**Critical distinction: melt versus rot.** Melted leaves come off cleanly, the rhizome stays firm and green inside. Rot is different — leaves turn mushy, the rhizome itself becomes soft and dark, and there's often a sulfurous smell. If you can crush the rhizome between your fingers, it's rotted and the plant is gone. If the rhizome is firm, the plant is alive regardless of how few leaves remain. New shoots will emerge in 3–6 weeks.
+
+If melt starts, do not throw the plant away. Trim off mush and dead leaves, leave the rhizome attached, and wait. Even if all the leaves have melted or fallen off, as long as the rhizome is intact and firm, new growth can emerge. This is the defining hardiness of the genus.
+
+## Rule four: stable parameters, cooler rather than warmer
+
+Buce tolerates a wide range of water chemistry. Where it doesn't tolerate well is _change_.
+
+The consensus parameter window from established growers and nurseries:
+
+Parameter
+
+Target
+
+Temperature
+
+71–79°F (22–26°C); above 82°F triggers stress
+
+pH
+
+6.0–8.0
+
+GH
+
+4–8 °dGH
+
+KH
+
+3–6 dKH
+
+Flow
+
+Moderate to high — Buce evolved in fast-flowing streams
+
+Two parameters worth highlighting:
+
+**Temperature matters more than people say.** Buce comes from cooler montane streams in Borneo, not lowland tropical water. Bucephalandra species have less stress/melting problems with cooler water, although they can still be grown at discus temperatures (above 80F/27C). If you keep your tank in the high 70s for warm-water fish, Buce will be fine; if you push above 82°F regularly, expect melt issues.
+
+**Flow matters more than people say.** This contradicts the common "Buce is like Anubias, plant it in low flow" advice. In their native habitat they're rheophytes — plants adapted specifically to fast water. Stagnant placement in the back corner of a tank often produces stunted, algae-prone growth. A moderate current keeps detritus off the leaves and supplies the dissolved CO2 and nutrients the plant pulls from the water column.
+
+## Buying without getting burned
+
+Buce pricing is wild. The same nursery-grown plant might be $5 as "Wavy Green" or $40 as "Brownie Ghost" depending on what name a seller assigns. A few honest filters:
+
+**Tissue culture vs. emersed-grown.** Tissue culture cups are sterile (no snails, no algae spores, no parasites) but the plants are small, fragile, and have zero immunity to the bacteria in your tank — they melt easily on transition. Emersed-grown clumps are bigger, more robust, and convert faster, but they may carry hitchhikers. Quarantine for a week in a separate container before adding to a stocked tank.
+
+**Avoid wild-collected.** Wild harvesting is a real conservation concern in Borneo. Tank-grown or tissue-cultured plants are more sustainable, healthier, and pest-free.
+
+**Cheap "starter" varieties are fine.** Kedagang, Wavy Green, and Mini Coin are widely available, hardy, and visually as interesting as the rare varieties for someone who isn't already a collector. Spend $5–10 to learn the plant before buying $40 specimens.
+
+🌿 Recommended for this:
+
+![Bucephalandra Wavy Green](https://m.media-amazon.com/images/I/61bKliaOmCL._AC_SL500_.jpg)
+
+Tissue culture Bucephalandra "Kedagang" cup.
+
+Pest-free, easy entry-level variety, $8–15 typical price.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0FB5BGRQK?tag=tanktalks-20)
+
+## What to expect over time
+
+In a low-tech tank with low light and no CO2, expect a new leaf every 3–4 weeks per growing point. With CO2, medium light, and proper fertilization, that doubles. Either way, this is a slow plant. A clump that looks sparse at purchase will look full within 6 months and lush within a year.
+
+A well-established Buce will eventually outgrow its original attachment point. Propagation is straightforward: with sharp clean scissors, cut the rhizome at a natural bend (where you see a clear separation between two clumps of leaves). Both pieces will continue growing. Attach the cutting to a new location using the same methods above.
+
+The reward for patience is genuinely beautiful — iridescent leaves that catch light differently from every angle, a sculptural quality that fast-growing plants don't have, and a slow, measured pace that fits the way mature aquariums actually develop. Buce is the kind of plant that makes a tank look intentional rather than busy.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# Cherry shrimp breeding: why your colony isn't growing — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/cherry-shrimp-breeding-colony-not-growing
+
+A healthy Neocaridina colony grows like a slow-motion explosion. You start with ten shrimp, six months later you have sixty, and a year in you're bagging up surplus to give away. So when your colony just sits there — the same dozen shrimp month after month — something specific is wrong, and it's almost always one of the same five things.
+
+This article walks through those five, in roughly the order you should suspect them. Cherry shrimp are not delicate. The advice "they breed like crazy if you leave them alone" is mostly true. When breeding stalls, the cause is usually a fixable environmental problem rather than anything about the shrimp themselves.
+
+## First, the easy disqualifiers
+
+Before troubleshooting anything chemistry-related, rule out the boring possibilities.
+
+**Both sexes present.** This sounds obvious, but a surprising number of stalled colonies turn out to be all-female or all-male. Females are larger, more colorful, and develop a "saddle" — a yellowish patch behind the head where eggs develop before being passed to the swimmerets. Males are smaller, less intensely colored, and have a straighter underline. If you're staring at a tank of ten shrimp and you can't pick out at least two clear females and two clear males, that's your problem.
+
+**Tank is mature, not just cycled.** A new tank that completed its nitrogen cycle two weeks ago is not the same as a mature tank. Shrimplets in their first weeks of life depend on biofilm — the microbial mat that grows on every wet surface — for their primary food source. A glassy-clean new tank lacks the biofilm density to feed shrimplets even if the adults survive fine. Most experienced shrimp keepers wait six to eight weeks after cycling before adding shrimp, and longer than that before expecting babies to survive. If your tank is less than three months old and your shrimp haven't bred yet, the boring answer is "wait."
+
+**Temperature high enough.** Below about 68°F (20°C), Neocaridina enter a kind of metabolic standby — they survive fine, but reproduction slows or stops. The sweet spot for active breeding is 72–76°F. If your tank room is cold and you don't have a heater, that's likely all that's happening.
+
+If those three are all in order and you still have a stalled colony, you're looking at one of the harder problems.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/81yGQ7-pHNL._AC_SL500_.jpg)
+
+Salty Shrimp GH/KH+
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y581DC4?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/518PHJWONXL._AC_SL500_.jpg)
+
+API GH & KH Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B003SNCHMA?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/713+1cAX5RL._AC_SL500_.jpg)
+
+TDS Meter
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CTHWS8GX?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge Filter + Air Pump
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/719xU+QfN1L._AC_SL500_.jpg)
+
+Indian Almond Leaves
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B01G78H5XS?tag=tanktalks-20)
+
+## Problem 1: GH is too low
+
+This is the single most common silent cause of failed breeding.
+
+Shrimp build their exoskeletons from calcium and magnesium dissolved in your water. The measure of those minerals is general hardness, or GH, expressed in degrees (°dGH). Neocaridina need a GH of roughly 6–10 °dGH for proper exoskeleton formation. Below GH 4, shrimp cannot complete molts properly, females cannot produce viable eggs, and shrimplets die before reaching maturity.
+
+This problem is invisible on a basic test kit. The standard ammonia-nitrite-nitrate-pH kit tells you nothing about hardness. You need a separate GH/KH drop kit. A shrimp keeper without a GH test kit is flying blind on the parameter that matters most.
+
+If your GH is below 6, you have two options. If you're using tap water, you can usually raise GH gradually with crushed coral, cuttlebone, or aragonite in your filter — these slowly dissolve and add calcium carbonate. If you're using RO or distilled water, you'll need a shrimp-specific remineralizer. Salty Shrimp GH/KH+ is the standard recommendation in the hobby because it's been formulated for exactly this purpose and dosing is predictable.
+
+💧 Recommended for this fix:
+
+![Salty Shrimp GH/KH+ remineralizer](https://m.media-amazon.com/images/I/81yGQ7-pHNL._AC_SL500_.jpg)
+
+Salty Shrimp GH/KH+ remineralizer
+
+— the most widely used remineralizer for Neocaridina tanks. Mix it into your top-off and water-change water to hit consistent GH/KH, instead of guessing with crushed coral.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B06Y581DC4?tag=tanktalks-20)
+
+Whichever method you use, raise GH gradually — 1° per week at most. A sudden hardness change is itself a stressor that can suppress breeding for weeks.
+
+## Problem 2: Parameter swings
+
+If your test kit shows acceptable numbers but breeding still isn't happening, the question to ask is: are those numbers stable, or are they bouncing around between water changes?
+
+Shrimp respond to _stability_ more than to specific values. A tank that holds steady at pH 7.4, GH 8, TDS 280 will outbreed a tank with "ideal" parameters that swing between water changes. The mechanism is partly behavioral — shrimp under chemical stress redirect energy from reproduction to survival — and partly developmental: berried females routinely drop their eggs prematurely in response to parameter shocks.
+
+Common swing causes worth checking:
+
+-   **TDS drift between water changes.** TDS (total dissolved solids) creeps up between changes as you feed and as evaporation concentrates minerals, then drops sharply at the change. Aim to match your water-change water within ±20 ppm of the tank water.
+-   **KH too low.** Without enough carbonate buffering, pH can swing dramatically with the day-night CO₂ cycle in a planted tank. A KH of 2–5 dKH is usually enough to keep pH stable for shrimp.
+-   **Temperature variation.** A small heater in a small tank can let temperature drop overnight by several degrees if room temperature is low. Shrimp can tolerate gradual seasonal temperature shifts; daily oscillation is a different problem.
+
+A TDS meter is a cheap diagnostic that tells you immediately whether your overall mineral load is stable. You don't need to obsess over it; you do want to know if it's steadily climbing or crashing.
+
+## Problem 3: Copper exposure
+
+Shrimp are extraordinarily sensitive to copper. Concentrations harmless to fish — and harmless to the human water supply — can be lethal to shrimp.
+
+Sources to check:
+
+-   **Tap water that runs through copper plumbing.** Some municipal supplies are fine; some pull noticeable copper from old household pipes, especially first-draw cold water in the morning. Run cold water for 30 seconds before filling, or use it from a tap that's been used recently.
+-   **Fish medications that contain copper.** Most ich and parasite treatments are copper-based. If the tank ever held fish that were medicated, residual copper in the substrate or filter media can leach for months.
+-   **Plant fertilizers.** Many comprehensive fertilizers include trace copper. Check the label. Shrimp-safe fertilizers exist; use those.
+-   **Driftwood that was treated.** Some commercially-sold driftwood has been pressure-treated with copper-based preservatives.
+
+A water conditioner that detoxifies heavy metals (Seachem Prime is the standard) handles trace copper from tap water but doesn't undo a contaminated tank.
+
+## Problem 4: Predation by tankmates you didn't think were predators
+
+![Cherry shrimp foraging among Echinodorus tenellus carpet plants.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neocaridina_heteropoda%2C_Echinodorus_tenellus.jpg/1280px-Neocaridina_heteropoda%2C_Echinodorus_tenellus.jpg)
+
+**Cherry shrimp in cover-rich planting** — adult shrimp survive plenty of tankmates, but shrimplets need dense plant cover and hardscape gaps to make it past their first weeks. Photo by Uccio D'Agostino, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neocaridina_heteropoda,_Echinodorus_tenellus.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The list of fish that will eat baby shrimp is much longer than the list of fish that won't. "Peaceful community fish" generally refers to fish that won't attack other adult fish — they will absolutely eat anything shrimplet-sized that drifts past.
+
+Tetras, rasboras, gouramis, danios, killifish, most cichlids, and any of the larger nano fish will pick off shrimplets. Adult Neocaridina are usually safe from anything smaller than a betta. The shrimplets are the ones being eaten, and you may never see it happen — predation in the first 48 hours after hatching is silent and total.
+
+If you have any fish in your shrimp tank and your colony isn't growing, this is probably your answer. The solution is usually a dedicated shrimp-only tank, or aggressive cover (dense moss, lots of botanicals, leaf litter) that gives shrimplets refuge until they're big enough not to be food. Peer-reviewed research found shrimp spend up to 88.8% of daytime hours in shelter, with strong preference for moss and soft organic surfaces over bare rock or glass. A bare-bottomed tank with nothing but driftwood is a hard environment for shrimplet survival even without fish.
+
+🌿 Recommended for this fix:
+
+![Java moss](https://m.media-amazon.com/images/I/51l6ca4lIsL._AC_SL500_.jpg)
+
+Java moss starter portion + Indian almond leaves.
+
+Java moss provides physical shelter and grows the biofilm shrimplets graze on. Almond leaves slowly release tannins (mildly antibacterial) and grow a particularly rich biofilm as they decompose. This combination is what most shrimp-only breeding tanks rely on.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B099RJRVFV?tag=tanktalks-20)
+
+## Problem 5: Filter intake claiming the babies
+
+A standard hang-on-back or canister filter intake will pull in shrimplets — they're 1–2mm long when they hatch. You may not realize your colony is producing fine; the babies are being killed on the impeller within hours of hatching.
+
+The fix is a foam pre-filter sponge over the intake. They cost a few dollars and slip over standard intake tubes. Better still for a dedicated breeding tank: a sponge filter, which is the appropriate filtration for any shrimp-focused setup. Sponge filters provide gentle biological filtration, generate no intake suction strong enough to harm shrimplets, and the sponge surface itself becomes a biofilm grazing zone.
+
+🪨 Recommended for this fix:
+
+![Pawfly sponge filter with air pump](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge filter (with air pump and tubing).
+
+This is the standard filtration choice for any dedicated shrimp tank. Quiet, shrimplet-safe, and the bacterial colony on the sponge keeps cycling stable.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)
+
+## A note on the broader picture
+
+Your shrimp are descendants of a freshwater shrimp species native to China, South Korea, and Taiwan. In the wild they live in slow-moving streams and ponds with abundant cover, decomposing leaf litter, and constant grazing surfaces. Tanks that look like that breed shrimp. Tanks that look like a sterile show display generally don't.
+
+A separate but important note: an ecological risk screening summary conducted by the USFWS classified _N. davidi_ as a high-risk species due to its invasion history, potential for establishment within the U.S., and documented impacts in introduced areas. Once your colony does take off, never release surplus shrimp into local waterways — give them to fellow hobbyists, donate to a fish store, or humanely euthanize. Established feral populations have already disrupted native ecosystems on multiple continents.
+
+## What to do if the colony still isn't growing
+
+If you've checked all five and breeding still isn't happening, in order of likelihood: re-test GH with a fresh test kit (old reagents lose accuracy), check for fish you may have forgotten you have (tiny pest snails are fine; that one tetra you thought was harmless is not), and consider that your colony may simply be too small. Below about six adults, the social dynamics that trigger active breeding don't reliably establish. Adding ten more shrimp from a different source often kicks a stalled tank into gear.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# All articles — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/
+
+just starting
+
+## I just bought a tank.  
+What do I do first?
+
+Five pieces in order, written for someone who has water in a glass box and no idea what's supposed to live in it.
+
+1.  [The nitrogen cycle, properly explained](nitrogen-cycle-properly-explained.html)
+2.  [Best nano fish for a 10 gallon planted tank](best-nano-fish-10-gallon-planted-tank-2026.html)
+3.  [Java moss vs Christmas moss](java-moss-vs-christmas-moss.html)
+4.  [Why every tank needs a marimo](marimo-moss-balls-shrimp-tank.html)
+5.  [Long-term nitrate control](nitrate-control-40-gallon.html)
+
+5 articles · ~33 min
+
+---
+
+# Java moss vs Christmas moss — which is actually better? — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/java-moss-vs-christmas-moss
+
+These two mosses get treated as interchangeable in most aquarium articles, and they're not. They're related — both are tropical Asian aquatic mosses with similar low-light, no-CO2 requirements — but they grow differently, look different up close, and serve different purposes in a tank. Picking the wrong one for your goal is one of those small annoyances that makes a tank feel slightly off without you being able to point at why.
+
+This is the short version of what each does well, where they differ, and how to choose.
+
+## A tangle of names
+
+The naming history is genuinely confusing. Java moss was for years sold as _Vesicularia dubyana_, but molecular work in the early 2000s reclassified it as _Taxiphyllum barbieri_ — a different genus entirely. Christmas moss is _Vesicularia montagnei_, which is what _Vesicularia dubyana_ used to refer to in some sources before the reclassification.
+
+In practice: when you see "Java moss" at a fish store, you're getting _Taxiphyllum barbieri_. When you see "Christmas moss," you're getting _Vesicularia montagnei_. Always look at the scientific name on the label if there's any doubt; common names are sometimes swapped, especially online.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/51l6ca4lIsL._AC_SL500_.jpg)
+
+Java Moss Starter Portion
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B099RJRVFV?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61Clf7hb8jL._AC_SL500_.jpg)
+
+Christmas Moss Tissue Culture
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07JV7NFBH?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/81x+6mAZe4L._AC_SL500_.jpg)
+
+Cotton Thread (200-yard spool)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07RRD6TBN?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/81pEd7gx5NL._AC_SL500_.jpg)
+
+Aquarium-safe Super Glue Gel
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00HWH7E1W?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71UKV1Jn+EL._AC_SL500_.jpg)
+
+Stainless Steel Curved Scissors
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B074WFT53B?tag=tanktalks-20)
+
+## What they actually look like
+
+![Christmas moss showing characteristic triangular branching pattern, interplanted with riccia.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Christmas_moss_and_riccia_%2814441185564%29.jpg/1280px-Christmas_moss_and_riccia_%2814441185564%29.jpg)
+
+**Christmas moss (_Vesicularia montagnei_)** — the layered, triangular fronds that give the species its name, here interplanted with riccia (the lighter foreground texture). Photo by Storm, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christmas_moss_and_riccia_\(14441185564\).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+The difference is in branch structure. Java moss is messier — branched stems, irregular leaf placement, a stringy growth pattern with leaves arranged loosely along the stem. From a distance it reads as a soft, undefined green texture. Up close it looks unkempt, like a tangle of green thread.
+
+Christmas moss is more architectural. Christmas moss has dark green leaves that resemble fir trees, hence the plant's common name. The fronds branch in a layered, triangular pattern, with leaves clustered tightly along each branch. The result is something that genuinely looks like miniature pine trees — which is where the name came from.
+
+If you photographed both at the same magnification, you could tell them apart immediately. In a stocked tank with fish and motion, the difference is more about overall texture: Java moss reads as a single soft mass; Christmas moss reads as visible structure.
+
+## Growth pattern and what each is best for
+
+**Java moss is the workhorse.** It's hardier, faster-growing, more tolerant of low light, more tolerant of poor water, and propagates from the smallest fragments. The plant is extremely tolerant of most water conditions and is considered to be the best choice for low-light, low-tech tanks. If you want green volume fast — to fill an empty corner, cover a piece of driftwood, give shrimp something to graze on, give fish fry somewhere to hide — Java moss is the answer. It's also the moss that will survive in a tank you forgot to maintain for a month.
+
+The trade-off is appearance. Java moss looks slightly unkempt by default. Once it gets going, it gets going _everywhere_ — attaching itself to filter intakes, decorations you didn't want covered, and any surface with even gentle current. You'll be trimming and removing it indefinitely.
+
+**Christmas moss is for aquascaping.** Slower-growing, more demanding, but visually much more interesting. The layered fir-tree growth pattern makes it the right choice for: moss walls behind hardscape, structured carpets over flat substrate, deliberate accents on driftwood where you want the moss to read as a distinct element rather than ambient green. Christmas moss grows quite slowly and needs quite a lot of light and CO2 supplementation to stimulate more vigorous growth.
+
+The trade-off is more work. You'll trim Christmas moss more often to maintain its shape (Java moss doesn't really have a shape to maintain). You'll fight thread algae more often because the slower growth lets algae establish in the dense fronds. Christmas moss benefits enough from CO2 that high-end aquascapes nearly always run injected CO2 specifically to keep it healthy.
+
+## Care comparison
+
+Java moss (_T. barbieri_)
+
+Christmas moss (_V. montagnei_)
+
+Growth rate
+
+Fast
+
+Slow
+
+Light needs
+
+Low to medium
+
+Low to medium (more responsive to higher light)
+
+CO2
+
+Optional
+
+Beneficial; aquascapers usually inject
+
+Temperature
+
+57–86°F (very wide tolerance)
+
+65–82°F
+
+pH
+
+5.5–8.0
+
+5.0–7.5
+
+Texture
+
+Stringy, irregular
+
+Layered, fir-tree
+
+Best use
+
+Filler, biofilm production, cover
+
+Aquascaping accent, walls, carpet
+
+Difficulty
+
+Beginner
+
+Beginner-to-intermediate
+
+Both attach to hardscape using rhizoids — short fibrous structures that grip surfaces but don't absorb nutrients. Both feed entirely from the water column through their leaves and stems. Neither needs substrate; both can be tied or glued to driftwood, rock, mesh, or just wedged into a crevice.
+
+## Which to actually pick
+
+For most tanks, Java moss. Specifically:
+
+-   A new tank that needs green coverage fast → Java moss
+-   A shrimp tank where the goal is biofilm grazing surface → Java moss
+-   A community fish tank where the moss is background, not foreground → Java moss
+-   A breeding tank where fry need cover → Java moss
+-   A low-tech tank with no CO2 and modest light → Java moss
+
+For Christmas moss, the use cases are narrower:
+
+-   A planted display tank where the moss is a deliberate visual element
+-   A moss wall built on mesh — Christmas moss's flat-growing habit makes it the better choice
+-   An aquascape with CO2 injection where you want sculptural texture
+-   A tank with stronger lighting where Java moss would grow uncontrollably
+
+🌿 Recommended for general use:
+
+![Java moss](https://m.media-amazon.com/images/I/51l6ca4lIsL._AC_SL500_.jpg)
+
+Java moss starter portion (loose).
+
+A small handful is enough to seed a 10-gallon tank — the plant grows from any fragment, so a small quantity establishes quickly.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B099RJRVFV?tag=tanktalks-20)
+
+🌲 Recommended for aquascaping:
+
+![Christmas moss](https://m.media-amazon.com/images/I/61Clf7hb8jL._AC_SL500_.jpg)
+
+Christmas moss tissue culture cup.
+
+Tissue-cultured Christmas moss is pest-free and arrives in clumps that are easy to attach to hardscape with cotton thread or super glue gel.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B07JV7NFBH?tag=tanktalks-20)
+
+## A note on the moss wall question
+
+Both mosses can be made into a "moss wall" — a vertical or horizontal mesh sandwich where moss grows through the holes to create a solid green panel. This is one of the most common Christmas-moss applications, and Java moss works for it too.
+
+Christmas moss generally produces a denser, more uniform wall because its layered growth fills the mesh more evenly. Java moss tends to grow longer fibers that protrude unevenly from the mesh — fine for a "wild" look, less ideal for a structured one. If you specifically want a moss wall as a feature, Christmas moss is worth the extra patience.
+
+## Compatibility with shrimp and fish
+
+Both mosses are completely shrimp-safe. Both are the standard backdrop in shrimp breeding setups because the fine leaves provide refuge for shrimplets and produce abundant biofilm.
+
+Both are fish-safe with one caveat: large goldfish, mbuna cichlids, and aggressive plecos will tear moss apart. Anything you'd otherwise consider plant-safe — most tetras, rasboras, livebearers, gouramis, bettas, corydoras, otocinclus — leaves moss alone.
+
+Snails generally don't damage moss, though some keepers report ramshorns occasionally browsing on stressed Christmas moss. Healthy moss is rarely consumed.
+
+## The honest answer
+
+If you genuinely don't know which to pick: get Java moss first. It's cheaper, faster, harder to kill, and will tell you fast whether you actually want moss in your tank. If after six months you find yourself wishing the moss looked more architectural, add Christmas moss as a deliberate accent — you'll have learned enough about your tank's lighting and flow by then to give it good conditions.
+
+Almost no one regrets buying Java moss. People do regret buying Christmas moss for a tank that wasn't ready for it.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# Marimo moss balls: why every shrimp tank needs one (and how to keep them round) — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/marimo-moss-balls-shrimp-tank
+
+The marimo "moss ball" sitting in a jar at every pet store is one of the strangest things in the aquarium hobby. It's not moss. It's not even a single organism in the way a plant is. It's a colony of filamentous green algae that, under specific lake conditions, has been rolled into a sphere by gentle currents over decades. The wild ones in Lake Akan in Hokkaido reach the size of basketballs and live for over 200 years. The one in your tank is genuinely the same species — _Aegagropila linnaei_ — just smaller and younger.
+
+There's a real reason marimo are nearly universal in shrimp tanks. They produce dense biofilm — the microbial mat shrimp graze on continuously — across a large surface area, in a low-maintenance form factor, at low cost. A shrimp tank with a few marimo grazing balls effectively has more food production than one without.
+
+But there's also something serious to know first.
+
+## Important: zebra mussel contamination
+
+Before any care advice, the public-health-of-aquatic-ecosystems concern. Beginning in February 2021, U.S. authorities discovered that invasive zebra mussels were attached to and inside Marimo moss balls sold at aquarium and pet supply stores, garden centers, florist shops, and online retailers. The contaminated moss balls — wild-harvested in Ukraine and shipped through U.S. distributors — were found in 46 states by April 2021 and prompted a nationwide recall through Petco and PetSmart.
+
+The problem hasn't fully stopped. On August 5, 2024, zebra mussel-infested Marimo moss balls were detected at an aquarium wholesaler in Washington state, prompting a renewed call to inspect any moss balls of uncertain provenance.
+
+Zebra mussels (_Dreissena polymorpha_) are one of the most destructive aquatic invasive species in North America. A few mussels released into a storm drain or aquarium-water dump can establish a population that creates over $100 million worth of damage each year to dams, agriculture, salmon and more in waterways they invade.
+
+**If you have moss balls of unknown origin or purchased before mid-2024:** inspect them carefully. Zebra mussel larvae are microscopic, but adult mussels are visible — small, D-shaped, striped shells, often clustered in the moss ball's outer fibers. If you see anything that looks like a small mussel, do not flush, drain, or compost the moss ball. Contaminated moss balls must destroyed (either by freezing, boiling, or bleaching), disposed of in a sealed plastic bag in the trash, and your aquarium must be drained and decontaminated.
+
+The U.S. Fish and Wildlife Service has detailed inspection and decontamination instructions at fws.gov. Reports of contamination should go to your state natural resource agency and the USGS NAS database.
+
+**If you're buying new:** marimo themselves are not illegal. The contamination only affected wild-harvested products, particularly from Ukraine. Cultivated marimo from reputable suppliers — Japanese, Estonian, or domestic aquarium nurseries — have not been the contamination source. Ask sellers explicitly about origin.
+
+This is a heavy disclaimer for what's otherwise a friendly plant-care article, but it's the most important part. Now to the actual care.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/61eeMoKvd5L._AC_SL500_.jpg)
+
+Cultivated Marimo, ~1-inch (4-pack)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0H1R3QC4L?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/51xVrkIusNL._AC_SL500_.jpg)
+
+Glass Jar with Lid
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07GZ76ZZ6?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61aPb4rk8cL._AC_SL500_.jpg)
+
+Aquarium Dechlorinator
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0002568S6?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61KX407Zf4L._AC_SL500_.jpg)
+
+Soft Mesh Net
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06XNNY4YW?tag=tanktalks-20)
+
+## What marimo actually are
+
+![Three growth forms of Aegagropila linnaei: free-floating filaments, attached mats, and the iconic ball.](https://upload.wikimedia.org/wikipedia/commons/e/ed/Marimo1.jpg)
+
+**The three growth forms of _Aegagropila linnaei_** — free-floating filaments, attached mats, and the iconic ball. All three are the same species; the spherical "moss ball" form is the rarest in the wild and forms only where lake currents continuously rotate the filaments. Illustration via Myvatn Research Station, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marimo1.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+Marimo are spherical colonies of _Aegagropila linnaei_, a filamentous green algae found in cold-water lakes across the Northern Hemisphere. The species exists in three growth forms: free-floating filaments, mats attached to rocks, and the rare ball form. The ball form develops where lake currents continuously rotate algae filaments along sandy or muddy bottoms, packing them into dense spheres. The rotation also ensures every side of the ball receives sunlight, which is why they're green throughout rather than only on the surface.
+
+Lake Akan in Japan is home to the largest known populations, with balls reaching 8–12 inches and occasionally larger. Lake Mývatn in Iceland hosts the only other naturally-occurring spherical population. The aquarium-trade marimo come either from cultivated populations or — more commonly than the trade admits — from semi-wild sources where filamentous algae is rolled by hand into ball form. Genuinely wild-harvested marimo from Lake Akan are protected and not sold; the species has been a national treasure of Japan since the 1920s.
+
+A few things follow from this biology that affect how to keep them:
+
+**Marimo grow slowly. Very slowly.** Roughly 5mm per year under typical aquarium conditions. The wild ones in Iceland that reach 10–12 cm took decades to get there. If your marimo doesn't visibly grow over months, that's not a problem — it's the species.
+
+**Marimo prefer cool water.** Native habitat is cold lakes — temperature ranges of 50–68°F. They tolerate warmer aquarium water (up to about 77°F) but warmer water shortens their lifespan and makes them more prone to brown patches. Above 80°F they begin breaking down. This is why many keepers refrigerate stressed marimo to revive them.
+
+**Marimo are slow-growing photosynthesizers.** They produce oxygen and absorb nitrate from water, but at a much slower rate than typical aquarium plants. A 10-gallon tank with three small marimo gets a small but real reduction in nitrate accumulation; this is a bonus, not a substitute for water changes.
+
+## Why shrimp tanks specifically benefit
+
+The fibrous outer surface of a marimo is an ideal substrate for biofilm — the microbial mat of bacteria, algae, and protozoa that develops on every wet surface in a mature aquarium. Shrimp graze on biofilm continuously; it's the primary food source for shrimplets in their first two weeks of life and a substantial part of adult diet.
+
+A marimo's surface area-to-volume ratio is unusually high for its size. A 2-inch marimo has visibly more grazable surface than a 2-inch flat rock or a 2-inch piece of driftwood, just because of the dense fibrous structure. In a small shrimp-only tank, even one or two marimo noticeably increase the available grazing area.
+
+Practically: drop a few marimo into a Neocaridina or Caridina tank and the shrimp will spend hours on each one, picking biofilm from every angle. Some keepers report their shrimp roll the marimo around, which is partly true and partly anthropomorphism — the shrimp aren't trying to keep the ball spherical; they're just feeding heavily on whatever face is currently up.
+
+🦐 Recommended for shrimp keepers:
+
+![Live Marimo moss balls](https://m.media-amazon.com/images/I/61eeMoKvd5L._AC_SL500_.jpg)
+
+Live cultivated marimo, four-pack (~1 inch each).
+
+Four small marimo distribute around a tank better than one large one — more grazing zones, easier to rotate individually, and they cost the same per inch.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0H1R3QC4L?tag=tanktalks-20)
+
+## Keeping them round
+
+A marimo's spherical shape comes from continuous rotation in lake currents. In a still aquarium, it doesn't naturally rotate — the same face stays up indefinitely, the lit side photosynthesizes faster, and over time the ball flattens or develops dark patches on the perpetually-shaded side.
+
+The fix is simple: every week or two, when you're doing other tank maintenance, gently roll the marimo in your hands or rotate it 90° in the tank. That's it. Some keepers do this during water changes; others do it whenever they notice the marimo is getting flat-looking. The goal is just to make sure all sides get light over time.
+
+If a marimo has developed a flat patch or a brown spot on one side, rotate the brown side toward the light for a few weeks and it usually recovers. If brown patches are persistent across multiple sides, the underlying issue is usually water that's too warm or too dirty.
+
+## Cleaning, water changes, and "the squeeze"
+
+Marimo accumulate detritus inside their fibers over time. Once every 4–8 weeks, lift the marimo out, place it in a bowl of dechlorinated tank water, and gently squeeze it like a sponge. Brown water will come out — that's accumulated waste being expelled. Squeeze until the water runs reasonably clear, then gently re-shape the ball by rolling it between your palms.
+
+Don't squeeze a marimo with tap water unless it's been dechlorinated; chlorine and chloramine kill the algae just like they kill biofilter bacteria.
+
+If a marimo loses its shape entirely or breaks into pieces, all is not lost. Each fragment is its own organism and will continue growing. Roll the fragments back into smaller balls between your palms and place them back in the tank — over time they'll re-form. Some keepers deliberately split larger marimo to propagate them; the daughter pieces are sometimes called "babies" and are exactly the same species, just younger.
+
+## Light, water, and tankmates
+
+Marimo prefer low to moderate indirect light. Direct sunlight on a tank with marimo causes brown spotting fast. Under typical aquarium LED lighting at moderate intensity, they're fine.
+
+Water parameters are forgiving. Cold, freshwater with a pH of 6.0–8.0 works. They tolerate the parameter range of any standard freshwater tank — Neocaridina, Caridina, betta, community fish — without modification.
+
+Compatible tankmates: shrimp (any), snails (any), small peaceful fish, plecos that don't dig, livebearers, tetras, rasboras. The species marimo _cannot_ live with: large goldfish, cichlids, large plecos, and any fish that destructively forages — they will tear marimo apart for fun.
+
+A subtle compatibility note: large mystery snails or apple snails will eat marimo as food. Nerite snails generally won't. If you have unidentified larger snails, watch for damage.
+
+## Lifespan, longevity, and inheritance
+
+Marimo can live for over a century in good conditions. Aquarium-kept marimo typically live 5–10 years; those kept in dedicated, cool, clean glass jars with periodic water changes can live considerably longer. There's a Japanese tradition of passing marimo down through generations, which is achievable with modest care.
+
+Practically, this means: when you buy a marimo, you're not buying a plant with a one-year lifespan. You're acquiring something that, with minimal intervention, can outlast your aquarium hobby itself. The "rotate it weekly, squeeze it monthly" routine costs a few minutes a month and produces a living organism that will be in your home for the rest of its functional life.
+
+For shrimp keepers specifically: a small colony of marimo balls is among the highest-value-per-dollar additions you can make to a shrimp tank. They produce continuous food, occupy minimal space, never need replacing, and never compete with other plants for nutrients. Most experienced shrimp keepers have at least a few in every tank.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# Neocaridina vs Caridina — picking your first shrimp species — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/neocaridina-vs-caridina-first-shrimp
+
+If you're choosing your first dwarf shrimp, you're really choosing between two genera: _Neocaridina_ (Cherry shrimp and their many color morphs) and _Caridina_ (Crystal Reds, Crystal Blacks, Tiger shrimp, Taiwan Bees). They look superficially similar in a tank — both small, both grazing, both photogenic. But they require fundamentally different water chemistry, and starting with the wrong one for your situation is the single most common reason new shrimp keepers fail.
+
+This article will tell you which to pick. The short version: almost everyone should start with Neocaridina. The longer version explains why, and tells you how to know if you're the exception.
+
+## The genuine difference
+
+Neocaridina and Caridina evolved in different freshwater environments. _Neocaridina davidi_ is native to China, South Korea, and Taiwan, where it occupies streams and ponds with moderate hardness and roughly neutral pH. _Caridina cantonensis_ — the species behind Crystal Reds, Crystal Blacks, and most "bee" type shrimp — comes from soft, mineral-poor waters with low pH, often in shaded forest streams.
+
+When breeders of both species describe their needs, the parameter ranges look like this:
+
+Parameter
+
+Neocaridina
+
+Caridina (CRS/CBS/Bee)
+
+pH
+
+6.8–7.8
+
+5.8–6.8
+
+GH
+
+6–10 °dGH
+
+4–6 °dGH
+
+KH
+
+2–6 dKH
+
+0–2 dKH
+
+TDS
+
+180–300 ppm
+
+100–200 ppm
+
+Temperature
+
+68–76°F
+
+68–74°F
+
+Notice the parameter ranges don't overlap meaningfully. Neocaridina want harder, more alkaline water; Caridina want softer, more acidic water. Neocaridina shrimp prefer harder water with a slightly alkaline pH, while Caridina shrimp typically require softer water with a lower pH. There's no shared "good for both" range. If you see a tank advertised as housing both, one species is thriving and the other is just enduring.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/81yGQ7-pHNL._AC_SL500_.jpg)
+
+Salty Shrimp GH/KH+ (Neocaridina)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y581DC4?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/816tMgVwv6L._AC_SL500_.jpg)
+
+Salty Shrimp Bee GH+ (Caridina)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y5M7CGB?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/518PHJWONXL._AC_SL500_.jpg)
+
+API GH & KH Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B003SNCHMA?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/713+1cAX5RL._AC_SL500_.jpg)
+
+TDS Meter
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CTHWS8GX?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge Filter + Air Pump
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)
+
+## Why this matters more than it sounds
+
+For Neocaridina, most municipal tap water in the US is workable as-is. You may need to nudge GH up with crushed coral or a remineralizer, but the baseline is usually close enough that a few small adjustments get you to a stable tank.
+
+For Caridina, you almost certainly need to start over. The standard Caridina setup uses RO (reverse osmosis) or RO/DI water — water that has been stripped of all minerals — with a Caridina-specific remineralizer added back to hit precise GH and TDS targets. You also need an "active substrate" like ADA Amazonia or Brightwell Shrimp Soil that buffers the water down to the low pH Caridina prefer. Caridina shrimp require more consistent water parameters and often do best in tanks using active substrate (like ADA Amazonia or similar) and RO water with remineralisers.
+
+This isn't optional gear. A Caridina tank without RO water and active substrate will mostly kill its inhabitants. You're committing to:
+
+-   An RO unit (one-time purchase, $80–200) or buying RO water from a fish store
+-   A Caridina-specific remineralizer (Salty Shrimp Bee GH+ is the common choice — note this is a _different_ product than the Neocaridina version)
+-   Active substrate that buffers acidic, which costs more than inert substrate and exhausts itself in 1–2 years and needs replacing
+-   A reliable TDS meter, which is critical rather than optional in a Caridina tank
+
+The total cost of entry for a properly set up Caridina tank is several times that of a Neocaridina setup. The ongoing maintenance is more demanding too — water changes have to use precisely matched RO water, and parameter drift is much less forgiving.
+
+## The genetics problem
+
+There's a separate, less obvious reason Caridina are harder. Conventional shrimp-keeper wisdom holds that the original Crystal Red strain was bred from a very small founding population, making the line extremely inbred and sensitive. This explains why they are much more sensitive and not as forgiving as Cherry shrimp.
+
+Whether the original-three-shrimp story is literally true or apocryphal, the broader point holds: high-grade Caridina morphs (Crystal Reds at S+ grade, Taiwan Bees, Pintos) come from severely bottlenecked breeding lines. They are genetically less robust than wild-type stock. They die from things wild Caridina would shrug off. This is the price of the dramatic patterns — concentrated genetics produce concentrated visual traits and concentrated weaknesses simultaneously.
+
+Lower-grade Caridina (lower-grade Crystal Reds, basic Bee shrimp) are noticeably hardier than the high-grade lines. If you're set on starting with Caridina anyway, lower-grade stock is the right entry point. Spending $40 on a single high-grade Taiwan Bee as your first shrimp is how people learn the hard way.
+
+## Visual differences
+
+![Crystal Red shrimp (Caridina cantonensis) showing the characteristic red-and-white banded pattern.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Crystal_Red_Shrimp_%28Caridina_cf._cantonensis_sp._%22Crystal_Red%22%29.jpg/1280px-Crystal_Red_Shrimp_%28Caridina_cf._cantonensis_sp._%22Crystal_Red%22%29.jpg)
+
+**Crystal Red shrimp (_Caridina cantonensis_)** — the textbook Caridina pattern: opaque red-and-white banding running across the carapace and tail. Compare against the solid coloration of Neocaridina morphs. Photo by Sean Murray, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Red_Shrimp_\(Caridina_cf._cantonensis_sp._%22Crystal_Red%22\).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+
+The species themselves don't look identical, even setting aside the colors.
+
+**Neocaridina** are slightly smaller-bodied, with simpler color patterns — solid reds, blues, yellows, greens, oranges. Most morphs are single-color. The wild-type is a translucent brownish.
+
+**Caridina** are slightly larger and more architecturally interesting. The classic Crystal Red and Crystal Black patterns feature distinct red-and-white or black-and-white banding; Tiger shrimp have lengthwise tiger striping; Pintos have intricate dots and patches. Taiwan Bees push pattern complexity further still. The wild-type Bee shrimp is a banded brown-and-cream.
+
+Both can interbreed within their own genus to produce mixed colors (which is why mixing color morphs of the same genus quickly produces wild-type-looking offspring), but Neocaridina and Caridina cannot interbreed across genera. Crystal red shrimp are Caridina and cherry shrimp are Neocaridina. They cannot interbreed.
+
+## Decision tree
+
+Some honest filters to figure out which is right for you:
+
+**Start with Neocaridina if any of these are true:**
+
+-   This is your first shrimp tank
+-   You haven't kept a planted tank stable for at least six months
+-   You don't currently use RO water for anything
+-   You want to see baby shrimp within a few months
+-   Your water is hard out of the tap (the common case in North America)
+-   You want shrimp as part of a community aquarium
+
+**Consider Caridina only if all of the following are true:**
+
+-   You've successfully kept a Neocaridina colony for at least a year
+-   You're comfortable with RO water and remineralizing precisely
+-   You're willing to dedicate a tank exclusively to shrimp
+-   You've researched specific parameter targets for your chosen morph
+-   You understand that high-grade lines die more easily than basic stock
+
+There's no shame in staying with Neocaridina forever. A well-kept colony of high-grade Bloody Mary or Blue Dream cherry shrimp is genuinely beautiful, costs a fraction of the Caridina path, and is much more interactive — you'll see breeding, molting, baby development, color changes through generations. Many shrimp keepers run Neocaridina tanks for years and never feel like they're missing out on Caridina.
+
+## One important exception: Amano shrimp
+
+![Close-up of an Amano shrimp (Caridina multidentata).](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caridina_multidentata_close.jpg/1280px-Caridina_multidentata_close.jpg)
+
+**Amano shrimp (_Caridina multidentata_)** — the exception to the Caridina-is-finicky rule: this is the one Caridina species hardy enough for beginners, and the standard algae-eating crew member for planted tanks. Photo by Richard Bartz, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caridina_multidentata_close.jpg), [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/).
+
+Amano shrimp (_Caridina multidentata_) are technically Caridina but break almost every rule above. Amano shrimp can be acclimated to both low pH and high pH environments, they're large (1.5–2 inches at full size), exceptionally hardy, and unmatched as algae cleanup crews. They also don't breed in fresh water — they require brackish conditions for the larval stage — so a tank of Amanos won't multiply on you.
+
+If you want a Caridina species without the Caridina hassle, Amanos are it. They're not pretty in the same way Crystal Reds are; they're a clear, slightly brownish-grey with subtle markings. But for tank-cleanup utility per dollar, nothing else matches them.
+
+## What I'd actually recommend
+
+If you're new: Neocaridina, color of your choice (Cherry, Blue Dream, and Yellow Goldenback are the easiest entry-level morphs), 10 individuals to start, in a planted 5–10 gallon tank with a sponge filter, after the tank has been mature for at least six weeks. Add a GH/KH test kit and a TDS meter to the basic ammonia-nitrite-nitrate-pH liquid kit. Skip the active substrate; inert sand or fine gravel is cheaper and works.
+
+If you have one Neocaridina tank running well and want to level up: a separate Caridina tank with the proper RO/active-substrate setup, starting with low-grade Crystal Reds rather than high-grade. Once those breed reliably for six months, you'll know enough to consider Taiwan Bees or Pintos.
+
+The trap is doing both at once. New shrimp keepers regularly buy a Caridina tank and a Neocaridina tank simultaneously, get overwhelmed by two parallel parameter regimens, and lose colonies in both. Learn one set of dynamics first.
+
+* * *
+
+### Recommended gear
+
+Product
+
+When you need it
+
+Salty Shrimp GH/KH+ (Neocaridina)
+
+If you're starting with Neocaridina and using RO water
+
+Salty Shrimp Bee GH+ (Caridina)
+
+If you've crossed into Caridina territory
+
+API GH & KH Test Kit
+
+Both genera; non-negotiable
+
+TDS meter
+
+Both genera; critical for Caridina
+
+Sponge filter + air pump
+
+Standard filtration for any shrimp tank
+
+Active substrate (Caridina only)
+
+Only if Caridina; ADA Amazonia or Brightwell Shrimp Soil
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# How I finally cracked nitrate control — 6 months of trial and error in my 40 gallon — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/nitrate-control-40-gallon
+
+For six months my 40-gallon planted community tank had a nitrate problem. Test kit consistently reading 60–80 ppm a few days after every water change, my rasboras hanging near the surface, my cherry shrimp colony refusing to grow despite stable parameters in every other respect, and my plants — particularly the supposedly-bulletproof Amazon swords — yellowing from the leaf tips inward.
+
+I tried everything wrong before I tried the right things. This article is the version of what I should have done from the start, written for the version of me who was about to spend $200 on nitrate-removing filter media that didn't work.
+
+## What nitrate actually is, and what counts as "high"
+
+Nitrate (NO₃⁻) is the end product of the nitrogen cycle. Fish produce ammonia, your biofilter bacteria oxidize ammonia into nitrite, and another set of bacteria oxidize nitrite into nitrate. Ammonia and nitrite are highly toxic at fractions of 1 ppm. Nitrate is much less toxic — and that gap is where people get confused.
+
+Nitrate doesn't cause acute death at typical aquarium levels. The damage is cumulative. The peer-reviewed literature on nitrate toxicity in freshwater organisms (Camargo et al., 2005, _Chemosphere_) reports that lethal concentrations vary enormously by species — from under 10 ppm for some sensitive amphibians to several hundred ppm for hardy adult fish. In aquarium terms, this means there's no universal "danger threshold." What matters is the species you keep.
+
+My working thresholds, calibrated from research and from experience:
+
+Nitrate level
+
+What it means
+
+0–20 ppm
+
+Healthy. Most fish and invertebrates do well here.
+
+20–40 ppm
+
+Acceptable for hardy community fish. Sensitive species and shrimp begin showing reduced breeding and color.
+
+40–80 ppm
+
+Genuinely problematic. Above 40 ppm, you start to see immune suppression, reduced disease resistance, fin damage in sensitive species, and behavioral changes.
+
+80+ ppm
+
+Harmful for most fish, lethal for shrimp and sensitive species over time.
+
+160+ ppm
+
+Emergency. Reduce gradually over 24–48 hours, not in a single large change.
+
+The EPA's drinking water standard for nitrate-nitrogen is 10 mg/L (which corresponds to roughly 45 mg/L as NO₃, the unit most aquarium test kits report). That's the limit for _human consumption_. Fish in chronic exposure have different tolerances — some higher, some considerably lower.
+
+For my tank — community rasboras and cherry shrimp — my target became under 20 ppm at all times. The shrimp were the limiting factor; they're noticeably more nitrate-sensitive than the fish.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/61Kd-mEEjXL._AC_SL500_.jpg)
+
+API Freshwater Master Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NCI?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71aG8SiGgRL._AC_SL500_.jpg)
+
+Frogbit (starter portion)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B08BKWTDCP?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/51s3YpWL76L._AC_SL500_.jpg)
+
+Hornwort (bunch)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CXRVR7WN?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71FfEX5LreL._AC_SL500_.jpg)
+
+Aquarium Water-Change Pump (Python)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NXC?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71cDsgZkZfL._AC_SL500_.jpg)
+
+Compact RO Unit (under-sink)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00204CQF6?tag=tanktalks-20)
+
+## What didn't work
+
+Six approaches I tried before I figured out what was actually happening.
+
+**Bigger water changes, less frequently.** I went from weekly 25% changes to bi-weekly 50% changes thinking I'd net out ahead. The math doesn't work that way. Two weeks of accumulation followed by a 50% change leaves you at the same long-term steady state as one week of accumulation followed by a 25% change, except now your fish get hit with a bigger osmotic shock at each change. The going from polluted water to fresh, clean water can be just as harmful to your fish as the nitrates themselves principle is real. I went back to weekly changes.
+
+**Nitrate-adsorbing filter media.** Brand-name nitrate removers (Seachem De\*Nitrate, API NitraZorb, etc.) work briefly, then exhaust their capacity within weeks and need replacement. The cost-per-ppm-removed is many times higher than just doing more frequent water changes. More importantly, they treat the symptom. Mine bought me a few weeks of slightly lower nitrate before it crept back up because the underlying production rate hadn't changed.
+
+**Bacterial supplements promising "denitrification."** Bottled denitrifying bacteria for freshwater have limited evidence behind them. Denitrifying bacteria operate in very low oxygen environments, deep in filter media or in deep sand beds, and are difficult to establish with bottled products. Saltwater systems with deep sand beds genuinely host denitrifying populations. Standard freshwater hang-on-back or canister filters don't have the right oxygen gradient to support them.
+
+**Chemical "binders."** Products marketed to "lock up" nitrate. Same category as the bacterial supplements — limited evidence in real-world freshwater conditions, and even when they work, the nitrate is still in the system. You're paying to make the test reading lower without addressing the cause.
+
+**Reducing feeding aggressively.** This actually does help, but I overdid it — fish were visibly underfed, and I still had high nitrate because feeding wasn't the dominant input.
+
+**An algae scrubber.** I rigged up an LED-lit container of Chaeto algae plumbed into the return path. It worked, slightly. But the maintenance was constant, the visual was ugly, and the nitrate reduction was modest compared to a proper planted tank.
+
+## What actually worked
+
+Three things, in roughly this order.
+
+### 1\. I tested my tap water
+
+This was the embarrassing one. I'd been doing weekly water changes for six months without ever testing the water I was adding to the tank. When I finally tested it, my tap water read 25 ppm nitrate.
+
+That single fact reframed the whole problem. Every water change was adding 25 ppm of nitrate before any biological accumulation. A 25% change wasn't dropping nitrate by 25% — it was lowering tank nitrate toward whatever the steady state was given a 25-ppm input.
+
+If you're fighting persistent nitrate, this is the first thing to check. It's free, takes thirty seconds with a test kit you already own, and explains a frustrating fraction of "I do everything right and nitrate is still high" cases. Tap water nitrates can be a substantial portion of total tank nitrate, especially in agricultural areas where groundwater and surface water carry fertilizer runoff.
+
+If your tap water tests above 10 ppm, your options are: contact your municipal water utility (some run seasonally and you can change-time around peaks), use bottled or RO water for water changes (expensive long-term but works), or invest in an RO/DI unit (a few hundred dollars upfront, unlimited zero-nitrate water afterward).
+
+🧪 Recommended for diagnosis:
+
+![API Freshwater Master Test Kit](https://m.media-amazon.com/images/I/61Kd-mEEjXL._AC_SL500_.jpg)
+
+API Freshwater Master Test Kit.
+
+Standard liquid test kit; reliable for ammonia, nitrite, nitrate, and pH at the concentrations that matter. Test strips are too inaccurate for this purpose.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B000255NCI?tag=tanktalks-20)
+
+For my tank, I started using a 50/50 mix of tap and RO water for changes. Combined input nitrate dropped from 25 to roughly 12 ppm, which immediately made every water change actually effective.
+
+### 2\. I rebuilt the planting
+
+My tank had plants — Amazon swords, Anubias, some Java fern. None of them are particularly fast-growing. The Anubias grew at a rate that probably consumed a meaningful amount of nitrate annually but not weekly.
+
+The shift was adding fast-growing plants specifically for nitrate uptake. Heavily plant any nitrate-laden aquarium with fast growing live plants, and they will remove all the nitrate from the aquarium water within days or weeks. The species that actually move the needle:
+
+-   **Hornwort** (_Ceratophyllum demersum_). Floating or rooted, grows several inches a week, no substrate or fertilizer required. Single most effective nitrate-consuming plant for low-tech tanks.
+-   **Water sprite** (_Ceratopteris thalictroides_). Floating or planted. Soft, lacy leaves, fast growth, easy to trim and propagate.
+-   **Frogbit and red root floaters.** Surface plants with extensive root systems that strip nitrates from the water column directly. Bonus: shade for the tank below, cover for surface-dwelling fish.
+-   **Duckweed.** Hugely effective. Also visually annoying and extremely difficult to remove once established. I'd recommend literally anything else first.
+
+I added a thick mat of frogbit at the surface and a generous bunch of hornwort in the back of the tank. Within three weeks the difference was visible on the test kit. Within six weeks, nitrate in the established tank had dropped from 60–80 ppm pre-change to under 20 ppm pre-change.
+
+🌿 Recommended for nitrate uptake:
+
+![Amazon Frogbit](https://m.media-amazon.com/images/I/71aG8SiGgRL._AC_SL500_.jpg)
+
+Frogbit + hornwort starter portion.
+
+Both float — no planting required, no substrate needed. The two together cover surface and water column.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B08BKWTDCP?tag=tanktalks-20)
+
+### 3\. I reduced inputs
+
+After the plants were established, I revisited feeding. Not aggressively undefeeding, but more deliberately. I switched from "broadcast feeding once a day" to "two small feedings of what fish actually consume in a minute." Uneaten food was a meaningful nitrate input I hadn't accounted for.
+
+I also reduced stocking slightly. The tank had crept from "moderately stocked" to "lightly overstocked" through a couple of impulse buys. Rehoming three fish to a friend's larger tank made a noticeable difference. This is unglamorous advice but it works: the input side of the equation matters as much as the output side.
+
+## The system that holds steady
+
+![A nature-style planted aquascape with dense plant growth and driftwood.](https://upload.wikimedia.org/wikipedia/commons/7/79/Nature_style_aquascape.png)
+
+**A nature-style aquascape** — dense, varied planting and deliberate composition. The kind of stable system that handles nitrate by inhaling it, not by fighting it. Photo by Duc Viet Bui, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nature_style_aquascape.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Six months later, my 40-gallon runs at 10–18 ppm nitrate consistently, with weekly 25% water changes using 50/50 tap and RO water. The shrimp colony is breeding. The plants are thriving. The fish look healthy. I trim hornwort and frogbit weekly, removing about a coffee-mug-volume of plant matter — that's nitrogen leaving the system permanently.
+
+The lesson, if there is one: nitrate isn't a _problem_ in a healthy aquarium, it's a _byproduct_. You can't eliminate it without breaking the system that makes it. What you can do is make sure your inputs (food, fish waste, source water) and outputs (water changes, plant growth) are balanced at a level where steady-state nitrate stays in the safe range for your livestock.
+
+For my future setups I'd start differently. I'd test tap water before stocking a tank, I'd plant heavily with fast-growers from day one, and I'd stock conservatively. Most of the nitrate problems people fight in established tanks could have been designed around upfront.
+
+## A quick note on planted tank fertilizers
+
+This part confuses people. Many comprehensive plant fertilizers (Tropica Specialised, Seachem Flourish Nitrogen, ADA Brighty K) add nitrate deliberately, because heavily planted tanks with strong lighting and CO2 inject can run nitrate to zero, which causes plant deficiency. When nitrate drops to 0–20 ppm, plant leaves can turn yellow or translucent (especially starting at the leaf tips) and eventually melt away because the plant is forced to consume nutrients from its old leaves.
+
+If you ever find yourself adding nitrate to a planted tank, don't treat it as paradoxical — it means your plants are doing their job so well that they've become the bottleneck. The fix is a small dose of N-containing fertilizer, not a celebration. (Most low-tech tanks like mine never reach this point. This advice is for high-light, CO2-injected setups.)
+
+## What I'd skip
+
+Buying nitrate-removing filter media. Buying denitrifying bacteria supplements. Buying nitrate-binding chemicals. None of them are cost-effective long-term. Even when they technically work, they're treating a number on a test kit rather than fixing the system that produces the number.
+
+If your tank is fighting nitrate, run through these in order:
+
+1.  Test your tap water.
+2.  Plant fast-growing species heavily (hornwort, frogbit, water sprite).
+3.  Reconsider stocking and feeding.
+4.  Increase water change frequency rather than volume.
+5.  If tap water nitrate is high, consider RO mixing or RO/DI.
+
+Skip everything else.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# The nitrogen cycle, properly explained — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/nitrogen-cycle-properly-explained
+
+![Diagram of the aquarium nitrogen cycle showing ammonia, nitrite, and nitrate conversion stages.](https://upload.wikimedia.org/wikipedia/commons/e/e9/Aquarium_Nitrogen_Cycle.png)
+
+**The aquarium nitrogen cycle** — ammonia from fish waste is converted to nitrite, then nitrate, by bacteria living on surfaces throughout the tank. Diagram by Ilmari Karonen, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquarium_Nitrogen_Cycle.png), Public Domain.
+
+The nitrogen cycle is the single most important thing to understand about a freshwater aquarium, and it's also the topic where the hobby's collective folk knowledge is most outdated. Most beginner guides — including ones still being written today — repeat a textbook explanation from the 1980s that has been definitively wrong for over twenty-five years. This article is going to give you the version of the cycle that actually matches what's happening in your tank.
+
+## The short version
+
+Fish produce ammonia. Ammonia is highly toxic. Bacteria living on every wet surface in your tank — your filter media, your substrate, your decor — convert that ammonia first into nitrite (also toxic) and then into nitrate (much less toxic). You remove the accumulated nitrate with water changes or live plants. That conversion process is called nitrification, and the population of bacteria doing the work is your biological filter.
+
+When people say a tank is "cycled," they mean those bacterial populations are large enough to keep up with the ammonia production from your fish. When people say a tank is "cycling," they mean those populations are still being established, and ammonia or nitrite are accumulating to dangerous levels in the meantime. Cycling typically takes two to eight weeks. You cannot rush it meaningfully without seeding from an established system, though a few tricks can help.
+
+That's the practical version. Now the part most articles get wrong.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/61Kd-mEEjXL._AC_SL500_.jpg)
+
+API Freshwater Master Test Kit
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B000255NCI?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71un6XQNzUL._AC_SL500_.jpg)
+
+Dr. Tim's One & Only
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B001LULBXI?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61xRAuB3eIL._AC_SL500_.jpg)
+
+Pure Ammonia for Cycling
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B00WSNYRDS?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/71vC18r+x0L._AC_SL500_.jpg)
+
+Sponge Filter (with media)
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0BZC4M2YS?tag=tanktalks-20)
+
+## The bacteria you've been told about are mostly not in your tank
+
+Almost every aquarium guide names two genera of bacteria as the workhorses of the nitrogen cycle: _Nitrosomonas_, which oxidizes ammonia into nitrite, and _Nitrobacter_, which oxidizes nitrite into nitrate. This pairing comes from soil and wastewater research that dates back nearly a century, and it was uncritically imported into the aquarium hobby because nobody had actually checked which species were doing the work in a fish tank.
+
+In 1998, Dr. Timothy Hovanec and a team at UC Santa Barbara did check, using DNA-based methods that hadn't been available before. Their study observed that _Nitrospira_\-like species rather than _Nitrobacter_ species appeared responsible for oxidation of nitrite to nitrate in freshwater aquaria. _Nitrobacter_ — the bacterium named in essentially every aquarium book and label ever printed — is not the dominant nitrite oxidizer in freshwater aquariums. _Nitrospira_ is.
+
+Subsequent work has gone further. Recent research found complete ammonia-oxidizing (comammox) _Nitrospira_ present in all freshwater aquarium biofilter samples in high abundance, challenging our previous understanding of aquarium nitrification. "Comammox" — short for complete ammonia oxidation — refers to a single organism that can perform both steps of nitrification on its own, taking ammonia all the way to nitrate without a partner. These were only discovered in 2015. They appear to be a major presence in mature home aquariums.
+
+The modern picture, then: your biofilter is a community. It includes ammonia-oxidizing bacteria (like _Nitrosomonas_), ammonia-oxidizing archaea (a separate domain of life that wasn't even known to participate in nitrification until the mid-2000s), and _Nitrospira_ — some of which oxidize only nitrite and some of which handle the whole cycle themselves. A 2024 study monitoring three home aquariums over twelve weeks confirmed AOA (ammonia-oxidizing archaea) and comammox _Nitrospira_ amoA genes in all aquariums.
+
+Why does this matter to you, the person trying not to kill their fish? Two practical reasons.
+
+First, many bacterial supplements sold to "instantly cycle" your tank were historically formulated around _Nitrobacter_, which doesn't actually establish well in freshwater aquariums. The products that work — Dr. Tim's One & Only is the most-cited example, partly because Hovanec himself developed it — contain the bacteria that actually live in tanks. If you're buying a starter, check what's in it.
+
+Second, it explains why cycling is slow. Nitrite-oxidizing bacteria are slowly growing organisms with doubling times from 12 to 32 hours. Your biofilter doesn't double every 20 minutes like _E. coli_ in a Petri dish; it doubles roughly once a day. That's why a fishless cycle takes weeks rather than hours.
+
+## Why ammonia kills
+
+Ammonia in water exists in two forms that interconvert constantly: ionized ammonium (NH₄⁺) and un-ionized ammonia (NH₃). Your test kit measures both together, reported as Total Ammonia Nitrogen (TAN). The two forms have wildly different toxicity. The ionized form is relatively harmless. The un-ionized form is what damages gills and disrupts a fish's blood chemistry.
+
+The ratio between the two depends on pH and temperature. As pH rises, more of your total ammonia exists in the toxic un-ionized form. As temperature rises, the same shift happens. This is why a reading of 1 ppm TAN at pH 6.5 and 72°F is much less dangerous than 1 ppm at pH 8.0 and 80°F. Same number on the test kit. Very different physiological reality.
+
+The EPA's 2013 freshwater ammonia criteria, which are based on extensive toxicity testing across dozens of species, set the chronic criterion at 1.9 mg/L total ammonia nitrogen (TAN) at pH 7.0 and temperature 20°C, with the criterion adjusted by pH and temperature. As pH increases, organisms are more sensitive to ammonia. As temperature increases, invertebrates are more sensitive to ammonia. The takeaway for a hobbyist: any detectable ammonia is a problem worth addressing immediately, but it's an emergency at high pH and high temperature, not just a concern.
+
+## Cycling a new tank, the short way
+
+There are two legitimate methods. Both work. One is faster.
+
+A **fishless cycle** uses pure ammonia (sold as janitorial-grade ammonium hydroxide, or as dosing solutions sold for this purpose) to feed the developing bacterial population. You add ammonia to roughly 2–4 ppm, wait, test daily, and watch the numbers. First ammonia drops to zero — that's the ammonia oxidizers establishing. Then nitrite spikes and eventually drops to zero — that's the nitrite oxidizers catching up. Once you can dose 2 ppm of ammonia and see both ammonia and nitrite drop to zero within 24 hours, your filter has the capacity to handle a typical fish load. Total time: four to eight weeks.
+
+A **seeded cycle** dramatically shortens this. You take filter media, substrate, or even a sponge from an established healthy tank — yours or a friend's, or from a fish store willing to share — and put it in your new filter. The bacteria are already there; they just need to colonize the new surfaces. With enough seed material, a tank can be effectively cycled in days rather than weeks. The Hovanec & DeLong research explicitly identified this as the fastest route.
+
+A **fish-in cycle** — adding a few hardy fish and letting their waste feed the bacteria — used to be the standard method and is still widely practiced. It works, but it subjects the fish to weeks of ammonia and nitrite exposure that ranges from stressful to lethal. There is no ethical version of this method that doesn't involve daily testing and aggressive water changes any time ammonia or nitrite climbs above 0.25 ppm. If you're going to do it, do it carefully, with hardy species, and don't pretend the fish aren't paying for your impatience.
+
+## What to actually monitor
+
+For a new tank, test ammonia, nitrite, and nitrate daily until you understand what's happening. A liquid test kit (API Freshwater Master is the most common) is dramatically more reliable than test strips for these three parameters; the strips are notoriously inaccurate at low concentrations, which is exactly the range you care about.
+
+For an established tank, weekly testing is sufficient under normal conditions. Test more often after any change: a new fish, a filter swap, a dead fish you might have missed, an unexplained behavior shift. Ammonia and nitrite should always read zero. Nitrate should accumulate slowly between water changes; how slowly depends on stocking, feeding, and plant load.
+
+A general guideline: keep nitrate under 20 ppm for sensitive species (most shrimp, some plant-heavy display tanks), under 40 ppm for hardier community fish, and never above 80 ppm for anything. Plants reduce nitrate accumulation noticeably; a heavily planted tank may never need nitrate-driven water changes at all, though water changes still serve other purposes (replenishing trace elements, removing dissolved organics).
+
+## The single most useful thing to remember
+
+The biological filter lives on surfaces, not in the water. When you do a water change, you're not disrupting your cycle — the bacteria stay put. When you replace your filter cartridge with a brand new one, on the other hand, you've thrown away a substantial fraction of your biofilter and your tank may briefly cycle again. Rinse media in tank water (never tap water, which contains chlorine that kills bacteria), and replace media gradually rather than all at once.
+
+That single mental model — "the bacteria are on the surfaces, not in the water" — prevents about half the cycling disasters new fishkeepers run into.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# How to acclimate new shrimp: the drip method, without overcomplicating it — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/articles/shrimp-acclimation-drip-method
+
+The package arrives. You open it carefully, because the seller's email said to. Inside: a bag of dark water, a small heat pack, and a dozen shrimp huddled at the bottom of the bag. Some are moving. Some aren't. You have a tank ready and you want them in it.
+
+Wait. The next ninety minutes matter more than anything you did setting up the tank.
+
+Shrimp are far more sensitive to water changes than fish are — not because they're frail, but because their entire osmotic balance is calibrated to the dissolved mineral content of the water they're in. Move them too fast and they don't die in the bag; they die three days later from delayed molt failure as their body tries to reset and can't. This is the single most common way to kill mail-order shrimp: by being kind and impatient at the same moment.
+
+## What this article does NOT cover
+
+Quarantining the shrimp before adding them to a community tank. That's its own topic and the answer for most home keepers with a shrimp-only tank is "skip it." If you have an existing display tank with fish you care about and you're worried about diseases from the new shrimp, run a separate quarantine tank for two to four weeks and acclimate into _that_ first; the drip method is the same either way.
+
+Plip-plop-style acclimation (float the bag, dump in some tank water every ten minutes). It works for hardy fish. It is not adequate for shrimp coming from substantially different parameters. The drip method exists precisely because plip-plop doesn't work for these animals.
+
+## Recommended gear for this article
+
+All affiliate links · we earn a small commission at no cost to you
+
+[
+
+![](https://m.media-amazon.com/images/I/51xVrkIusNL._AC_SL500_.jpg)
+
+Wide-mouth Apothecary Jar
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B07GZ76ZZ6?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/61KX407Zf4L._AC_SL500_.jpg)
+
+Soft fine-mesh net
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06XNNY4YW?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/713+1cAX5RL._AC_SL500_.jpg)
+
+Digital TDS Meter
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B0CTHWS8GX?tag=tanktalks-20)[
+
+![](https://m.media-amazon.com/images/I/81yGQ7-pHNL._AC_SL500_.jpg)
+
+Salty Shrimp GH/KH+
+
+View on Amazon →
+
+](https://www.amazon.com/dp/B06Y581DC4?tag=tanktalks-20)
+
+## The setup, in plain terms
+
+You need three things:
+
+-   A container the shrimp can sit in for ninety minutes. A clear glass jar or wide-mouth container is ideal — you want to see what's happening. Half-gallon or larger.
+-   Airline tubing, six feet of it. Standard 3/16-inch aquarium airline.
+-   A clip, a peg, or a way to suspend the airline so it siphons water from your tank into the acclimation container without falling in or whipping around.
+
+That's the entire rig. No air pump. No drip valve. The drip rate is controlled by a knot.
+
+🫙 Recommended for this:
+
+![Wide-mouth glass apothecary jar](https://m.media-amazon.com/images/I/51xVrkIusNL._AC_SL500_.jpg)
+
+Wide-mouth glass apothecary jar (0.5 gallon).
+
+The right shape and volume for drip acclimation — wide enough that shrimp can spread out, tall enough that you can let the water level double without overflowing, clear enough that you can watch behavior. A salsa jar from your fridge will also work; this just looks better and won't grease-stain your countertop.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B07GZ76ZZ6?tag=tanktalks-20)
+
+## Step one: temperature only (the first thirty minutes)
+
+Float the unopened bag in your tank, lid up, for about thirty minutes. The water in the bag will equalize to tank temperature in that time. This part you can do straight from the box without thinking — and it gives you thirty minutes to prep the rest of the rig.
+
+If the bag water is visibly cloudy, smells of ammonia, or is much colder than expected (a cold heat-pack-failure shipment), shorten this step to ten or fifteen minutes. Ammonia toxicity rises sharply as temperature rises, and shrimp sitting in their own waste at room-temperature for hours will start to die. The trade-off is moving them into temperature shock to escape ammonia shock; in cold-shipment cases, getting them out of the bag faster is usually the right call.
+
+## Step two: the drip itself
+
+Carefully open the bag and pour the entire contents — water and shrimp — into the acclimation jar. Set the jar on a surface lower than your tank. (The tank needs to be higher so the siphon works by gravity.)
+
+Take the airline tubing. One end goes into your tank, submerged at least a few inches below the surface. Suck on the other end like a straw until tank water comes through, then quickly pinch the end and lower it into the acclimation jar. You're now siphoning tank water from the tank into the jar.
+
+If it's pouring out in a stream, you tie a loose overhand knot in the middle of the airline. Tighten the knot gradually until the water comes out as drops, not a stream. Target: one to two drops per second.
+
+That's it. You're now drip-acclimating. Walk away.
+
+## How long, how slow, how to know when you're done
+
+For Neocaridina shrimp (cherry, blue dream, yellow, etc.) coming from a reputable seller with reasonably similar parameters, target a ninety-minute drip. By then the volume in the jar should have roughly doubled and the water in the jar is mostly tank water.
+
+For Caridina shrimp (crystal red, black, bee, taiwan bee) or for any shrimp coming from substantially different water — particularly different TDS — extend to two to three hours. Caridina shrimp from a seller with TDS 120 going into your tank at TDS 180 are facing a 50% mineral shock at the cellular level. Slow the drip and let them adjust.
+
+If the jar fills, stop the drip, scoop out half the water with a cup (do _not_ pour shrimp out with it), and restart the drip. Aim for at least three jar-volume turnovers total. By the end the jar water and tank water should be functionally identical.
+
+💧 Optional, for the careful:
+
+![Digital TDS meter](https://m.media-amazon.com/images/I/713+1cAX5RL._AC_SL500_.jpg)
+
+Digital TDS meter.
+
+If you want to know exactly how big the shock is, measure the bag water TDS and your tank water TDS the moment the package opens. A delta above 50 ppm means you need the longer drip; above 150 ppm and you should consider extending past three hours. Skip this entirely for low-stakes Neocaridina; it's worth having for anyone planning to keep Caridina.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B0CTHWS8GX?tag=tanktalks-20)
+
+## Step three: getting them out without dumping the jar water
+
+Once acclimation is done, you need to move the shrimp from the jar to the tank _without_ introducing the jar water into your tank. The jar water now contains whatever was in the bag: the seller's water, shrimp waste from shipping, any tannins or medications from transport. None of it belongs in your tank.
+
+Use a soft mesh net. Scoop the shrimp out a few at a time and lower them just below your tank's water surface to release. Soft mesh matters — stiff nets can damage shrimp antennae and break the long sensory hairs on their legs. The shrimp will hop off the net into the tank on their own; you don't need to shake them off.
+
+The jar water goes down the drain.
+
+🪣 Recommended for this:
+
+![Soft mesh fish net](https://m.media-amazon.com/images/I/61KX407Zf4L._AC_SL500_.jpg)
+
+Soft fine-mesh aquarium net.
+
+Fine mesh keeps small shrimp from slipping through; soft mesh keeps antennae intact. The braided metal handle stays clean over time. A coarse net designed for fish will catch on shrimp legs and cause shed limbs in transfer.
+
+Affiliate link · we earn a small commission
+
+[View on Amazon](https://www.amazon.com/dp/B06XNNY4YW?tag=tanktalks-20)
+
+## The first forty-eight hours
+
+Newly added shrimp will spend most of the first day hiding. That's correct behavior; do not interpret it as illness. Lights low or off for the first 24 hours helps reduce stress.
+
+You will probably see one or two molts in the first three to five days as the shrimp finish a delayed molt cycle that was suspended during transit. **Do not remove the molted exoskeletons.** Shrimp eat their own molts to recover calcium; pulling them out of the tank wastes that and stresses the rest of the colony.
+
+Do not feed for the first 24 hours. Their digestive systems are recalibrating and added food just dissolves and adds ammonia to a tank that's now adjusting to new biological load. Feed lightly on day two — about half what you'd normally feed for that many adults. Resume normal feeding by day four.
+
+If you see deaths in the first week, count them and don't replace immediately. Some loss after shipping is normal even with perfect acclimation — maybe one out of ten. Above 30% loss in the first week, something is wrong (either with the shipment or with your tank). Email the seller; reputable ones honor live arrival guarantees if you document with photos.
+
+## Common mistakes worth naming
+
+**Skipping the drip and just floating the bag.** Works for fish, not for shrimp. The osmotic mismatch is the part that matters, and temperature equalization alone doesn't address it.
+
+**Drip too fast.** A heavy stream is the same as just dumping. Aim for actual drops you can count.
+
+**Leaving them in the jar overnight.** The acclimation jar has no filtration, no surface area, and limited oxygen. Two to three hours is fine; six is risky; overnight is how you cook your shrimp in ammonia. If for any reason you can't get them to the tank in three hours, return them to the bag and float it again.
+
+**Adding bag water to the tank.** Even a few cups can introduce pathogens or carry over treatments the shrimp were shipped with. Net transfer, every time.
+
+**Acclimating in cold or hot rooms.** The acclimation jar drifts to room temperature over the course of an hour. If your room is 60°F or 85°F, you're un-doing the temperature work. Acclimate near the tank, at tank room temperature.
+
+## One note on Caridina specifically
+
+If you're acclimating Caridina shrimp (any of the bee, taiwan bee, crystal red, or related groups) and your tank uses an active substrate like ADA Amazonia, your tank water is much softer and more acidic than typical Neocaridina water. The TDS gap between a seller's shipping water and an active-substrate tank is often 100+ ppm. Plan for a three-hour drip minimum and consider doing it in two passes — drip for two hours, let the shrimp rest in the jar at the new parameters for thirty minutes, then drip another hour to fine-tune.
+
+Caridina mortality from undisciplined acclimation is much higher than Neocaridina mortality. They are not Neocaridina with prettier patterns; they are a meaningfully more sensitive animal. If you're new to dwarf shrimp, the suggestion in [our Neocaridina vs Caridina piece](neocaridina-vs-caridina-first-shrimp.html) still stands: start with Neocaridina, get reliable success, then consider Caridina once your husbandry is consistent.
+
+## The quick checklist (save this)
+
+1.  Float bag, unopened, 30 minutes — temperature only
+2.  Empty bag (shrimp and water) into the acclimation jar
+3.  Start a 1–2 drops/sec siphon from the tank into the jar
+4.  90 minutes for Neocaridina, 2–3 hours for Caridina
+5.  Empty half the jar if it fills, restart drip; aim for ~3 volume turnovers
+6.  Net shrimp into tank — never pour jar water in
+7.  Lights off 24 hours, no food 24 hours
+8.  Leave molts in the tank, expect hiding for 48 hours
+
+That's the whole protocol. The rest is patience.
+
+_Some links in this article are affiliate links — if you buy through them we earn a small commission at no extra cost to you. We only recommend gear we've personally used._
+
+---
+
+# About — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/about
+
+Tank Talks is a freshwater aquarium blog covering fish, shrimp, plants, water chemistry, equipment, and the practical knowledge of running a tank well. We don't cover saltwater systems, public-aquarium operations, or fish farming — there are excellent publications for those, and we'd rather do one thing well.
+
+Within freshwater, our coverage falls into a few categories: care guides for species and plants, comparison and decision pieces, diagnostic articles for things going wrong in tanks, and personal experience writeups from our own setups.
+
+## Who writes this
+
+Tank Talks is currently a small operation. The same people who write the articles also choose the affiliate placements and run the site. We try to keep that honest by following the principles laid out in our [editorial standards](editorial-standards.html).
+
+## How we choose what to publish
+
+We try to be useful first and authoritative second. Most aquarium content on the internet is written either to capture search traffic or to sell a product. We try to write things we'd want to read if we were the reader. The full version of how we work is in [our editorial standards page](editorial-standards.html).
+
+## How we make money
+
+Affiliate commissions, primarily through the Amazon Associates program. The full disclosure of how this works, what it means for you, and what we won't do is on our [affiliate disclosure page](disclosure.html).
+
+## Contact
+
+For corrections, questions, or feedback: **hello@tanktalks.sdfkjh.com**.
+
+If you've found something incorrect on the site, please tell us — we'd rather fix it than have wrong information up under our name.
+
+---
+
+# Affiliate disclosure — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/disclosure
+
+## The short version
+
+Tank Talks is a freshwater aquarium blog. Some of the links in our articles are affiliate links. If you click one of those links and buy a product, the retailer pays us a small commission at no extra cost to you. We use those commissions to cover hosting, image rights, plant purchases for our own tanks, and the time it takes to write what we publish. Without affiliate revenue this site couldn't exist in its current form.
+
+We only recommend products we have personally used or that have a clear, well-documented track record in the hobby. Commissions never determine whether a product gets recommended, and they never determine what gets recommended _over_ something else.
+
+## Affiliate programs we participate in
+
+**Amazon Associates.** Tank Talks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
+**As an Amazon Associate, we earn from qualifying purchases.**
+
+We may also participate in affiliate programs with specialty aquarium retailers (Aquarium Co-Op, Buce Plant, The Shrimp Farm, and similar) where the relationship is appropriate. When we link to one of these retailers, the same disclosure applies: a small commission to us, no added cost to you.
+
+## What "affiliate link" actually means
+
+When you click an affiliate link, the retailer's website logs that the visit came from us. If you make a purchase within a window of time (typically 24 hours for Amazon, longer for some other programs), we receive a percentage of that sale as a commission. The price you pay is identical to the price you'd pay if you'd typed the URL directly. Amazon and other retailers absorb the affiliate fee out of their existing margin; it does not get added to your bill.
+
+You are under no obligation to use our affiliate links. If you'd rather visit Amazon or any other retailer directly, that is completely fine — we'd rather you make an informed decision than feel pressured to use our links.
+
+## How we identify affiliate content
+
+You will see affiliate disclosures in three places on our site:
+
+1.  **At the top of any article that contains affiliate links** — a banner identifying that some links are affiliate.
+2.  **Near each affiliate component** (product cards, comparison tables, gear roundups) — a short reminder.
+3.  **In the footer of every page** — the standing Amazon Associates disclosure.
+
+If you ever see a product link on Tank Talks and aren't sure whether it's affiliate, you can assume it probably is, and the disclosure above applies.
+
+## How we choose products
+
+This is the part most affiliate disclosures don't explain, and we think it's the most important part.
+
+**Recommendations are based on use, not commission rate.** When we recommend a heater, a filter, a remineralizer, or a plant, we are recommending the option we believe is genuinely best for the use case described in the article. We do not preferentially recommend products with higher affiliate commissions. We do not accept payment, free product, or any other compensation in exchange for recommending a specific product over another.
+
+**We sometimes recommend products that pay us nothing.** When the best product for a given use case is not available through any affiliate program we participate in, we still recommend it. In those cases we'll mention it without an affiliate link. The recommendation matters more than the commission.
+
+**We try to recommend products at multiple price points.** Aquarium gear ranges from inexpensive to genuinely expensive. Where it makes sense, we'll identify a "budget pick," an "editor's pick," and (where relevant) a "premium" option, with honest descriptions of what you get for the money difference.
+
+**We update recommendations when products change.** Aquarium product quality is not static. Brands get bought, manufacturing moves, formulations change. When a product we previously recommended is no longer the best choice, we update the article. Each article shows its last revision date.
+
+## What we won't do
+
+To be explicit:
+
+-   We won't recommend a product we haven't used or that doesn't have well-documented hobbyist support.
+-   We won't recommend a product solely because it's offered by a retailer we have an affiliate relationship with.
+-   We won't write articles for the purpose of pushing specific products. Article topics come first; affiliate placement comes second, and only where it fits the topic naturally.
+-   We won't take payment for editorial coverage. If we ever publish sponsored content, it will be clearly labeled as sponsored, separate from our editorial articles, and identifiable as advertising under FTC guidelines.
+-   We won't disclose your personal information to any retailer based on your clicks. The standard affiliate tracking links pass anonymous referral data only.
+
+## A note on aquarium product safety
+
+Some products are especially important to get right because they affect living animals — heaters, water conditioners, medications, and bacterial supplements among them. For these categories we apply extra caution:
+
+-   We will not recommend medications or chemicals we don't have direct experience with or strong external evidence for.
+-   We will not recommend specific dosages, treatment protocols, or therapeutic interventions for sick fish without referring readers to a qualified aquatic veterinarian.
+-   We will not recommend any product we believe is actively harmful to fish, shrimp, or planted tank inhabitants.
+
+If you're treating sick fish or shrimp and our recommended product doesn't seem to be helping, please consult a qualified aquatic veterinarian rather than continuing to follow general guidance from any website, ours included.
+
+## Questions, corrections, or concerns
+
+If you've encountered something on Tank Talks that seems inconsistent with this disclosure, or if you've had a bad experience with a product we recommended, we want to hear about it. Email **hello@tanktalks.sdfkjh.com** and we'll respond within a reasonable time.
+
+If you believe we've published incorrect information about a product, please tell us — we'd rather correct an article than have inaccurate guidance on the internet under our name.
+
+* * *
+
+_Last updated: May 9, 2026._
+
+_Tank Talks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate we earn from qualifying purchases._
+
+---
+
+# Editorial standards — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/editorial-standards
+
+## What we publish
+
+Tank Talks covers freshwater aquarium keeping: fish, shrimp, plants, water chemistry, equipment, and the practical knowledge of running a tank well. We do not cover saltwater systems, public-aquarium operations, or fish farming.
+
+Within that scope, our articles fall into a few categories:
+
+-   **Care guides** — long-form coverage of a species, plant, or technique
+-   **Comparison and decision pieces** — "X vs Y" content where we help you choose
+-   **Diagnostic articles** — what's wrong with a tank, why, and how to fix it
+-   **Personal experience writeups** — first-person accounts of what worked, what didn't, and why
+
+We try to be useful first and authoritative second. Most aquarium content on the internet is written either to capture search traffic or to sell a product. We try to write things we'd want to read if we were the reader.
+
+## Where our information comes from
+
+We rely on three categories of sources, in roughly this order of weight:
+
+**Peer-reviewed scientific research.** When a topic has been studied formally — bacterial nitrification, ammonia toxicity, species-level water parameter requirements — we cite the underlying papers. We try to read the actual research rather than summarize hobbyist articles that summarize the research.
+
+**Government scientific agencies.** USGS species profiles, EPA water quality criteria, USFWS ecological risk assessments, and similar federal sources are public-domain in the United States and are explicitly cited as primary sources where relevant. These are the most reliable factual references for species native ranges, invasive status, and water quality benchmarks.
+
+**Established hobby and industry sources.** For practical care advice that hasn't been formally studied (and a lot of it hasn't), we draw on guidance that has converged across multiple respected sources: 2hr Aquarist, Aquarium Co-Op, established breeders, university extension publications, and similar. We try to triangulate rather than rely on any single source.
+
+**Personal experience.** Where an article describes something we've done in our own tanks (such as the nitrate-control article), we say so explicitly. We don't fabricate personal stories to make articles feel more authoritative.
+
+## What we won't do
+
+To be explicit about a few editorial commitments:
+
+-   **We won't reproduce content from competitor sites.** Articles that summarize someone else's article are bad for the internet and bad for SEO. We synthesize from multiple sources and write in our own voice.
+-   **We won't write content designed to rank without being useful.** SEO-optimized lists with no underlying experience or research are how most aquarium sites operate. We try not to.
+-   **We won't recommend products we haven't used or that don't have strong hobbyist consensus.** See our [affiliate disclosure](disclosure.html) for the full version.
+-   **We won't republish AI-generated content as if it were human-written.** AI tools can be used as drafting assistance, but every article on this site is reviewed and edited by a human who takes responsibility for the content.
+-   **We won't fabricate citations or sources.** If we cite a paper, we've read enough of it to know it supports the point we're making. If we cite a hobbyist source, we've read it. The citations at the end of articles are real.
+
+## How we handle errors
+
+We make mistakes. The aquarium hobby is full of evolving knowledge — recall that the basic science of which bacteria cycle a freshwater tank wasn't sorted out until 1998 — and articles written today may need correction in five years.
+
+Our approach:
+
+-   **Every article shows its last revision date.** When an article is updated, the date changes.
+-   **Significant corrections are noted at the bottom of the article.** If we change a recommendation in a way that affects what readers should do, we say so explicitly rather than silently editing.
+-   **Reader corrections are welcome.** If you spot something incorrect, email **hello@tanktalks.sdfkjh.com**. We'd rather hear it from you than have wrong information persist.
+
+## Conflicts of interest
+
+We're a small operation. The same people who run the editorial side also run the affiliate side. We try to keep them honest by:
+
+-   Writing articles based on topic merit, not affiliate opportunity
+-   Recommending products based on quality, not commission rate
+-   Disclosing every affiliate relationship in every relevant context
+-   Saying "no affiliate link available" when the best product isn't one we earn from
+
+We are not currently funded by any aquarium-industry company, sponsor, or advertiser. If that ever changes, we'll disclose it prominently.
+
+## Sponsored content (currently: none)
+
+As of the date of this page, we have not published any sponsored content. If we ever do, it will be:
+
+-   **Clearly labeled as sponsored** at the top of the article and in any preview/snippet
+-   **Disclosed in plain language** about who paid for it and what the relationship is
+-   **Editorially independent** — meaning we will not say things in sponsored content that we wouldn't say without being paid
+-   **Excluded from "best of" or comparison articles** unless the comparison is itself the sponsored content (in which case the framing makes that clear)
+
+We reserve the right to refuse sponsored content that conflicts with our editorial judgment.
+
+## Reader privacy
+
+We don't track readers across sites, and we don't share reader data with any retailer or third party. The affiliate-link tracking that retailers use is anonymous referral data — they know "a visitor came from Tank Talks," not who you are. If we ever add analytics, we'll use a privacy-respecting option (Cloudflare Web Analytics or Plausible) that doesn't track individuals.
+
+Comments, if we ever add them, will require an email address only for spam prevention and won't be shared.
+
+## Animal welfare
+
+We care about the welfare of the animals our readers keep. Editorial commitments that follow from this:
+
+-   We will not recommend equipment, techniques, or products we believe are harmful to fish, shrimp, or invertebrates.
+-   We will not recommend species combinations we know to be incompatible, even if both species are popular.
+-   We will note when a popular species is genuinely unsuited for typical home setups (goldfish in 10-gallon tanks, common plecos in any normal home aquarium, etc.).
+-   We will recommend humane disposition (rehoming, donation, humane euthanasia) for surplus or unwanted animals, never release into local waterways. Releasing aquarium animals causes documented ecological harm.
+
+## Contact
+
+For corrections, source questions, sponsorship inquiries, or feedback: **hello@tanktalks.sdfkjh.com**.
+
+For affiliate-disclosure-specific questions, see our [affiliate disclosure page](disclosure.html).
+
+* * *
+
+_Last updated: May 9, 2026._
+
+---
+
+# Image credits — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/image-credits
+
+If you are the rights-holder of an image listed below and believe attribution is incorrect or missing context, email **hello@tanktalks.sdfkjh.com** and we will correct or remove it promptly.
+
+If you are the rights-holder of an image listed below and believe attribution is incorrect or missing context, email **hello@tanktalks.sdfkjh.com** and we will correct or remove it promptly.
+
+## How attribution works on Tank Talks
+
+Each image used under a Creative Commons license is captioned with: a short description, the photographer's name as credited on the original Commons file page, a link to that file page, and a link to the specific license. The corresponding entry on this page repeats that information for archival reference.
+
+Where an image is in the public domain, attribution is offered as a courtesy and is not legally required.
+
+Where an image is licensed under a "share-alike" variant of Creative Commons (CC BY-SA), the share-alike obligation applies to _modified_ versions of the image — cropped, recolored, composited, etc. A straight embed of the original image does not place any share-alike obligation on the surrounding article text.
+
+## Credits by article
+
+### Homepage
+
+-   **Hero — red cherry shrimp (Neocaridina davidi) on dwarf hairgrass** — by Atulbhats. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RedCherryShrimp.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share-alike.
+-   **Shrimp acclimation thumbnail — blue-morph Neocaridina davidi** — by TonyZimbinski. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blue_N._Davidi_Shrimps.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share-alike.
+-   **EPA Ammonia tile — 58-gallon planted aquascape**. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:58g_aquascape.jpg). License per the file page on Commons.
+-   **EPA Nitrate tile — Dutch-style densely-planted aquarium "The Enchanted Garden"** — by Shay Fertig. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Enchanted_Garden_by_Shay_Fertig.jpg). License per the file page on Commons. (Also used as the inner-page hero on [/articles/](../articles/).)
+-   **USGS Invasives tile — jungle-style aquascape**. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jungle_style_aquascape.jpg). License per the file page on Commons. (Also used as the inner-page hero on [/troubleshooting/](../troubleshooting.html).)
+-   **USFWS Decon tile — Ryoboku nature-style aquascape**. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nature_style_aquascape.png). License per the file page on Commons. (Also used as the inner-page hero on [/tools/](../tools.html).)
+
+### Inner-page heroes (added 2026-05-26)
+
+-   **/gear/ hero — competition aquascape, "2020 AGA Top 10"** — by Cho Jaesun (Wikimedia user Aquagarden). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cho_Jaesun_2020_AGA_Top_10.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — share-alike.
+-   **/about/ hero — miniature aquascape** — by Trstcantik. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquascape_mini.jpg). [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain.
+
+### The nitrogen cycle, properly explained
+
+-   **Aquarium nitrogen cycle diagram** — by Ilmari Karonen. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aquarium_Nitrogen_Cycle.png). Public Domain.
+
+### Cherry shrimp breeding: why your colony isn't growing
+
+-   **Red cherry shrimp (Neocaridina davidi)** — by Uccio D'Agostino. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neocaridina_davidi_var._Red_Cherry.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+-   **Cherry shrimp in Echinodorus tenellus planting** — by Uccio D'Agostino. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neocaridina_heteropoda,_Echinodorus_tenellus.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Bucephalandra: the beginner's guide to keeping "buce" alive
+
+-   **Bluish sheen on Bucephalandra leaves** — by Manuel Werner. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Marimo moss balls: why every shrimp tank needs one
+
+-   **Marimo (Aegagropila linnaei) in Hokkaido, Japan** — by bryan… (Taipei). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aegagropila_linnaei,_Hokkaido,_Japan.jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) — share-alike.
+-   **Three growth forms of Aegagropila linnaei** — via Myvatn Research Station (Arni Einarsson). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marimo1.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — share-alike.
+
+### Java moss vs Christmas moss
+
+-   **Java moss (Taxiphyllum barbieri)** — by Buchling. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Javamoos.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — share-alike.
+-   **Christmas moss with riccia (Vesicularia montagnei)** — by Storm. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christmas_moss_and_riccia_\(14441185564\).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) — share-alike.
+
+### How I finally cracked nitrate control — 6 months of trial and error
+
+-   **Iwagumi-style planted aquascape** — by Moritz Holzinger. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Iwagumi_Scape.jpg). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — share-alike.
+-   **Nature-style aquascape** — by Duc Viet Bui. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nature_style_aquascape.png). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share-alike.
+
+### Neocaridina vs Caridina — picking your first shrimp species
+
+-   **Hero — Crystal Red shrimp (Caridina cantonensis)**. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caridina-cf-cantonensis-crystal-red.jpg). License per the file page on Commons.
+-   **Crystal Red shrimp (Caridina cantonensis)** — by Sean Murray. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Red_Shrimp_\(Caridina_cf._cantonensis_sp._%22Crystal_Red%22\).jpg). [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) — share-alike.
+-   **Amano shrimp (Caridina multidentata) close-up** — by Richard Bartz (Makro Freak). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caridina_multidentata_close.jpg). [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) — share-alike.
+
+### Best nano fish for a 10 gallon planted tank
+
+-   **Chili rasbora (Boraras brigittae)** — by Daiju Azuma. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boraras_brigittae_by_DaijuAzuma.JPG). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share-alike.
+-   **Celestial pearl danio (Danio margaritatus)** — by Cassius Chaerea. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D%C3%A1nio_perlov%C3%A9.jpg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share-alike.
+-   **Planted nano aquarium with chili rasboras** — by VivienneHarper. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nano-Aquarium_mit_Boraras_brigittae.JPG). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — share-alike.
+
+## License references
+
+The licenses cited above are issued by Creative Commons; the canonical legal text lives on creativecommons.org. Public-domain images carry no license restrictions.
+
+-   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — attribution required.
+-   [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) — attribution required, derivatives must share-alike.
+-   [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) — attribution required, derivatives must share-alike.
+-   [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) — attribution required, derivatives must share-alike.
+-   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — attribution required, derivatives must share-alike.
+
+* * *
+
+_Last updated: May 10, 2026._
+
+---
+
+# Your privacy choices — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/privacy
+
+If you just want the short version: we don't sell or share your personal information for advertising purposes, we don't run third-party ad networks, and we don't have user accounts. The most personal data we hold about any individual reader is "subscribed to our newsletter" or "clicked an affiliate link" — and you can opt out of both at any time.
+
+## What we collect
+
+Tank Talks collects a small amount of information from readers, depending on what you do on the site:
+
+**Standard server logs.** Like virtually every website, the servers that host Tank Talks log basic information about each visit: your IP address, browser type, the page you visited, the time, and the page that referred you. This is needed for the site to work and to defend against attacks. These logs are kept for a limited time and are not used to build a profile of you.
+
+**Newsletter subscription.** If you sign up for our weekly email, we collect your email address and the date you subscribed. That's it. We do not enrich this with third-party data and do not sell or rent the list.
+
+**Affiliate clicks.** When you click an affiliate link on our site, the destination retailer (typically Amazon) records that the click came from us. We don't see who you are; we just see that a click happened. This is how affiliate commissions work across the entire web.
+
+We do not collect:
+
+-   Your name or address (unless you provide them in an email to us)
+-   Payment information (we don't process payments directly)
+-   Browsing behavior across other websites
+-   Any data via tracking pixels or fingerprinting
+
+## What we do NOT do
+
+To be explicit about things we don't do:
+
+-   We do not run third-party advertising networks (no Google AdSense, no display ads).
+-   We do not sell, rent, or share your personal information with anyone for marketing purposes.
+-   We do not use cross-site tracking technology.
+-   We do not have user accounts or stored profiles.
+
+The "share" word matters under California law. Under the CCPA as amended by the CPRA, "sharing" specifically includes disclosing personal information for cross-context behavioral advertising. We don't do that.
+
+## Cookies and similar technologies
+
+Tank Talks uses minimal cookies:
+
+-   A small cookie may be set by our hosting provider (Cloudflare) for security purposes (DDoS protection, bot detection). This is functional and not used for advertising.
+-   If you sign up for the newsletter, our email service provider may set a cookie to verify the signup.
+
+We do not use third-party advertising cookies or tracking pixels. If you'd prefer not to allow even functional cookies, your browser settings should give you control.
+
+## Your rights
+
+Depending on where you live, you have specific legal rights regarding your personal information.
+
+### California residents (CCPA / CPRA)
+
+You have the following rights:
+
+-   **Right to know** what personal information we collect, use, disclose, or sell about you.
+-   **Right to delete** the personal information we hold about you, subject to legal exceptions.
+-   **Right to correct** inaccurate personal information.
+-   **Right to opt out of sale or sharing** of your personal information for cross-context behavioral advertising.
+-   **Right to limit use of sensitive personal information** (we don't collect any, but you have the right anyway).
+-   **Right to non-discrimination** — we cannot deny service or charge you differently because you exercise these rights.
+
+**As stated above, Tank Talks does not sell or share your personal information for advertising purposes.** There is therefore nothing for you to opt out of in that specific category. You may still exercise your other rights at any time.
+
+### EU and UK residents (GDPR / UK GDPR)
+
+You have the rights to access, rectify, erase, restrict processing of, and port your personal data. You may also object to processing and lodge a complaint with your data protection authority. We rely on legitimate interest for analytics, on consent for the newsletter, and on contract performance for serving the site.
+
+### Everyone else
+
+We extend the substantive rights above to all readers regardless of location, on a best-effort basis, even where not legally required.
+
+## How to exercise your rights
+
+To exercise any right described above, email **hello@tanktalks.sdfkjh.com** with the subject line "Privacy request" and tell us what you'd like us to do. We will respond within 30 days.
+
+For verification, we may ask you to confirm the request from the email address associated with your activity on the site (typically your newsletter subscription). If you have not given us any personal information, there is generally nothing for us to delete or disclose.
+
+You may also designate an authorized agent to make a request on your behalf. If you do, we may require proof that you authorized the agent.
+
+## Children's privacy
+
+Tank Talks is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please email us and we will delete it.
+
+## Newsletter unsubscribe
+
+Every email we send includes a one-click unsubscribe link at the bottom. Clicking it removes you from the list immediately and permanently. If you never received our emails or never subscribed, no action is needed.
+
+If you have trouble unsubscribing, email **hello@tanktalks.sdfkjh.com** and we will remove you manually.
+
+## Data retention
+
+We retain personal information only as long as needed for the purpose it was collected:
+
+-   Newsletter subscribers: until you unsubscribe.
+-   Server logs: typically 30–90 days, then anonymized or deleted.
+-   Email correspondence: until the matter is resolved, then archived for a reasonable period in case you follow up.
+
+## Changes to this policy
+
+When we make material changes to this policy, we will update the "Last updated" date at the top and, where appropriate, notify newsletter subscribers by email.
+
+## Contact
+
+For any privacy-related question or to exercise any right described above:
+
+**Email:** hello@tanktalks.sdfkjh.com **Subject line:** Privacy request
+
+We aim to respond within 5 business days; the legal maximum is 30 days for CCPA requests and 30 days for GDPR requests.
+
+* * *
+
+_This page is written in plain language to be useful, not to provide formal legal advice. If you operate Tank Talks at scale or take sponsored content, have a privacy lawyer review the operative document._
+
+---
+
+# Terms of service — Tank Talks
+
+Source: https://tanktalks.sdfkjh.com/legal/terms
+
+> **Plain-language summary:** Tank Talks publishes freshwater aquarium content. You're welcome to read it, share excerpts with attribution, and follow our advice in your own tank. We can't guarantee that everything you read here will work for your specific tank, so use judgment. We're a small operation, and our liability is limited. By using the Site, you accept these terms.
+
+These Terms are a starting framework appropriate to a hobbyist blog. They are not formal legal advice, and if Tank Talks ever scales, takes sponsored content, or operates in ways that materially change risk, this document should be reviewed by a qualified lawyer.
+
+## 1\. Who we are
+
+Tank Talks is an independent freshwater aquarium blog. The Site, its content, and any associated materials are operated by the owner of tanktalks.sdfkjh.com ("we," "us," or "our"). For contact: **hello@tanktalks.sdfkjh.com**.
+
+## 2\. Acceptance of these Terms
+
+By accessing or using any part of the Site, you represent that you are at least 13 years old and agree to be bound by these Terms and our [privacy policy](privacy.html). If you are accessing the Site on behalf of a company or other entity, you represent that you have authority to bind that entity to these Terms.
+
+## 3\. The Site as informational content
+
+Everything published on Tank Talks is provided for informational and educational purposes. We share what has worked in our tanks, what we have learned from reading and conversations with other hobbyists, and what is documented in publicly available scientific and government sources.
+
+**Aquarium keeping involves living animals and chemical/biological systems that vary substantially between setups.** Advice that works in one tank may not work in yours, and outcomes depend on factors we cannot see — your specific water chemistry, equipment, fish, plants, and history. You are responsible for the welfare of animals in your care.
+
+We are not veterinarians. We do not provide veterinary advice. If you have a fish or invertebrate that appears sick, the right step is to consult a qualified aquatic veterinarian rather than rely on any website, ours included.
+
+## 4\. License to use the Site
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Site for personal, non-commercial purposes. You may:
+
+-   Read articles on the Site.
+-   Share article links on social media.
+-   Quote brief excerpts (under 300 words) with attribution and a link back to the original article.
+-   Print articles for your own personal reference.
+
+You may not, without our express written permission:
+
+-   Reproduce, republish, or syndicate Tank Talks content on another website, blog, newsletter, or platform.
+-   Use Tank Talks content to train AI models or generate derivative content.
+-   Frame the Site within another website.
+-   Scrape the Site at a rate that affects performance for other users.
+-   Remove or alter any copyright notice, byline, or attribution.
+
+All Tank Talks original content — articles, illustrations, photographs we've taken, and the design of the Site itself — is copyright Tank Talks, all rights reserved, except where explicitly noted.
+
+## 5\. Third-party content and links
+
+The Site may include content from third-party sources (cited references, public-domain government materials, quoted excerpts under fair use, etc.). Such content remains the property of its respective owners and is used in accordance with applicable copyright law.
+
+The Site contains links to third-party websites and products, including affiliate links. We are not responsible for the content, accuracy, privacy practices, or terms of any third-party website. Following an affiliate link does not change the price you pay; it does pay us a small commission. See our [affiliate disclosure](disclosure.html) for the full explanation.
+
+## 6\. User-submitted content
+
+Currently, the Site does not accept user comments, reviews, or other public submissions. If we add such functionality in the future, separate community guidelines will apply.
+
+If you email us with feedback, corrections, or suggestions, you grant us a non-exclusive, royalty-free license to use that feedback to improve the Site, subject to our [privacy policy](privacy.html). We will not publish your name, email, or correspondence without your permission.
+
+## 7\. Newsletter
+
+By subscribing to the Tank Talks newsletter, you consent to receive periodic email from us at the address you provide. You may unsubscribe at any time using the link in any email or by emailing **hello@tanktalks.sdfkjh.com**. We do not sell, rent, or share the subscriber list. Full details are in our [privacy policy](privacy.html).
+
+## 8\. Affiliate links and product recommendations
+
+Tank Talks participates in the Amazon Services LLC Associates Program and may participate in other affiliate programs. As an Amazon Associate we earn from qualifying purchases.
+
+Our recommendations are based on our editorial judgment, not on commission rates. We do not accept payment in exchange for product placement. We will not recommend products we believe are unsafe or unsuitable for the use case described. Full disclosure: [affiliate disclosure](disclosure.html). Editorial standards: [editorial standards](editorial-standards.html).
+
+## 9\. No warranty
+
+The Site and all content on it are provided **"AS IS"** and **"AS AVAILABLE"**, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, or availability.
+
+We do not warrant that the Site will be uninterrupted, error-free, secure, or free of viruses or other harmful components. We do not warrant that any product we recommend will produce a particular result in your tank.
+
+You use the Site at your own risk.
+
+## 10\. Limitation of liability
+
+To the maximum extent permitted by applicable law, Tank Talks, its operators, and its contributors will not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, use, goodwill, or other intangible losses, arising out of or related to:
+
+-   Your access to or use of, or inability to access or use, the Site.
+-   Any content or conduct of any third party on or through the Site.
+-   Any decision you make based on Tank Talks content, including but not limited to decisions about animal welfare, equipment purchases, or water chemistry interventions.
+-   Unauthorized access, use, or alteration of your transmissions or content.
+
+In no event will our total liability to you for all claims arising out of or relating to the use of, or inability to use, the Site exceed one hundred U.S. dollars (USD $100), or the amount you paid us in the twelve months preceding the claim, whichever is greater. (Since Tank Talks is free to read, in most cases this means USD $100.)
+
+Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you. In such cases, our liability is limited to the maximum extent permitted by law.
+
+## 11\. Indemnification
+
+You agree to indemnify and hold harmless Tank Talks and its operators from any claim, demand, or damages, including reasonable attorneys' fees, arising out of your breach of these Terms or your misuse of the Site.
+
+## 12\. Modifications to the Site and these Terms
+
+We may update, modify, or discontinue the Site or any part of it at any time, with or without notice. We may also update these Terms from time to time. When we make material changes, we will update the "Last updated" date at the top of this page. Your continued use of the Site after a material change constitutes acceptance of the revised Terms.
+
+## 13\. Termination
+
+We reserve the right to terminate or suspend your access to the Site at our discretion, without notice, for any reason — including violation of these Terms.
+
+## 14\. Governing law and disputes
+
+These Terms are governed by the laws of the United States and the state in which the Site operator resides, without regard to conflict-of-law principles. Any dispute arising out of these Terms or your use of the Site will be resolved in the state or federal courts of that jurisdiction, and you consent to personal jurisdiction in those courts.
+
+If you live in the European Union, the United Kingdom, or another jurisdiction with mandatory consumer-protection law that overrides this clause, applicable mandatory law applies to the extent it conflicts with the above.
+
+## 15\. Severability
+
+If any provision of these Terms is found to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that the remaining Terms remain in full force and effect.
+
+## 16\. Entire agreement
+
+These Terms, together with our [privacy policy](privacy.html), [affiliate disclosure](disclosure.html), and [editorial standards](editorial-standards.html), constitute the entire agreement between you and Tank Talks regarding your use of the Site.
+
+## 17\. Contact
+
+For questions about these Terms, contact us at **hello@tanktalks.sdfkjh.com**.
+
+* * *
+
+_These Terms are a reasonable starting point for a hobbyist blog. They are not formal legal advice. Before relying on this document at scale or in connection with sponsored content, paid memberships, or any other arrangement that materially changes risk, have a qualified lawyer review and adapt them to your specific operations._
