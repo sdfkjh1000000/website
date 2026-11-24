@@ -1,4 +1,4 @@
-# Best nano fish for a 10 gallon planted tank in 2026 — Tank Talks
+# Nano fish for a 10 gallon tank: the 5 best picks (2026) | Tank Talks
 
 Source: https://tanktalks.sdfkjh.com/articles/best-nano-fish-10-gallon-planted-tank-2026
 
